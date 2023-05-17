@@ -17,13 +17,13 @@
 }
 
     // Função para criar um novo nó com as informações inseridas e com a qntDisp sendo a mesma que a qntCopias
-    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano){
+    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano){
         struct Node *node = (struct Node *)malloc(sizeof(struct Node));
         node->nome = nome;
         node->genero = genero;
         node->plataforma = plataforma;
-        node->qntCopias = copias;
-        node->qntDisp = copias;
+        node->qntCopias = 1;
+        node->qntDisp = 1;
         node->left = NULL;
         node->right = NULL;
         node->altura = 1;
@@ -71,20 +71,23 @@
     }
 
     // Função para inserir um novo nó na árvore AVL
-    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano){
+    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano){
         // Realiza a inserção do nó da mesma forma que em uma árvore binária de busca
         if (raiz == NULL){
-            return newNode(raiz, nome, genero, plataforma, copias, ano);
+            return newNode(raiz, nome, genero, plataforma, ano);
         }
         if (strncmp (raiz->nome, nome, 60) > 0){
-            raiz->left = addNode(raiz->left, nome, genero, plataforma, copias, ano);
+            raiz->left = addNode(raiz->left, nome, genero, plataforma, ano);
         }
         else if (strncmp (raiz->nome, nome, 60) < 0){
-            raiz->right = addNode(raiz->right, nome, genero, plataforma, copias, ano);
+            raiz->right = addNode(raiz->right, nome, genero, plataforma, ano);
         }
-        else // Não permite a inserção de valores duplicados
+        else {// Adciona cópia em título já existente
+            raiz->qntCopias++;
+            raiz->qntDisp++;
             return raiz;
-
+        }
+        
         // Atualiza a altura do nó atual
         raiz->altura = 1 + max(altura(raiz->left), altura(raiz->right));
 

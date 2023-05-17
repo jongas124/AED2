@@ -22,7 +22,7 @@ typedef struct Node
     int altura(struct Node *node);
 
     // Função para criar um novo nó com as informações inseridas e com a qntDisp sendo a mesma que a qntCopias
-    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano); 
+    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para realizar uma rotação simples à direita
     struct Node *rightRotate(struct Node *y);
@@ -34,7 +34,7 @@ typedef struct Node
     int getBalance(struct Node *raiz);
 
     // Função para inserir um novo nó na árvore AVL
-    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano); 
+    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para buscar um jogo específico
     struct Node busca(struct Node *raiz, char *nome);

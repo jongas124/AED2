@@ -92,6 +92,7 @@
         int balance = getBalance(raiz);
 
         // Realiza as rotações necessárias para manter a árvore balanceada
+        if (balance > 1 && strncmp (nome, raiz->right->nome, 60) > 0)
             return rotateRight(raiz);
 
         if (balance < -1 && strncmp (nome, raiz->right->nome, 60) < 0)

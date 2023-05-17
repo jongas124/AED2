@@ -1,0 +1,100 @@
+Red Dead Redemption; Ação/Aventura; PlayStation 3; 47; 2010
+Red Dead Redemption; Ação/Aventura; Xbox 360; 47; 2010
+Mass Effect 2; RPG; PC; 72; 2010
+Mass Effect 2; RPG; Xbox 360; 72; 2010
+BioShock 2; Tiro em primeira pessoa; PC; 81; 2010
+BioShock 2; Tiro em primeira pessoa; Xbox 360; 81; 2010
+Heavy Rain; Ação/Aventura; PlayStation 3; 18; 2010
+God of War III; Ação; PlayStation 3; 39; 2010
+God of War III; Ação; PlayStation 4; 39; 2010
+Call of Duty: Black Ops; Tiro em primeira pessoa; PC; 63; 2010
+Call of Duty: Black Ops; Tiro em primeira pessoa; PlayStation 3; 63; 2010
+Call of Duty: Black Ops; Tiro em primeira pessoa; Xbox 360; 63; 2010
+Halo: Reach; Tiro em primeira pessoa; Xbox 360; 57; 2010
+Alan Wake; Ação/Aventura; Xbox 360; 34; 2010
+Super Mario Galaxy 2; Plataforma; Wii; 88; 2010
+Fallout: New Vegas; RPG; PC; 66; 2010
+Fallout: New Vegas; RPG; PlayStation 3; 66; 2010
+Fallout: New Vegas; RPG; Xbox 360; 66; 2010
+Assassin's Creed: Brotherhood; Ação/Aventura; PlayStation 3; 98; 2010
+Assassin's Creed: Brotherhood; Ação/Aventura; Xbox 360; 98; 2010
+Assassin's Creed: Brotherhood; Ação/Aventura; PC; 98; 2010
+Battlefield: Bad Company 2; Tiro em primeira pessoa; PlayStation 3; 79; 2010
+Battlefield: Bad Company 2; Tiro em primeira pessoa; Xbox 360; 79; 2010
+Battlefield: Bad Company 2; Tiro em primeira pessoa; PC; 79; 2010
+Final Fantasy XIII; RPG; PlayStation 3; 49; 2010
+Final Fantasy XIII; RPG; Xbox 360; 49; 2010
+Super Meat Boy; Plataforma; Xbox 360; 25; 2010
+Super Meat Boy; Plataforma; PC; 25; 2010
+Limbo; Plataforma; Xbox 360; 11; 2010
+Limbo; Plataforma; PC; 11; 2010
+StarCraft II: Wings of Liberty; Estratégia em tempo real; PC; 62; 2010
+Metro 2033; Tiro em primeira pessoa; PC; 55; 2010
+Metro 2033; Tiro em primeira pessoa; Xbox 360; 55; 2010
+Super Street Fighter IV; Luta; PlayStation 3; 92; 2010
+Super Street Fighter IV; Luta; Xbox 360; 92; 2010
+Need for Speed: Hot Pursuit; Corrida; PlayStation 3; 73; 2010
+Need for Speed: Hot Pursuit; Corrida; Xbox 360; 73; 2010
+Need for Speed: Hot Pursuit; Corrida; PC; 73; 2010
+FIFA 11; Esportes; PlayStation 3; 40; 2010
+FIFA 11; Esportes; Xbox 360; 40; 2010
+FIFA 11; Esportes; PC; 40; 2010
+NBA 2K11; Esportes; PlayStation 3; 19; 2010
+NBA 2K11; Esportes; Xbox 360; 19; 2010
+NBA 2K11; Esportes; PC; 19; 2010
+Amnesia: The Dark Descent; Survival Horror; PC; 90; 2010
+Battlefield: Bad Company 2: Vietnam; Tiro em primeira pessoa; PC; 61; 2010
+Battlefield: Bad Company 2: Vietnam; Tiro em primeira pessoa; PlayStation 3; 61; 2010
+Battlefield: Bad Company 2: Vietnam; Tiro em primeira pessoa; Xbox 360; 61; 2010
+Star Wars: The Force Unleashed II; Ação/Aventura; PlayStation 3; 78; 2010
+Star Wars: The Force Unleashed II; Ação/Aventura; Xbox 360; 78; 2010
+Star Wars: The Force Unleashed II; Ação/Aventura; PC; 78; 2010
+Dead Rising 2; Ação/Aventura; PlayStation 3; 33; 2010
+Dead Rising 2; Ação/Aventura; Xbox 360; 33; 2010
+Dead Rising 2; Ação/Aventura; PC; 33; 2010
+Medal of Honor; Tiro em primeira pessoa; PlayStation 3; 95; 2010
+Medal of Honor; Tiro em primeira pessoa; Xbox 360; 95; 2010
+Medal of Honor; Tiro em primeira pessoa; PC; 95; 2010
+Tom Clancy's Splinter Cell: Conviction; Ação/Aventura; Xbox 360; 71; 2010
+Tom Clancy's Splinter Cell: Conviction; Ação/Aventura; PC; 71; 2010
+Alan Wake's American Nightmare; Ação/Aventura; Xbox 360; 86; 2010
+FIFA 10; Esportes; PlayStation 3; 50; 2010
+FIFA 10; Esportes; Xbox 360; 50; 2010
+FIFA 10; Esportes; PC; 50; 2010
+Dragon Age: Origins; RPG; PlayStation 3; 38; 2010
+Dragon Age: Origins; RPG; Xbox 360; 38; 2010
+Dragon Age: Origins; RPG; PC; 38; 2010
+Dead Space 2; Survival Horror; PlayStation 3; 54; 2010
+Dead Space 2; Survival Horror; Xbox 360; 54; 2010
+Dead Space 2; Survival Horror; PC; 54; 2010
+Castlevania: Lords of Shadow; Ação/Aventura; PlayStation 3; 68; 2010
+Castlevania: Lords of Shadow; Ação/Aventura; Xbox 360; 68; 2010
+Castlevania: Lords of Shadow; Ação/Aventura; PC; 68; 2010
+Mafia II; Ação/Aventura; PlayStation 3; 74; 2010
+Mafia II; Ação/Aventura; Xbox 360; 74; 2010
+Mafia II; Ação/Aventura; PC; 74; 2010
+Just Cause 2; Ação/Aventura; PlayStation 3; 29; 2010
+Just Cause 2; Ação/Aventura; Xbox 360; 29; 2010
+Just Cause 2; Ação/Aventura; PC; 29; 2010
+Fable III; RPG; Xbox 360; 84; 2010
+World of Warcraft: Cataclysm; MMORPG; PC; 67; 2010
+Super Street Fighter IV: Arcade Edition; Luta; PlayStation 3; 30; 2010
+Super Street Fighter IV: Arcade Edition; Luta; Xbox 360; 30; 2010
+Super Street Fighter IV: Arcade Edition; Luta; PC; 30; 2010
+WWE SmackDown vs. Raw 2011; Luta; PlayStation 3; 23; 2010
+WWE SmackDown vs. Raw 2011; Luta; Xbox 360; 23; 2010
+WWE SmackDown vs. Raw 2011; Luta; PlayStation 2; 23; 2010
+WWE SmackDown vs. Raw 2011; Luta; Wii; 23; 2010
+Battlefield: Bad Company 2: Ultimate Edition; Tiro em primeira pessoa; PlayStation 3; 53; 2010
+Battlefield: Bad Company 2: Ultimate Edition; Tiro em primeira pessoa; Xbox 360; 53; 2010
+Battlefield: Bad Company 2: Ultimate Edition; Tiro em primeira pessoa; PC; 53; 2010
+Mafia II: Joe's Adventures; Ação/Aventura; PlayStation 3; 59; 2010
+Mafia II: Joe's Adventures; Ação/Aventura; Xbox 360; 59; 2010
+Mafia II: Joe's Adventures; Ação/Aventura; PC; 59; 2010
+Medal of Honor: Frontline HD; Tiro em primeira pessoa; PlayStation 3; 77; 2010
+Medal of Honor: Frontline HD; Tiro em primeira pessoa; Xbox 360; 77; 2010
+Medal of Honor: Frontline HD; Tiro em primeira pessoa; PC; 77; 2010
+Star Wars: The Old Republic; MMORPG; PC; 35; 2010
+Kane & Lynch 2: Dog Days; Ação; PlayStation 3; 46; 2010
+Kane & Lynch 2: Dog Days; Ação; Xbox 360; 46; 2010
+Kane & Lynch 2: Dog Days; Ação; PC; 46; 2010

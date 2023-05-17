@@ -1,8 +1,8 @@
 typedef struct Node
 {
     //estrutura AVL
-    Node *Left;
-    Node *Right;
+    struct Node *Left;
+    struct Node *Right;
     int Altura;
     //infos
     char nome[60];
@@ -21,8 +21,8 @@ typedef struct Node
     // Função para calcular a altura de um nó
     int altura(struct Node *node);
 
-    // Função para criar um novo nó com as informações inseridas e com a qntDisp sendo a mesma que a qntCopias
-    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano); 
+    // Função para criar um novo nó com as informações inseridas
+    struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para realizar uma rotação simples à direita
     struct Node *rightRotate(struct Node *y);
@@ -34,10 +34,10 @@ typedef struct Node
     int getBalance(struct Node *raiz);
 
     // Função para inserir um novo nó na árvore AVL
-    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int copias, int ano); 
+    struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para buscar um jogo específico
-    struct Node busca(struct Node *raiz, char *nome);
+    struct Node *busca(struct Node *raiz, char *nome);
 
     // Função para encontrar o nó com o valor mínimo em uma árvore
     struct Node *minNode(struct Node *raiz);

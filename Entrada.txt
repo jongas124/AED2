@@ -80,7 +80,7 @@ Fable III; RPG; Xbox 360; 84; 2010
 World of Warcraft: Cataclysm; MMORPG; PC; 67; 2010
 Super Street Fighter IV: Arcade Edition; Luta; PlayStation 3; 30; 2010
 Super Street Fighter IV: Arcade Edition; Luta; Xbox 360; 30; 2010
-Super Street Fighter IV: Arcade Edition; Luta; PC; 30; 2010
+Super Street Fighter IV: Arcade Edition; Luta; PC; 30; 2010 
 WWE SmackDown vs. Raw 2011; Luta; PlayStation 3; 23; 2010
 WWE SmackDown vs. Raw 2011; Luta; Xbox 360; 23; 2010
 WWE SmackDown vs. Raw 2011; Luta; PlayStation 2; 23; 2010
@@ -298,3 +298,306 @@ Call of Duty: Black Ops II; Tiro em primeira pessoa; PlayStation 4; 88; 2013
 Pro Evolution Soccer 2013; Esportes; PlayStation 3; 27; 2013
 Pro Evolution Soccer 2013; Esportes; Xbox 360; 27; 2013
 Pro Evolution Soccer 2013; Esportes; PC; 27; 2013
+//2015- sem codigo aleatório
+The Witcher 3: Wild Hunt; RPG; PlayStation 4; 2015
+Metal Gear Solid V: The Phantom Pain; Ação/Aventura; PlayStation 4; 2015
+Fallout 4; RPG; PlayStation 4; 2015
+Bloodborne; Ação/RPG; PlayStation 4; 2015
+Halo 5: Guardians; Tiro em primeira pessoa; Xbox One; 2015
+The Legend of Zelda: Majora's Mask 3D; Ação/Aventura; Nintendo 3DS; 2015
+Batman: Arkham Knight; Ação/Aventura; PlayStation 4; 2015
+Call of Duty: Black Ops III; Tiro em primeira pessoa; PlayStation 4; 2015
+Star Wars Battlefront; Tiro em primeira pessoa; PlayStation 4; 2015
+Rise of the Tomb Raider; Ação/Aventura; Xbox One; 2015
+Assassin's Creed Syndicate; Ação/Aventura; PlayStation 4; 2015
+Rocket League; Esportes; PlayStation 4; 2015
+FIFA 16; Esportes; PlayStation 4; 2015
+Splatoon; Tiro em terceira pessoa; Wii U; 2015
+Mortal Kombat X; Luta; PlayStation 4; 2015
+Dying Light; Ação/Aventura; PlayStation 4; 2015
+Until Dawn; Ação/Aventura; PlayStation 4; 2015
+Forza Motorsport 6; Corrida; Xbox One; 2015
+Yoshi's Woolly World; Plataforma; Wii U; 2015
+Halo: The Master Chief Collection; Tiro em primeira pessoa; Xbox One; 2015
+Super Mario Maker; Plataforma; Wii U; 2015
+The Order: 1886; Ação/Aventura; PlayStation 4; 2015
+Splatoon 2; Tiro em terceira pessoa; Wii U; 2015
+NBA 2K16; Esportes; PlayStation 4; 2015
+Until Dawn: Rush of Blood; Ação/Aventura; PlayStation VR; 2015
+Persona 5; RPG; PlayStation 4; 2015
+Tom Clancy's Rainbow Six Siege; Tiro em primeira pessoa; PlayStation 4; 2015
+Metal Gear Solid V: Ground Zeroes; Ação/Aventura; PlayStation 4; 2015
+Destiny: The Taken King; Tiro em primeira pessoa; PlayStation 4; 2015
+Just Cause 3; Ação/Aventura; PlayStation 4; 2015
+Mad Max; Ação/Aventura; PlayStation 4; 2015
+The Elder Scrolls Online: Tamriel Unlimited; RPG; PlayStation 4; 2015
+Resident Evil Revelations 2; Survival horror; PlayStation 4; 2015
+Battlefield Hardline; Tiro em primeira pessoa; PlayStation 4; 2015
+Dragon Ball Xenoverse; Luta; PlayStation 4; 2015
+Final Fantasy Type-0 HD; RPG; PlayStation 4; 2015
+Grand Theft Auto V; Ação/Aventura; PlayStation 4; 2015
+The Division; RPG; PlayStation 4; 2015
+Battlefield 4; Tiro em primeira pessoa; PlayStation 4; 2015
+Minecraft: Story Mode; Aventura gráfica; PlayStation 4; 2015
+Diablo III: Reaper of Souls; RPG de ação; PlayStation 4; 2015
+The Crew; Corrida; PlayStation 4; 2015
+Watch Dogs; Ação/Aventura; PlayStation 4; 2015
+Need for Speed; Corrida; PlayStation 4; 2015
+Uncharted: The Nathan Drake Collection; Ação/Aventura; PlayStation 4; 2015
+Until Dawn: The Inpatient; Ação/Aventura; PlayStation VR; 2015
+Pro Evolution Soccer 2016; Esportes; PlayStation 4; 2015
+Final Fantasy XIV: Heavensward; RPG online; PlayStation 4; 2015
+Battlefield 1; Tiro em primeira pessoa; PlayStation 4; 2015
+Resident Evil 7: Biohazard; Survival horror; PlayStation 4; 2015
+Far Cry 4; Tiro em primeira pessoa; PlayStation 4; 2015
+The Sims 4; Simulação de vida; PC; 2015
+Gears of War: Ultimate Edition; Tiro em terceira pessoa; Xbox One; 2015
+Xenoblade Chronicles X; RPG; Wii U; 2015
+Until Dawn: Blood Rush; Ação/Aventura; PlayStation VR; 2015
+Tom Clancy's The Division 2; RPG; PlayStation 4; 2015
+PES 2015; Esportes; PlayStation 4; 2015
+Borderlands: The Handsome Collection; RPG de ação; PlayStation 4; 2015
+Star Wars Jedi: Fallen Order; Ação/Aventura; PlayStation 4; 2015
+Need for Speed Rivals; Corrida; PlayStation 4; 2015
+Minecraft; Sobrevivência; PC; 2015
+Mortal Kombat XL; Luta; PlayStation 4; 2015
+Deus Ex: Mankind Divided; RPG de ação; PlayStation 4; 2015
+Dragon Age: Inquisition; RPG; PlayStation 4; 2015
+Overwatch; Tiro em primeira pessoa; PC; 2015
+FIFA 15; Esportes; PlayStation 4; 2015
+Far Cry Primal; Tiro em primeira pessoa; PlayStation 4; 2015
+Wolfenstein: The Old Blood; Tiro em primeira pessoa; PlayStation 4; 2015
+Assassin's Creed IV: Black Flag; Ação/Aventura; PlayStation 4; 2015
+Mirror's Edge Catalyst; Ação/Aventura; PlayStation 4; 2015
+Dark Souls III; RPG de ação; PlayStation 4; 2015
+Far Cry 3; Tiro em primeira pessoa; PlayStation 3; 2015
+Resident Evil HD Remaster; Survival horror; PlayStation 4; 2015
+Dishonored 2; Ação/Aventura; PlayStation 4; 2015
+Middle-earth: Shadow of Mordor; Ação/Aventura; PlayStation 4; 2015
+The Last of Us Remastered; Ação/Aventura; PlayStation 4; 2015
+The Elder Scrolls V: Skyrim Special Edition; RPG; PlayStation 4; 2015
+Assassin's Creed Unity; Ação/Aventura; PlayStation 4; 2015
+Resident Evil 2 Remake; Survival horror; PlayStation 4; 2015
+Batman: Arkham Origins; Ação/Aventura; PlayStation 4; 2015
+Fallout 3; RPG; PlayStation 3; 2015
+Battlefield V; Tiro em primeira pessoa; PlayStation 4; 2015
+Ghost of Tsushima; Ação/Aventura; PlayStation 4; 2015
+Tom Clancy's Ghost Recon Wildlands; Tiro em terceira pessoa; PlayStation 4; 2015
+Hitman; Stealth; PlayStation 4; 2015
+StarCraft II: Legacy of the Void; Estratégia em tempo real; PC; 2015
+Pokémon Super Mystery Dungeon; RPG; Nintendo 3DS; 2015
+Grand Theft Auto: San Andreas; Ação/Aventura; PlayStation 3; 2015
+Doom; Tiro em primeira pessoa; PlayStation 4; 2015
+Saints Row IV; Ação/Aventura; PlayStation 4; 2015
+Assassin's Creed Rogue; Ação/Aventura; PlayStation 3; 2015
+Metro Exodus; Tiro em primeira pessoa; PlayStation 4; 2015
+World of Warcraft: Legion; RPG online; PC; 2015
+The Legend of Zelda: Twilight Princess HD; Ação/Aventura; Wii U; 2015
+Batman: Arkham City; Ação/Aventura; PlayStation 3; 2015
+Resident Evil 6; Survival horror; PlayStation 4; 2015
+Far Cry 5; Tiro em primeira pessoa; PlayStation 4; 2015
+Mortal Kombat 11; Luta; PlayStation 4; 2015
+Diablo III; RPG de ação; PlayStation 4; 2015
+Until Dawn: The Persistence; Ação/Aventura; PlayStation VR; 2015
+//2017 sem codigo aleatorio
+The Legend of Zelda: Breath of the Wild; Aventura; Nintendo Switch; 2017
+Super Mario Odyssey; Plataforma; Nintendo Switch; 2017
+Horizon Zero Dawn; Ação/Aventura; PlayStation 4; 2017
+PlayerUnknown's Battlegrounds; Battle Royale; PC; 2017
+Persona 5; RPG; PlayStation 4; 2017
+Cuphead; Plataforma; Xbox One; 2017
+Resident Evil 7: Biohazard; Survival Horror; PlayStation 4; 2017
+Nier: Automata; RPG de Ação; PlayStation 4; 2017
+Assassin's Creed Origins; Ação/Aventura; PlayStation 4; 2017
+Splatoon 2; Tiro; Nintendo Switch; 2017
+Destiny 2; Tiro; PlayStation 4; 2017
+Wolfenstein II: The New Colossus; Tiro em primeira pessoa; PlayStation 4; 2017
+Call of Duty: WWII; Tiro em primeira pessoa; PlayStation 4; 2017
+Fortnite; Battle Royale; PlayStation 4; 2017
+Injustice 2; Luta; PlayStation 4; 2017
+Uncharted: The Lost Legacy; Ação/Aventura; PlayStation 4; 2017
+Crash Bandicoot N. Sane Trilogy; Plataforma; PlayStation 4; 2017
+Gran Turismo Sport; Corrida; PlayStation 4; 2017
+Middle-earth: Shadow of War; Ação/Aventura; PlayStation 4; 2017
+Tom Clancy's Ghost Recon Wildlands; Tiro em terceira pessoa; PlayStation 4; 2017
+Overwatch; Tiro em equipe; PC; 2017
+Forza Motorsport 7; Corrida; Xbox One; 2017
+Marvel vs. Capcom: Infinite; Luta; PlayStation 4; 2017
+Prey; Tiro em primeira pessoa; PlayStation 4; 2017
+Final Fantasy XIV: Stormblood; MMORPG; PC; 2017
+Stardew Valley; Simulação; PC; 2017
+Tom Clancy's The Division; Tiro em terceira pessoa; PlayStation 4; 2017
+Yakuza 0; Ação/Aventura; PlayStation 4; 2017
+Madden NFL 18; Esportes; PlayStation 4; 2017
+Tekken 7; Luta; PlayStation 4; 2017
+FIFA 18; Esportes; PlayStation 4; 2017
+Xenoblade Chronicles 2; RPG; Nintendo Switch; 2017
+South Park: The Fractured But Whole; RPG; PlayStation 4; 2017
+The Evil Within 2; Survival Horror; PlayStation 4; 2017
+ARMS; Luta; Nintendo Switch; 2017
+Sonic Mania; Plataforma; PlayStation 4; 2017
+Dishonored: Death of the Outsider; Ação/Aventura; PlayStation 4; 2017
+Fire Emblem Warriors; Hack and Slash; Nintendo Switch; 2017
+NieR Replicant ver.1.22474487139...; RPG de Ação; PlayStation 4; 2017
+Destiny 2: Curse of Osiris; Tiro; PlayStation 4; 2017
+Mario + Rabbids Kingdom Battle; Estratégia; Nintendo Switch; 2017
+Hellblade: Senua's Sacrifice; Ação/Aventura; PlayStation 4; 2017
+Nioh; RPG de Ação; PlayStation 4; 2017
+Metroid: Samus Returns; Ação/Aventura; Nintendo 3DS; 2017
+Need for Speed Payback; Corrida; PlayStation 4; 2017
+Little Nightmares; Plataforma; PlayStation 4; 2017
+ARK: Survival Evolved; Sobrevivência; PC; 2017
+Crash Team Racing Nitro-Fueled; Corrida; PlayStation 4; 2017
+Madden NFL 17; Esportes; PlayStation 4; 2017
+Life is Strange: Before the Storm; Aventura Gráfica; PlayStation 4; 2017
+Dragon Ball FighterZ; Luta; PlayStation 4; 2017
+Divinity: Original Sin II; RPG; PC; 2017
+Sonic Forces; Plataforma; PlayStation 4; 2017
+Far Cry 5; Tiro em primeira pessoa; PlayStation 4; 2017
+Sniper Elite 4; Tiro em terceira pessoa; PlayStation 4; 2017
+Tom Clancy's Rainbow Six Siege; Tiro em equipe; PC; 2017
+Ghost Recon: Wildlands; Tiro em terceira pessoa; PlayStation 4; 2017
+Dark Souls III: The Ringed City; RPG de Ação; PlayStation 4; 2017
+The Elder Scrolls V: Skyrim; RPG de Ação; Nintendo Switch; 2017
+Madden NFL 16; Esportes; PlayStation 4; 2017
+Final Fantasy XII: The Zodiac Age; RPG; PlayStation 4; 2017
+The Surge; RPG de Ação; PlayStation 4; 2017
+Little Nightmares: Secrets of The Maw; Plataforma; PlayStation 4; 2017
+Wipeout Omega Collection; Corrida; PlayStation 4; 2017
+Dragon Quest XI; RPG; PlayStation 4; 2017
+Diablo III: Rise of the Necromancer; RPG de Ação; PlayStation 4; 2017
+FIFA 17; Esportes; PlayStation 4; 2017
+South Park: Phone Destroyer; Estratégia; Android/iOS; 2017
+Final Fantasy XV: Episode Prompto; RPG de Ação; PlayStation 4; 2017
+Outlast 2; Survival Horror; PlayStation 4; 2017
+WWE 2K18; Luta; PlayStation 4; 2017
+Dragon's Dogma: Dark Arisen; RPG de Ação; PlayStation 4; 2017
+Madden NFL 15; Esportes; PlayStation 4; 2017
+The Witcher 3: Wild Hunt - Blood and Wine; RPG de Ação; PlayStation 4; 2017
+FIFA 16; Esportes; PlayStation 4; 2017
+Overwatch: Game of the Year Edition; Tiro em equipe; PC; 2017
+The Elder Scrolls: Legends; Estratégia; PC; 2017
+Minecraft: Story Mode - Season Two; Aventura Gráfica; PlayStation 4; 2017
+Kingdom Hearts HD 1.5 + 2.5 Remix; RPG de Ação; PlayStation 4; 2017
+LEGO Marvel Super Heroes 2; Ação/Aventura; PlayStation 4; 2017
+PES 2018; Esportes; PlayStation 4; 2017
+Star Wars Battlefront II; Tiro em primeira pessoa; PlayStation 4; 2017
+Final Fantasy XV: Comrades; RPG de Ação; PlayStation 4; 2017
+Hitman: The Complete First Season; Ação/Aventura; PlayStation 4; 2017
+Cities: Skylines; Simulação; PlayStation 4; 2017
+Watch Dogs 2; Ação/Aventura; PlayStation 4; 2017
+Resident Evil 7: Biohazard - End of Zoe; Survival Horror; PlayStation 4; 2017
+Middle-earth: Shadow of War - The Blade of Galadriel; Ação/Aventura; PlayStation 4; 2017
+Outlast Trinity; Survival Horror; PlayStation 4; 2017
+LEGO City Undercover; Ação/Aventura; PlayStation 4; 2017
+NBA 2K18; Esportes; PlayStation 4; 2017
+Final Fantasy XV: Episode Ignis; RPG de Ação; PlayStation 4; 2017
+Agents of Mayhem; Ação/Aventura; PlayStation 4; 2017
+The Elder Scrolls Online: Morrowind; MMORPG; PlayStation 4; 2017
+The Sims 4; Simulação; PlayStation 4; 2017
+Minecraft: Story Mode - Season One; Aventura Gráfica; PlayStation 4; 2017
+Marvel's Guardians of the Galaxy: The Telltale Series; Aventura Gráfica; PlayStation 4; 2017
+Titanfall 2; Tiro em primeira pessoa; PlayStation 4; 2017
+Crash Bandicoot N. Sane Trilogy; Plataforma; PlayStation 4; 2017
+Gran Turismo Sport; Corrida; PlayStation 4; 2017
+//2019 sem código aleatório
+Sekiro: Shadows Die Twice; Ação-aventura; PlayStation 4; 2019
+Resident Evil 2; Survival horror; PlayStation 4; 2019
+Devil May Cry 5; Hack and slash; PlayStation 4; 2019
+Death Stranding; Ação; PlayStation 4; 2019
+Control; Ação-aventura; PlayStation 4; 2019
+The Outer Worlds; RPG; PlayStation 4; 2019
+Borderlands 3; RPG de tiro; PlayStation 4; 2019
+Tom Clancy's The Division 2; RPG de ação; PlayStation 4; 2019
+Mortal Kombat 11; Luta; PlayStation 4; 2019
+Gears 5; Tiro em terceira pessoa; Xbox One; 2019
+Call of Duty: Modern Warfare; Tiro em primeira pessoa; PlayStation 4; 2019
+Star Wars Jedi: Fallen Order; Ação-aventura; PlayStation 4; 2019
+Metro Exodus; Tiro em primeira pessoa; PlayStation 4; 2019
+Apex Legends; Battle royale; PlayStation 4; 2019
+Luigi's Mansion 3; Ação-aventura; Nintendo Switch; 2019
+Pokémon Sword and Shield; RPG; Nintendo Switch; 2019
+Fire Emblem: Three Houses; RPG tático; Nintendo Switch; 2019
+Super Mario Maker 2; Plataforma; Nintendo Switch; 2019
+FIFA 20; Esporte; PlayStation 4; 2019
+NBA 2K20; Esporte; PlayStation 4; 2019
+Madden NFL 20; Esporte; PlayStation 4; 2019
+Pro Evolution Soccer 2020; Esporte; PlayStation 4; 2019
+Crash Team Racing Nitro-Fueled; Corrida; PlayStation 4; 2019
+The Legend of Zelda: Link's Awakening; Ação-aventura; Nintendo Switch; 2019
+Call of Duty: Black Ops 4; Tiro em primeira pessoa; PlayStation 4; 2019
+Anthem; RPG de ação; PlayStation 4; 2019
+Far Cry New Dawn; Tiro em primeira pessoa; PlayStation 4; 2019
+Rage 2; Tiro em primeira pessoa; PlayStation 4; 2019
+A Plague Tale: Innocence; Ação-aventura; PlayStation 4; 2019
+Days Gone; Ação-aventura; PlayStation 4; 2019
+Metro: Last Light Redux; Tiro em primeira pessoa; PC; 2019
+Battlefield V; Tiro em primeira pessoa; PlayStation 4; 2019
+Assassin's Creed Odyssey; RPG de ação; PlayStation 4; 2019
+Kingdom Hearts III; RPG de ação; PlayStation 4; 2019
+The Division 2; RPG de ação; PC; 2019
+Mortal Kombat 11; Luta; PC; 2019
+Apex Legends; Battle royale; PC; 2019
+Control; Ação-aventura; PC; 2019
+Borderlands 3; RPG de tiro; PC; 2019
+Sekiro: Shadows Die Twice; Ação-aventura; PC; 2019
+Resident Evil 2; Survival horror; PC; 2019
+Devil May Cry 5; Hack and slash; PC; 2019
+Death Stranding; Ação; PC; 2019
+The Outer Worlds; RPG; PC; 2019
+Star Wars Jedi: Fallen Order; Ação-aventura; PC; 2019
+Tom Clancy's The Division 2; RPG de ação; PC; 2019
+Gears 5; Tiro em terceira pessoa; PC; 2019
+Call of Duty: Modern Warfare; Tiro em primeira pessoa; PC; 2019
+Metro Exodus; Tiro em primeira pessoa; PC; 2019
+Far Cry New Dawn; Tiro em primeira pessoa; PC; 2019
+Rage 2; Tiro em primeira pessoa; PC; 2019
+A Plague Tale: Innocence; Ação-aventura; PC; 2019
+Days Gone; Ação-aventura; PC; 2019
+FIFA 20; Esporte; PC; 2019
+NBA 2K20; Esporte; PC; 2019
+Madden NFL 20; Esporte; PC; 2019
+Pro Evolution Soccer 2020; Esporte; PC; 2019
+Crash Team Racing Nitro-Fueled; Corrida; PlayStation 4; 2019
+The Legend of Zelda: Link's Awakening; Ação-aventura; PC; 2019
+Call of Duty: Black Ops 4; Tiro em primeira pessoa; PC; 2019
+Anthem; RPG de ação; PC; 2019
+Metro: Last Light Redux; Tiro em primeira pessoa; Xbox One; 2019
+Battlefield V; Tiro em primeira pessoa; Xbox One; 2019
+Assassin's Creed Odyssey; RPG de ação; Xbox One; 2019
+Kingdom Hearts III; RPG de ação; Xbox One; 2019
+The Division 2; RPG de ação; Xbox One; 2019
+Mortal Kombat 11; Luta; Xbox One; 2019
+Apex Legends; Battle royale; Xbox One; 2019
+Control; Ação-aventura; Xbox One; 2019
+Borderlands 3; RPG de tiro; Xbox One; 2019
+Sekiro: Shadows Die Twice; Ação-aventura; Xbox One; 2019
+Resident Evil 2; Survival horror; Xbox One; 2019
+Devil May Cry 5; Hack and slash; Xbox One; 2019
+Death Stranding; Ação; Xbox One; 2019
+The Outer Worlds; RPG; Xbox One; 2019
+Star Wars Jedi: Fallen Order; Ação-aventura; Xbox One; 2019
+Tom Clancy's The Division 2; RPG de ação; Xbox One; 2019
+Gears 5; Tiro em terceira pessoa; Xbox One; 2019
+Call of Duty: Modern Warfare; Tiro em primeira pessoa; Xbox One; 2019
+Metro Exodus; Tiro em primeira pessoa; Xbox One; 2019
+Far Cry New Dawn; Tiro em primeira pessoa; Xbox One; 2019
+Rage 2; Tiro em primeira pessoa; Xbox One; 2019
+A Plague Tale: Innocence; Ação-aventura; Xbox One; 2019
+Days Gone; Ação-aventura; Xbox One; 2019
+FIFA 20; Esporte; Xbox One; 2019
+NBA 2K20; Esporte; Xbox One; 2019
+Madden NFL 20; Esporte; Xbox One; 2019
+Pro Evolution Soccer 2020; Esporte; Xbox One; 2019
+Crash Team Racing Nitro-Fueled; Corrida; Xbox One; 2019
+Metro: Last Light Redux; Tiro em primeira pessoa; PlayStation 3; 2019
+Battlefield V; Tiro em primeira pessoa; PlayStation 3; 2019
+Assassin's Creed Odyssey; RPG de ação; PlayStation 3; 2019
+Kingdom Hearts III; RPG de ação; PlayStation 3; 2019
+The Division 2; RPG de ação; PlayStation 3; 2019
+Mortal Kombat 11; Luta; PlayStation 3; 2019
+Control; Ação-aventura; PlayStation 3; 2019
+Borderlands 3; RPG de tiro; PlayStation 3; 2019
+Sekiro: Shadows Die Twice; Ação-aventura; PlayStation 3; 2019
+Resident Evil 2; Survival horror; PlayStation 3; 2019
+Devil May Cry 5; Hack and slash; PlayStation 3; 2019

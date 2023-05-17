@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "arvoreAVL.h"
 
 //Funções de Árvore
@@ -9,8 +10,8 @@
         return (a > b) ? a : b;
     }
 
-    // Função para calcular a altura de um nó
-    int altura(struct Node *node) {
+    // Função para calcular a Altura de um nó
+    int Altura(struct Node *node) {
         if (node == NULL)
             return 0;
         return node->Altura;
@@ -19,45 +20,45 @@
     // Função para criar um novo nó com as informações inseridas e com a qntDisp sendo a mesma que a qntCopias
     struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano){
         struct Node *node = (struct Node *)malloc(sizeof(struct Node));
-        node->nome = nome;
-        node->genero = genero;
-        node->plataforma = plataforma;
+        strcpy(node->nome, nome);
+        strcpy(node->genero, genero);
+        strcpy(node->plataforma, plataforma);
         node->qntCopias = 1;
         node->qntDisp = 1;
-        node->left = NULL;
-        node->right = NULL;
-        node->altura = 1;
+        node->Left = NULL;
+        node->Right = NULL;
+        node->Altura = 1;
     return node;
     } 
 
     // Função para realizar uma rotação simples à direita
-    struct Node *rightRotate(struct Node *y){
-        struct Node *x = y->left;
-        struct Node *T2 = x->right;
+    struct Node *RightRotate(struct Node *y){
+        struct Node *x = y->Left;
+        struct Node *T2 = x->Right;
 
         // Realiza a rotação
-        x->right = y;
-        y->left = T2;
+        x->Right = y;
+        y->Left = T2;
 
-        // Atualiza as alturas dos nós
-        y->altura = max(altura(y->left), altura(y->right)) + 1;
-        x->altura = max(altura(x->left), altura(x->right)) + 1;
+        // Atualiza as Alturas dos nós
+        y->Altura = max(Altura(y->Left), Altura(y->Right)) + 1;
+        x->Altura = max(Altura(x->Left), Altura(x->Right)) + 1;
 
         return x;
     }
 
     // Função para realizar uma rotação simples à esquerda
-    struct Node *leftRotate(struct Node *x){
-        struct Node *y = x->right;
-        struct Node *T2 = y->left;
+    struct Node *LeftRotate(struct Node *x){
+        struct Node *y = x->Right;
+        struct Node *T2 = y->Left;
 
         // Realiza a rotação
-        y->left = x;
-        x->right = T2;
+        y->Left = x;
+        x->Right = T2;
 
-        // Atualiza as alturas dos nós
-        x->altura = max(altura(x->left), altura(x->right)) + 1;
-        y->altura = max(altura(y->left), altura(y->right)) + 1;
+        // Atualiza as Alturas dos nós
+        x->Altura = max(Altura(x->Left), Altura(x->Right)) + 1;
+        y->Altura = max(Altura(y->Left), Altura(y->Right)) + 1;
 
         return y;
     }
@@ -67,7 +68,7 @@
         if (raiz == NULL){
             return 0;
         }
-        return altura(raiz->left) - altura(raiz->right);
+        return Altura(raiz->Left) - Altura(raiz->Right);
     }
 
     // Função para inserir um novo nó na árvore AVL
@@ -77,10 +78,10 @@
             return newNode(raiz, nome, genero, plataforma, ano);
         }
         if (strncmp (raiz->nome, nome, 60) > 0){
-            raiz->left = addNode(raiz->left, nome, genero, plataforma, ano);
+            raiz->Left = addNode(raiz->Left, nome, genero, plataforma, ano);
         }
         else if (strncmp (raiz->nome, nome, 60) < 0){
-            raiz->right = addNode(raiz->right, nome, genero, plataforma, ano);
+            raiz->Right = addNode(raiz->Right, nome, genero, plataforma, ano);
         }
         else {// Adciona cópia em título já existente
             raiz->qntCopias++;
@@ -88,27 +89,27 @@
             return raiz;
         }
         
-        // Atualiza a altura do nó atual
-        raiz->altura = 1 + max(altura(raiz->left), altura(raiz->right));
+        // Atualiza a Altura do nó atual
+        raiz->Altura = 1 + max(Altura(raiz->Left), Altura(raiz->Right));
 
         // Calcula o fator de balanceamento do nó atual
         int balance = getBalance(raiz);
 
         // Realiza as rotações necessárias para manter a árvore balanceada
-        if (balance > 1 && strncmp (nome, raiz->right->nome, 60) > 0)
-            return rotateRight(raiz);
+        if (balance > 1 && strncmp (nome, raiz->Right->nome, 60) > 0)
+            return RightRotate(raiz);
 
-        if (balance < -1 && strncmp (nome, raiz->right->nome, 60) < 0)
-            return rotateLeft(raiz);
+        if (balance < -1 && strncmp (nome, raiz->Right->nome, 60) < 0)
+            return LeftRotate(raiz);
 
-        if (balance > 1 && strncmp (nome, raiz->left->nome, 60) < 0) {
-            raiz->left = rotateLeft(raiz->left);
-            return rotateRight(raiz);
+        if (balance > 1 && strncmp (nome, raiz->Left->nome, 60) < 0) {
+            raiz->Left = LeftRotate(raiz->Left);
+            return RightRotate(raiz);
         }
 
-        if (balance < -1 && strncmp (nome, raiz->right->nome, 60) > 0) {
-            raiz->right = rotateRight(raiz->right);
-            return rotateLeft(raiz);
+        if (balance < -1 && strncmp (nome, raiz->Right->nome, 60) > 0) {
+            raiz->Right = RightRotate(raiz->Right);
+            return LeftRotate(raiz);
         }
         return raiz;
     } 
@@ -120,10 +121,10 @@
 	            return raiz;
 	        }
 	        if (strncmp (raiz->nome, nome, 60) > 0){
-		        busca(raiz->left, nome);
+		        busca(raiz->Left, nome);
             }	        
 	        if (strncmp (raiz->nome, nome, 60) < 0){
-                busca(raiz->right, nome);
+                busca(raiz->Right, nome);
             }
         }else            
             return NULL;
@@ -133,25 +134,25 @@
     // Função para encontrar o nó com o valor mínimo em uma árvore
     struct Node *minNode(struct Node *raiz){
         struct Node *atual = raiz;    
-        while (atual->left != NULL)
-            atual = atual->left;    
+        while (atual->Left != NULL)
+            atual = atual->Left;    
         return atual;
     }
 
     // Função para remover um nó de uma árvore AVL
-    struct Node *deleteNode(struct Node *raiz, char *nome, char *plataforma){
+    struct Node *deleteNode(struct Node *raiz, char *nome){
         // Realiza a remoção como em uma árvore de busca binária
         if (raiz == NULL)
             return raiz;
         if (strcmp(nome, raiz->nome)>0)
-            raiz->left = deleteNode(raiz->left, nome);
+            raiz->Left = deleteNode(raiz->Left, nome);
         else if (strcmp(nome, raiz->nome)<0)
-            raiz->right = deleteNode(raiz->right, nome);
+            raiz->Right = deleteNode(raiz->Right, nome);
         else {
             // O nó a ser removido foi encontrado
             // Caso 1: O nó não possui filhos ou possui apenas um filho
-            if (raiz->left == NULL || raiz->right == NULL) {
-                struct Node *temp = raiz->left ? raiz->left : raiz->right;
+            if (raiz->Left == NULL || raiz->Right == NULL) {
+                struct Node *temp = raiz->Left ? raiz->Left : raiz->Right;
                 // Caso de nenhum filho            
                 if (temp == NULL) {
                     temp = raiz;
@@ -161,16 +162,16 @@
                 free(temp);
             } else {
                 // Caso 2: O nó possui dois filhos
-                struct Node *temp = minNode(raiz->right);
+                struct Node *temp = minNode(raiz->Right);
                 // Copia o valor do nó mínimo encontrado para o nó atual
-                raiz->nome = temp->nome;
-                raiz->genero = temp->genero;
-                raiz->plataforma = temp->plataforma;
+                strcpy(raiz->nome, temp->nome);
+                strcpy(raiz->genero, temp->genero);
+                strcpy(raiz->plataforma, temp->plataforma);
                 raiz->qntCopias = temp->qntCopias;
                 raiz->qntDisp = temp->qntDisp;
                 raiz->anoLanc = temp->anoLanc;
                 // Remove o nó mínimo encontrado na subárvore da direita
-                raiz->right = deleteNode(raiz->right, temp->nome);
+                raiz->Right = deleteNode(raiz->Right, temp->nome);
             }
         }
 
@@ -178,24 +179,24 @@
         if (raiz == NULL)
             return raiz;
 
-        // Atualiza a altura do nó atual
-        raiz->altura = 1 + max(altura(raiz->left), altura(raiz->right));
+        // Atualiza a Altura do nó atual
+        raiz->Altura = 1 + max(Altura(raiz->Left), Altura(raiz->Right));
 
         // Verifica o fator de balanceamento do nó
         int balance = getBalance(raiz);
 
         // Casos de rotação para balanceamento
-        if (balance > 1 && getBalance(raiz->left) >= 0)
-            return rightRotate(raiz);
-        if (balance > 1 && getBalance(raiz->left) < 0) {
-            raiz->left = leftRotate(raiz->left);
-            return rightRotate(raiz);
+        if (balance > 1 && getBalance(raiz->Left) >= 0)
+            return RightRotate(raiz);
+        if (balance > 1 && getBalance(raiz->Left) < 0) {
+            raiz->Left = LeftRotate(raiz->Left);
+            return RightRotate(raiz);
         }
-        if (balance < -1 && getBalance(raiz->right) <= 0)
-            return leftRotate(raiz);
-        if (balance < -1 && getBalance(raiz->right) > 0) {
-            raiz->right = rightRotate(raiz->right);
-            return leftRotate(raiz);
+        if (balance < -1 && getBalance(raiz->Right) <= 0)
+            return LeftRotate(raiz);
+        if (balance < -1 && getBalance(raiz->Right) > 0) {
+            raiz->Right = RightRotate(raiz->Right);
+            return LeftRotate(raiz);
         }
         return raiz;
     }

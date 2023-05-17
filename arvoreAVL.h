@@ -1,8 +1,8 @@
 typedef struct Node
 {
     //estrutura AVL
-    Node *Left;
-    Node *Right;
+    struct Node *Left;
+    struct Node *Right;
     int Altura;
     //infos
     char nome[60];
@@ -37,7 +37,7 @@ typedef struct Node
     struct Node *addNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para buscar um jogo específico
-    struct Node busca(struct Node *raiz, char *nome);
+    struct Node *busca(struct Node *raiz, char *nome);
 
     // Função para encontrar o nó com o valor mínimo em uma árvore
     struct Node *minNode(struct Node *raiz);

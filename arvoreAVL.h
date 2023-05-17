@@ -21,7 +21,7 @@ typedef struct Node
     // Função para calcular a altura de um nó
     int altura(struct Node *node);
 
-    // Função para criar um novo nó com as informações inseridas e com a qntDisp sendo a mesma que a qntCopias
+    // Função para criar um novo nó com as informações inseridas
     struct Node *newNode(struct Node *raiz, char *nome, char *genero, char *plataforma, int ano); 
 
     // Função para realizar uma rotação simples à direita

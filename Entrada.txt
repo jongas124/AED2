@@ -1,3 +1,83 @@
+1;Assassin's Creed II;Ação-Aventura;PlayStation 3;15;2009
+1;Assassin's Creed II;Ação-Aventura;Xbox 360;31;2009
+1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 3;130;2009
+1;Batman: Arkham Asylum;Ação-Aventura;Xbox 360;69;2009
+1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 3;170;2009
+1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox 360;148;2009
+1;Dragon Age: Origins;RPG;PlayStation 3;109;2009
+1;Dragon Age: Origins;RPG;Xbox 360;87;2009
+1;FIFA 10;Esportes;PlayStation 3;224;2009
+1;FIFA 10;Esportes;Xbox 360;100;2009
+1;Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;PlayStation 3;112;2009
+1;Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;Xbox 360;196;2009
+1;Halo 3: ODST;Tiro em primeira pessoa;Xbox 360;82;2009
+1;Infamous;Ação-Aventura;PlayStation 3;127;2009
+1;Left 4 Dead 2;Tiro em primeira pessoa;Xbox 360;147;2009
+1;Resident Evil 5;Ação-Aventura;PlayStation 3;82;2009
+1;Resident Evil 5;Ação-Aventura;Xbox 360;103;2009
+1;Uncharted 2: Among Thieves;Ação-Aventura;PlayStation 3;51;2009
+1;Borderlands;RPG de ação;PlayStation 3;201;2009
+1;Borderlands;RPG de ação;Xbox 360;223;2009
+1;Bayonetta;Ação;PlayStation 3;45;2009
+1;Bayonetta;Ação;Xbox 360;124;2009
+1;Street Fighter IV;Luta;PlayStation 3;24;2009
+1;Street Fighter IV;Luta;Xbox 360;134;2009
+1;BioShock 2;Tiro em primeira pessoa;PlayStation 3;123;2009
+1;BioShock 2;Tiro em primeira pessoa;Xbox 360;204;2009
+1;Assassin's Creed: Bloodlines;Ação-Aventura;PlayStation Portable (PSP);166;2009
+1;FIFA 10;Esportes;PlayStation 2;205;2009
+1;Need for Speed: Shift;Corrida;PlayStation 3;196;2009
+1;Need for Speed: Shift;Corrida;Xbox 360;34;2009
+1;Forza Motorsport 3;Corrida;Xbox 360;76;2009
+1;God of War Collection;Ação-Aventura;PlayStation 3;181;2009
+1;Madden NFL 10;Esportes;PlayStation 3;108;2009
+1;Madden NFL 10;Esportes;Xbox 360;89;2009
+1;Pro Evolution Soccer 2010;Esportes;PlayStation 3;161;2009
+1;Pro Evolution Soccer 2010;Esportes;Xbox 360;43;2009
+1;Red Faction: Guerrilla;Tiro em terceira pessoa;PlayStation 3;31;2009
+1;Red Faction: Guerrilla;Tiro em terceira pessoa;Xbox 360;126;2009
+1;Saints Row 2;Ação-Aventura;PlayStation 3;115;2009
+1;Saints Row 2;Ação-Aventura;Xbox 360;155;2009
+1;The Sims 3;Simulação de vida;PC;179;2009
+1;Ratchet & Clank Future: A Crack in Time;Plataforma;PlayStation 3;83;2009
+1;Batman: Arkham Asylum;Ação-Aventura;PC;114;2009
+1;The Sims 3: World Adventures;Simulação de vida;PC;136;2009
+1;Left 4 Dead 2;Tiro em primeira pessoa;PC;9;2009
+1;Street Fighter IV;Luta;PC;17;2009
+1;Torchlight;RPG de ação;PC;93;2009
+1;Resident Evil 5;Ação-Aventura;PC;15;2009
+1;Prototype;Ação-Aventura;PlayStation 3;30;2009
+1;Prototype;Ação-Aventura;Xbox 360;37;2009
+1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PlayStation 3;33;2009
+1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;Xbox 360;88;2009
+1;Dragon Age: Origins;RPG;PC;49;2009
+1;Borderlands;RPG de ação;PC;103;2009
+1;Halo 3: ODST;Tiro em primeira pessoa;Xbox One;29;2009
+1;FIFA 10;Esportes;Xbox One;17;2009
+1;Assassin's Creed II;Ação-Aventura;Xbox One;207;2009
+1;Batman: Arkham Asylum;Ação-Aventura;Xbox One;228;2009
+1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox One;218;2009
+1;Dragon Age: Origins;RPG;Xbox One;47;2009
+1;FIFA 10;Esportes;PlayStation 4;224;2009
+1;Assassin's Creed II;Ação-Aventura;PlayStation 4;72;2009
+1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 4;217;2009
+1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 4;192;2009
+1;Dragon Age: Origins;RPG;PlayStation 4;165;2009
+1;FIFA 10;Esportes;PlayStation 5;139;2009
+1;Assassin's Creed II;Ação-Aventura;PlayStation 5;34;2009
+1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 5;63;2009
+1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 5;168;2009
+1;Dragon Age: Origins;RPG;PlayStation 5;94;2009
+1;FIFA 10;Esportes;PC;9;2009
+1;Dragon Age: Origins;RPG;PC;63;2009
+1;Left 4 Dead 2;Tiro em primeira pessoa;PC;102;2009
+1;Street Fighter IV;Luta;PC;94;2009
+1;Borderlands;RPG de ação;PC;230;2009
+1;Resident Evil 5;Ação-Aventura;PC;64;2009
+1;Prototype;Ação-Aventura;PC;144;2009
+1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PC;57;2009
+1;Torchlight;RPG de ação;PC;48;2009
+1;Need for Speed: Shift;Corrida;PC;50;2009
 1;Red Dead Redemption;Ação/Aventura;PlayStation 3;146;2010
 1;Red Dead Redemption;Ação/Aventura;Xbox 360;112;2010
 1;Mass Effect 2;RPG;PC;139;2010

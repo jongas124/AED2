@@ -207,7 +207,17 @@
 
     // Função para imprimir dados de um jogo
     void impressaoJogo(struct Node *jogo){
-
+        if(jogo!=NULL){
+            printf("\t\tDADOS DO JOGO \n");
+            printf("Nome: %s\n", jogo->nome);
+            printf("Genero: %s\n",jogo->genero);
+            printf("Plataforma: %s\n", jogo->plataforma);
+            printf("Copias Disponiveis: %d\n", jogo->qntDisp);
+            printf("Copias Totais: %d\n", jogo->qntCopias);
+            printf("Ano de Lancamento: %d\n\n",jogo->anoLanc);
+        }
+        else
+            printf("Jogo nao encontrado\n");
     }
 
     // Função para imprimir somente nome de jogos por gênero
@@ -227,10 +237,20 @@
 
     // Função para alugar um jogo
     void alugarJogo(struct Node *jogo){
-
+        if(jogo!=NULL){
+            jogo->qntDisp--;
+        }
+        if(*jogo==NULL){
+            printf("Jogo nao encontrado\n");
+        }
     }
 
     // Função para devolver um jogo
     void devolverJogo(struct Node *jogo){
-
+        if(jogo!=NULL){
+            jogo->qntDisp++;
+        }
+        if(jogo==NULL){
+            printf("Jogo nao encontrado\n");
+        }
     }

@@ -96,6 +96,76 @@
 1;Kane & Lynch 2: Dog Days;Ação;PlayStation 3;13;2010
 1;Kane & Lynch 2: Dog Days;Ação;Xbox 360;112;2010
 1;Kane & Lynch 2: Dog Days;Ação;PC;169;2010
+1;Assassin's Creed III;Ação-aventura;PlayStation 3;108;2012
+1;Assassin's Creed III;Ação-aventura;Xbox 360;192;2012
+1;Assassin's Creed III;Ação-aventura;PC;14;2012
+1;Borderlands 2;Tiro em primeira pessoa;PlayStation 3;217;2012
+1;Borderlands 2;Tiro em primeira pessoa;Xbox 360;210;2012
+1;Borderlands 2;Tiro em primeira pessoa;PC;133;2012
+1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 3;160;2012
+1;Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox 360;11;2012
+1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PC;173;2012
+1;Darksiders II;Ação-aventura;PlayStation 3;135;2012
+1;Darksiders II;Ação-aventura;Xbox 360;213;2012
+1;Darksiders II;Ação-aventura;PC;202;2012
+1;Dishonored;Ação-aventura;PlayStation 3;215;2012
+1;Dishonored;Ação-aventura;Xbox 360;10;2012
+1;Dishonored;Ação-aventura;PC;148;2012
+1;Far Cry 3;Tiro em primeira pessoa;PlayStation 3;95;2012
+1;Far Cry 3;Tiro em primeira pessoa;Xbox 360;202;2012
+1;Far Cry 3;Tiro em primeira pessoa;PC;35;2012
+1;FIFA 13;Esportes;PlayStation 3;34;2012
+1;FIFA 13;Esportes;Xbox 360;47;2012
+1;FIFA 13;Esportes;PC;202;2012
+1;Halo 4;Tiro em primeira pessoa;Xbox 360;164;2012
+1;Journey;Aventura;PlayStation 3;123;2012
+1;Mass Effect 3;RPG de ação;PlayStation 3;107;2012
+1;Mass Effect 3;RPG de ação;Xbox 360;34;2012
+1;Mass Effect 3;RPG de ação;PC;128;2012
+1;Max Payne 3;Tiro em terceira pessoa;PlayStation 3;174;2012
+1;Max Payne 3;Tiro em terceira pessoa;Xbox 360;169;2012
+1;Max Payne 3;Tiro em terceira pessoa;PC;77;2012
+1;NBA 2K13;Esportes;PlayStation 3;56;2012
+1;NBA 2K13;Esportes;Xbox 360;55;2012
+1;NBA 2K13;Esportes;PC;154;2012
+1;Need for Speed: Most Wanted;Corrida;PlayStation 3;227;2012
+1;Need for Speed: Most Wanted;Corrida;Xbox 360;103;2012
+1;Need for Speed: Most Wanted;Corrida;PC;45;2012
+1;Resident Evil 6;Survival horror;PlayStation 3;126;2012
+1;Resident Evil 6;Survival horror;Xbox 360;75;2012
+1;Resident Evil 6;Survival horror;PC;180;2012
+1;Sleeping Dogs;Ação-aventura;PlayStation 3;39;2012
+1;Sleeping Dogs;Ação-aventura;Xbox 360;115;2012
+1;Sleeping Dogs;Ação-aventura;PC;212;2012
+1;The Elder Scrolls V: Skyrim;RPG de ação;PlayStation 3;157;2012
+1;The Elder Scrolls V: Skyrim;RPG de ação;Xbox 360;83;2012
+1;The Elder Scrolls V: Skyrim;RPG de ação;PC;207;2012
+1;The Last of Us;Ação-aventura;PlayStation 3;200;2012
+1;XCOM: Enemy Unknown;Estratégia por turnos;PlayStation 3;33;2012
+1;XCOM: Enemy Unknown;Estratégia por turnos;Xbox 360;109;2012
+1;XCOM: Enemy Unknown;Estratégia por turnos;PC;107;2012
+1;Diablo III;RPG de ação;PC;52;2012
+1;Guild Wars 2;MMORPG;PC;19;2012
+1;Dishonored;Ação-aventura;PlayStation 4;139;2012
+1;Dishonored;Ação-aventura;Xbox One;189;2012
+1;Borderlands 2;Tiro em primeira pessoa;PlayStation 4;93;2012
+1;Borderlands 2;Tiro em primeira pessoa;Xbox One;50;2012
+1;Far Cry 3;Tiro em primeira pessoa;PlayStation 4;112;2012
+1;Far Cry 3;Tiro em primeira pessoa;Xbox One;110;2012
+1;FIFA 13;Esportes;PlayStation 4;221;2012
+1;FIFA 13;Esportes;Xbox One;24;2012
+1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 4;73;2012
+1;Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox One;155;2012
+1;Halo 4;Tiro em primeira pessoa;Xbox One;220;2012
+1;Mass Effect 3;RPG de ação;PlayStation 4;47;2012
+1;Mass Effect 3;RPG de ação;Xbox One;71;2012
+1;Max Payne 3;Tiro em terceira pessoa;PlayStation 4;110;2012
+1;Max Payne 3;Tiro em terceira pessoa;Xbox One;140;2012
+1;NBA 2K13;Esportes;PlayStation 4;32;2012
+1;NBA 2K13;Esportes;Xbox One;36;2012
+1;Need for Speed: Most Wanted;Corrida;PlayStation 4;29;2012
+1;Need for Speed: Most Wanted;Corrida;Xbox One;34;2012
+1;Resident Evil 6;Survival horror;PlayStation 4;204;2012
 1;The Elder Scrolls V: Skyrim;RPG;PlayStation 3;45;2011
 1;The Elder Scrolls V: Skyrim;RPG;Xbox 360;168;2011
 1;The Elder Scrolls V: Skyrim;RPG;PC;81;2011

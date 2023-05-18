@@ -238,9 +238,13 @@
     // Função para alugar um jogo
     void alugarJogo(struct Node *jogo){
         if(jogo!=NULL){
-            jogo->qntDisp--;
+            if(jogo->qntDisp == 0){
+                printf("Nao é possivel alugar pois nao há nenhuma copia do jogo disponivel\n");
+            }
+            else
+                jogo->qntDisp--;
         }
-        if(*jogo==NULL){
+        if(jogo==NULL){
             printf("Jogo nao encontrado\n");
         }
     }
@@ -248,7 +252,11 @@
     // Função para devolver um jogo
     void devolverJogo(struct Node *jogo){
         if(jogo!=NULL){
-            jogo->qntDisp++;
+            if(jogo->qntDisp == jogo->qntCopias){
+                printf("Nao é possivel devolver pois todos as copias deste jogo estao presentes em estoque\n");
+            }
+            else
+                jogo->qntDisp++;
         }
         if(jogo==NULL){
             printf("Jogo nao encontrado\n");

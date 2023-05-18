@@ -539,7 +539,7 @@
 1 Assassin's Creed Origins;Ação/Aventura;PlayStation 4;2017
 1 Destiny 2;Tiro;PlayStation 4;2017
 1 Wolfenstein II: The New Colossus;Tiro em primeira pessoa;PlayStation 4;2017
-1 Call of Duty: WWII;Tiro em primeira pessoa;PlayStation 4;2017
+1 Call of Duty: WWII;Tiroem primeira pessoa;PlayStation 4;2017
 1 Fortnite;Battle Royale;PlayStation 4;2017
 1 Injustice 2;Luta;PlayStation 4;2017
 1 Uncharted: The Lost Legacy;Ação/Aventura;PlayStation 4;2017
@@ -716,3 +716,296 @@
 1 Sekiro: Shadows Die Twice;Ação-aventura;PlayStation 3;2019
 1 Resident Evil 2;Survival horror;PlayStation 3;2019
 1 Devil May Cry 5;Hack and slash;PlayStation 3;2019
+
+
+// 2021 sem código
+Hitman 3; Stealth; PlayStation 4; 2021
+Hitman 3; Stealth; PlayStation 5; 2021
+Hitman 3; Stealth; Xbox One; 2021
+Hitman 3; Stealth; Xbox Series; 2021
+Hitman 3; Stealth; PC; 2021
+Cyberpunk 2077; RPG; PlayStation 4; 2021
+Cyberpunk 2077; RPG; PlayStation 5; 2021
+Cyberpunk 2077; RPG; Xbox One; 2021
+Cyberpunk 2077; RPG; Xbox Series; 2021
+Cyberpunk 2077; RPG; PC; 2021
+Resident Evil Village; Survival Horror; PlayStation 4; 2021
+Resident Evil Village; Survival Horror; PlayStation 5; 2021
+Resident Evil Village; Survival Horror; Xbox One; 2021
+Resident Evil Village; Survival Horror; Xbox Series; 2021
+Resident Evil Village; Survival Horror; PC; 2021
+Assassin's Creed Valhalla; Action-Adventure; PlayStation 4; 2021
+Assassin's Creed Valhalla; Action-Adventure; PlayStation 5; 2021
+Assassin's Creed Valhalla; Action-Adventure; Xbox One; 2021
+Assassin's Creed Valhalla; Action-Adventure; Xbox Series; 2021
+Assassin's Creed Valhalla; Action-Adventure; PC; 2021
+Ratchet & Clank: Rift Apart; Platformer; PlayStation 5; 2021
+Returnal; Action-Adventure; PlayStation 5; 2021
+Resident Evil 3 Remake; Survival Horror; PlayStation 4; 2020
+Resident Evil 3 Remake; Survival Horror; Xbox One; 2020
+Resident Evil 3 Remake; Survival Horror; PC; 2020
+Demon's Souls; Action RPG; PlayStation 5; 2020
+Ghost of Tsushima; Action-Adventure; PlayStation 4; 2020
+Ghost of Tsushima; Action-Adventure; PlayStation 5; 2020
+Ghost of Tsushima; Action-Adventure; PC; 2020
+Marvel's Spider-Man: Miles Morales; Action-Adventure; PlayStation 4; 2020
+Marvel's Spider-Man: Miles Morales; Action-Adventure; PlayStation 5; 2020
+Marvel's Spider-Man: Miles Morales; Action-Adventure; PC; 2020
+It Takes Two; Platformer; PlayStation 4; 2021
+It Takes Two; Platformer; PlayStation 5; 2021
+It Takes Two; Platformer; Xbox One; 2021
+It Takes Two; Platformer; Xbox Series; 2021
+It Takes Two; Platformer; PC; 2021
+Deathloop; Action-Adventure; PlayStation 5; 2021
+Deathloop; Action-Adventure; PC; 2021
+FIFA 21; Sports; PlayStation 4; 2020
+FIFA 21; Sports; PlayStation 5; 2020
+FIFA 21; Sports; Xbox One; 2020
+FIFA 21; Sports; Xbox Series; 2020
+FIFA 21; Sports; PC; 2020
+NBA 2K21; Sports; PlayStation 4; 2020
+NBA 2K21; Sports; PlayStation 5; 2020
+NBA 2K21; Sports; Xbox One; 2020
+NBA 2K21; Sports; Xbox Series; 2020
+NBA 2K21; Sports; PC; 2020
+Call of Duty: Black Ops Cold War; FPS; PlayStation 4; 2020
+Call of Duty: Black Ops Cold War; FPS; PlayStation 5; 2020
+Call of Duty: Black Ops Cold War; FPS; Xbox One; 2020
+Call of Duty: Black Ops Cold War; FPS; Xbox Series; 2020
+Call of Duty: Black Ops Cold War; FPS; PC; 2020
+Outriders; Action RPG; PlayStation 4; 2021
+Outriders; Action RPG; PlayStation 5; 2021
+Outriders; Action RPG; Xbox One; 2021
+Outriders; Action RPG; Xbox Series; 2021
+Outriders; Action RPG; PC; 2021
+Biomutant; Action RPG; PlayStation 4; 2021
+Biomutant; Action RPG; PlayStation 5; 2021
+Biomutant; Action RPG; Xbox One; 2021
+Biomutant; Action RPG; Xbox Series; 2021
+Biomutant; Action RPG; PC; 2021
+Yakuza: Like a Dragon; Action RPG; PlayStation 4; 2020
+Yakuza: Like a Dragon; Action RPG; PlayStation 5; 2020
+Yakuza: Like a Dragon; Action RPG; Xbox One; 2020
+Yakuza: Like a Dragon; Action RPG; Xbox Series; 2020
+Yakuza: Like a Dragon; Action RPG; PC; 2020
+Watch Dogs: Legion; Action-Adventure; PlayStation 4; 2020
+Watch Dogs: Legion; Action-Adventure; PlayStation 5; 2020
+Watch Dogs: Legion; Action-Adventure; Xbox One; 2020
+Watch Dogs: Legion; Action-Adventure; Xbox Series; 2020
+Watch Dogs: Legion; Action-Adventure; PC; 2020
+Little Nightmares II; Puzzle-Platformer; PlayStation 4; 2021
+Little Nightmares II; Puzzle-Platformer; PlayStation 5; 2021
+Little Nightmares II; Puzzle-Platformer; Xbox One; 2021
+Little Nightmares II; Puzzle-Platformer; Xbox Series; 2021
+Little Nightmares II; Puzzle-Platformer; PC; 2021
+Immortals Fenyx Rising; Action-Adventure; PlayStation 4; 2020
+Immortals Fenyx Rising; Action-Adventure; PlayStation 5; 2020
+Immortals Fenyx Rising; Action-Adventure; Xbox One; 2020
+Immortals Fenyx Rising; Action-Adventure; Xbox Series; 2020
+Immortals Fenyx Rising; Action-Adventure; PC; 2020
+Far Cry 6; First-Person Shooter; PlayStation 4; 2021
+Far Cry 6; First-Person Shooter; PlayStation 5; 2021
+Far Cry 6; First-Person Shooter; Xbox One; 2021
+Far Cry 6; First-Person Shooter; Xbox Series; 2021
+Far Cry 6; First-Person Shooter; PC; 2021
+Scarlet Nexus; Action RPG; PlayStation 4; 2021
+Scarlet Nexus; Action RPG; PlayStation 5; 2021
+Scarlet Nexus; Action RPG; Xbox One; 2021
+Scarlet Nexus; Action RPG; Xbox Series; 2021
+Scarlet Nexus; Action RPG; PC; 2021
+
+// 2020 sem código
+The Last of Us Part II; Ação e Aventura; PlayStation 4; 2020
+Cyberpunk 2077; RPG de Ação; PlayStation 4; 2020
+Doom Eternal; Tiro em Primeira Pessoa; PlayStation 4; 2020
+Final Fantasy VII Remake; RPG de Ação; PlayStation 4; 2020
+Ghost of Tsushima; Ação e Aventura; PlayStation 4; 2020
+Ori and the Will of the Wisps; Plataforma; Xbox One; 2020
+Half-Life: Alyx; Realidade Virtual; PC; 2020
+Streets of Rage 4; Beat 'em up; PlayStation 4; 2020
+Resident Evil 3; Sobrevivência de Terror; PlayStation 4; 2020
+Minecraft Dungeons; RPG de Ação; Xbox One; 2020
+Gears Tactics; Estratégia em Turnos; PC; 2020
+Nioh 2; RPG de Ação; PlayStation 4; 2020
+Watch Dogs: Legion; Ação e Aventura; PlayStation 4; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; PlayStation 4; 2020
+Star Wars Jedi: Fallen Order; Ação e Aventura; PlayStation 4; 2020
+Marvel's Avengers; Ação e Aventura; PlayStation 4; 2020
+Assassin's Creed Valhalla; RPG de Ação; PlayStation 4; 2020
+Persona 5 Royal; RPG; PlayStation 4; 2020
+Demon's Souls; RPG de Ação; PlayStation 5; 2020
+Hades; Roguelike; PC; 2020
+Crash Bandicoot 4: It's About Time; Plataforma; PlayStation 4; 2020
+Resident Evil Resistance; Sobrevivência de Terror; PlayStation 4; 2020
+Call of Duty: Warzone; Battle Royale; PlayStation 4; 2020
+FIFA 21; Esportes; PlayStation 4; 2020
+Wasteland 3; RPG; PC; 2020
+Marvel's Iron Man VR; Ação; PlayStation 4; 2020
+Star Wars: Squadrons; Simulação de Voo; PlayStation 4; 2020
+Carrion; Ação; PC; 2020
+Borderlands 3; RPG de Ação; PlayStation 4; 2020
+Resident Evil Resistance; Sobrevivência de Terror; PC; 2020
+Death Stranding; Ação; PC; 2020
+Minecraft Dungeons; RPG de Ação; PlayStation 4; 2020
+Destiny 2: Beyond Light; Tiro em Primeira Pessoa; PlayStation 4; 2020
+Halo: The Master Chief Collection; Tiro em Primeira Pessoa; PC; 2020
+Mafia: Definitive Edition; Ação e Aventura; PlayStation 4; 2020
+Microsoft Flight Simulator; Simulação de Voo; PC; 2020
+Persona 4 Golden; RPG; PC; 2020
+Grounded; Sobrevivência; PC; 2020
+Desperados III; Estratégia em Tempo Real; PC; 2020
+Crusader Kings III; Estratégia; PC; 2020
+Destroy All Humans!; Ação e Aventura; PlayStation 4; 2020
+Resident Evil 3; Sobrevivência de Terror; PC; 2020
+Call of Duty: Modern Warfare; Tiro em Primeira Pessoa; PlayStation 4; 2020
+Doom 64; Tiro em Primeira Pessoa; PC; 2020
+Final Fantasy Crystal Chronicles Remastered Edition; RPG de Ação; PlayStation 4; 2020
+Ghost of Tsushima; Ação e Aventura; PlayStation 5; 2020
+Hellpoint; RPG de Ação; PlayStation 4; 2020
+The Wonderful 101: Remastered; Ação e Aventura; PlayStation 4; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; Xbox One; 2020
+Call of Duty: Black Ops Cold War; Tiro em Primeira Pessoa; PlayStation 4; 2020
+FIFA 21; Esportes; Xbox One; 2020
+Star Wars Jedi: Fallen Order; Ação e Aventura; Xbox One; 2020
+Watch Dogs: Legion; Ação e Aventura; Xbox One; 2020
+Marvel's Avengers; Ação e Aventura; Xbox One; 2020
+Assassin's Creed Valhalla; RPG de Ação; Xbox Series; 2020
+Ori and the Will of the Wisps; Plataforma; PC; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; PC; 2020
+Minecraft Dungeons; RPG de Ação; PC; 2020
+Gears Tactics; Estratégia em Turnos; Xbox Series; 2020
+The Last of Us Part II; Ação e Aventura; PlayStation 3; 2020
+Cyberpunk 2077; RPG de Ação; PC; 2020
+Doom Eternal; Tiro em Primeira Pessoa; Xbox One; 2020
+Final Fantasy VII Remake; RPG de Ação; PlayStation 3; 2020
+Ghost of Tsushima; Ação e Aventura; PlayStation 3; 2020
+Streets of Rage 4; Beat 'em up; Xbox One; 2020
+Resident Evil 3; Sobrevivência de Terror; Xbox One; 2020
+Nioh 2; RPG de Ação; PlayStation 3; 2020
+Watch Dogs: Legion; Ação e Aventura; PlayStation 3; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; PlayStation 3; 2020
+Star Wars Jedi: Fallen Order; Ação e Aventura; PlayStation 3; 2020
+Marvel's Avengers; Ação e Aventura; PlayStation 3; 2020
+Assassin's Creed Valhalla; RPG de Ação; PlayStation 3; 2020
+Demon's Souls; RPG de Ação; PlayStation 3; 2020
+The Last of Us Part II; Ação e Aventura; PlayStation 2; 2020
+Cyberpunk 2077; RPG de Ação; Xbox Series; 2020
+Doom Eternal; Tiro em Primeira Pessoa; Xbox Series; 2020
+Final Fantasy VII Remake; RPG de Ação; Xbox Series; 2020
+Ghost of Tsushima; Ação e Aventura; Xbox Series; 2020
+Streets of Rage 4; Beat 'em up; Xbox Series; 2020
+Resident Evil 3; Sobrevivência de Terror; Xbox Series; 2020
+Nioh 2; RPG de Ação; Xbox Series; 2020
+Watch Dogs: Legion; Ação e Aventura; Xbox Series; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; Xbox Series; 2020
+Star Wars Jedi: Fallen Order; Ação e Aventura; Xbox Series; 2020
+Marvel's Avengers; Ação e Aventura; Xbox Series; 2020
+Assassin's Creed Valhalla; RPG de Ação; Xbox One; 2020
+Demon's Souls; RPG de Ação; Xbox One; 2020
+The Last of Us Part II; Ação e Aventura; PlayStation 5; 2020
+Doom Eternal; Tiro em Primeira Pessoa; PlayStation 5; 2020
+Final Fantasy VII Remake; RPG de Ação; PlayStation 5; 2020
+Ghost of Tsushima; Ação e Aventura; PlayStation 5; 2020
+Streets of Rage 4; Beat 'em up; PlayStation 5; 2020
+Resident Evil 3; Sobrevivência de Terror; PlayStation 5; 2020
+Nioh 2; RPG de Ação; PlayStation 5; 2020
+Watch Dogs: Legion; Ação e Aventura; PlayStation 5; 2020
+Tony Hawk's Pro Skater 1+2; Esportes Radicais; PlayStation 5; 2020
+Star Wars Jedi: Fallen Order; Ação e Aventura; PlayStation 5; 2020
+Marvel's Avengers; Ação e Aventura; PlayStation 5; 2020
+Assassin's Creed Valhalla; RPG de Ação; PlayStation 5; 2020
+
+
+God of War; Ação e Aventura; PlayStation 4; 2018
+Red Dead Redemption 2; Ação e Aventura; PlayStation 4; 2018
+Spider-Man; Ação e Aventura; PlayStation 4; 2018
+Assassin's Creed Odyssey; Ação e Aventura; PlayStation 4; 2018
+Monster Hunter: World; RPG; PlayStation 4; 2018
+Shadow of the Tomb Raider; Ação e Aventura; PlayStation 4; 2018
+Far Cry 5; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Call of Duty: Black Ops 4; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Battlefield V; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Fallout 76; RPG; PlayStation 4; 2018
+Detroit: Become Human; Ação e Aventura; PlayStation 4; 2018
+NBA 2K19; Esportes; PlayStation 4; 2018
+Madden NFL 19; Esportes; PlayStation 4; 2018
+Forza Horizon 4; Corrida; Xbox One; 2018
+Halo: Infinite; Tiro em Primeira Pessoa; Xbox Series; 2018
+Gears 5; Tiro em Terceira Pessoa; Xbox One; 2018
+Sea of Thieves; Ação e Aventura; Xbox One; 2018
+PlayerUnknown's Battlegrounds (PUBG); Battle Royale; Xbox One; 2018
+Fortnite; Battle Royale; PlayStation 4; 2018
+Monster Boy and the Cursed Kingdom; Plataforma; PlayStation 4; 2018
+Celeste; Plataforma; PlayStation 4; 2018
+SoulCalibur VI; Luta; PlayStation 4; 2018
+Dragon Ball FighterZ; Luta; PlayStation 4; 2018
+Shadow of the Colossus; Ação e Aventura; PlayStation 4; 2018
+A Way Out; Ação e Aventura; PlayStation 4; 2018
+Sekiro: Shadows Die Twice; Ação e Aventura; PlayStation 4; 2018
+Resident Evil 2 Remake; Ação e Aventura; PlayStation 4; 2018
+Marvel's Spider-Man; Ação e Aventura; PlayStation 4; 2018
+Hitman 2; Ação e Aventura; PlayStation 4; 2018
+Just Cause 4; Ação e Aventura; PlayStation 4; 2018
+Kingdom Hearts III; RPG; PlayStation 4; 2018
+Shadow of the Tomb Raider; Ação e Aventura; PlayStation 4; 2018
+Far Cry 5; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Call of Duty: Black Ops 4; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Battlefield V; Tiro em Primeira Pessoa; PlayStation 4; 2018
+Fallout 76; RPG; PlayStation 4; 2018
+Detroit: Become Human; Ação e Aventura; PlayStation 4; 2018
+FIFA 19; Esportes; PlayStation 4; 2018
+NBA 2K19; Esportes; PlayStation 4; 2018
+Madden NFL 19; Esportes; PlayStation 4; 2018
+Forza Horizon 4; Corrida; Xbox One; 2018
+Halo: Infinite; Tiro em Primeira Pessoa; Xbox Series; 2018
+Gears 5; Tiro em Terceira Pessoa; Xbox One; 2018
+Sea of Thieves; Ação e Aventura; Xbox One; 2018
+PlayerUnknown's Battlegrounds (PUBG); Battle Royale; Xbox One; 2018
+Fortnite; Battle Royale; PC; 2018
+Monster Boy and the Cursed Kingdom; Plataforma; PC; 2018
+Celeste; Plataforma; PC; 2018
+SoulCalibur VI; Luta; PC; 2018
+Dragon Ball FighterZ; Luta; PC; 2018
+Shadow of the Colossus; Ação e Aventura; PlayStation 4; 2018
+A Way Out; Ação e Aventura; PC; 2018
+Sekiro: Shadows Die Twice; Ação e Aventura; PC; 2018
+Resident Evil 2 Remake; Ação e Aventura; PC; 2018
+Marvel's Spider-Man; Ação e Aventura; PC; 2018
+Hitman 2; Ação e Aventura; PC; 2018
+Just Cause 4; Ação e Aventura; PC; 2018
+Kingdom Hearts III; RPG; PlayStation 4; 2018
+Shadow of the Tomb Raider; Ação e Aventura; PC; 2018
+Far Cry 5; Tiro em Primeira Pessoa; PC; 2018
+Call of Duty: Black Ops 4; Tiro em Primeira Pessoa; PC; 2018
+Battlefield V; Tiro em Primeira Pessoa; PC; 2018
+Fallout 76; RPG; PC; 2018
+Detroit: Become Human; Ação e Aventura; PC; 2018
+FIFA 19; Esportes; PC; 2018
+NBA 2K19; Esportes; PC; 2018
+Madden NFL 19; Esportes; PC; 2018
+Assassin's Creed Odyssey; Ação e Aventura; PC; 2018
+Monster Hunter: World; RPG; PC; 2018
+Far Cry 5; Tiro em Primeira Pessoa; Xbox One; 2018
+Call of Duty: Black Ops 4; Tiro em Primeira Pessoa; Xbox One; 2018
+Battlefield V; Tiro em Primeira Pessoa; Xbox One; 2018
+Fallout 76; RPG; Xbox One; 2018
+Detroit: Become Human; Ação e Aventura; Xbox One; 2018
+FIFA 19; Esportes; Xbox One; 2018
+NBA 2K19; Esportes; Xbox One; 2018
+Madden NFL 19; Esportes; Xbox One; 2018
+Forza Horizon 4; Corrida; PC; 2018
+Halo: Infinite; Tiro em Primeira Pessoa; PC; 2018
+Gears 5; Tiro em Terceira Pessoa; PC; 2018
+Sea of Thieves; Ação e Aventura; PC; 2018
+PlayerUnknown's Battlegrounds (PUBG); Battle Royale; PC; 2018
+Fortnite; Battle Royale; Xbox One; 2018
+The Legend of Zelda: Breath of the Wild; Ação e Aventura; PC; 2018
+Super Mario Odyssey; Plataforma; PC; 2018
+Octopath Traveler; RPG; PC; 2018
+Monster Boy and the Cursed Kingdom; Plataforma; Xbox One; 2018
+Celeste; Plataforma; Xbox One; 2018
+SoulCalibur VI; Luta; Xbox One; 2018
+Dragon Ball FighterZ; Luta; Xbox One; 2018
+Shadow of the Colossus; Ação e Aventura; PC; 2018
+A Way Out; Ação e Aventura; Xbox One; 2018
+Sekiro: Shadows Die Twice; Ação e Aventura; Xbox One; 2018

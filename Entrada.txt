@@ -1009,3 +1009,283 @@ Dragon Ball FighterZ; Luta; Xbox One; 2018
 Shadow of the Colossus; Ação e Aventura; PC; 2018
 A Way Out; Ação e Aventura; Xbox One; 2018
 Sekiro: Shadows Die Twice; Ação e Aventura; Xbox One; 2018
+
+
+Overwatch; FPS; PlayStation 4; 2016
+Overwatch; FPS; Xbox One; 2016
+Overwatch; FPS; PC; 2016
+Uncharted 4: A Thief's End; Ação/Aventura; PlayStation 4; 2016
+Dark Souls III; RPG de ação; PlayStation 4; 2016
+Dark Souls III; RPG de ação; Xbox One; 2016
+Dark Souls III; RPG de ação; PC; 2016
+The Witcher 3: Wild Hunt - Blood and Wine; RPG de ação; PlayStation 4; 2016
+The Witcher 3: Wild Hunt - Blood and Wine; RPG de ação; Xbox One; 2016
+The Witcher 3: Wild Hunt - Blood and Wine; RPG de ação; PC; 2016
+Doom; FPS; PlayStation 4; 2016
+Doom; FPS; Xbox One; 2016
+Doom; FPS; PC; 2016
+Battlefield 1; FPS; PlayStation 4; 2016
+Battlefield 1; FPS; Xbox One; 2016
+Battlefield 1; FPS; PC; 2016
+Final Fantasy XV; RPG de ação; PlayStation 4; 2016
+Final Fantasy XV; RPG de ação; Xbox One; 2016
+Final Fantasy XV; RPG de ação; PC; 2016
+Titanfall 2; FPS; PlayStation 4; 2016
+Titanfall 2; FPS; Xbox One; 2016
+Titanfall 2; FPS; PC; 2016
+Watch Dogs 2; Ação/Aventura; PlayStation 4; 2016
+Watch Dogs 2; Ação/Aventura; Xbox One; 2016
+Watch Dogs 2; Ação/Aventura; PC; 2016
+Call of Duty: Infinite Warfare; FPS; PlayStation 4; 2016
+Call of Duty: Infinite Warfare; FPS; Xbox One; 2016
+Call of Duty: Infinite Warfare; FPS; PC; 2016
+Dishonored 2; Ação/Aventura; PlayStation 4; 2016
+Dishonored 2; Ação/Aventura; Xbox One; 2016
+Dishonored 2; Ação/Aventura; PC; 2016
+Forza Horizon 3; Corrida; Xbox One; 2016
+Forza Horizon 3; Corrida; PC; 2016
+NBA 2K17; Esportes; PlayStation 4; 2016
+NBA 2K17; Esportes; Xbox One; 2016
+NBA 2K17; Esportes; PC; 2016
+Gears of War 4; Tiro em terceira pessoa; Xbox One; 2016
+Gears of War 4; Tiro em terceira pessoa; PC; 2016
+Deus Ex: Mankind Divided; RPG de ação; PlayStation 4; 2016
+Deus Ex: Mankind Divided; RPG de ação; Xbox One; 2016
+Deus Ex: Mankind Divided; RPG de ação; PC; 2016
+Mafia III; Ação/Aventura; PlayStation 4; 2016
+Mafia III; Ação/Aventura; Xbox One; 2016
+Mafia III; Ação/Aventura; PC; 2016
+The Last Guardian; Ação/Aventura; PlayStation 4; 2016
+Battlefield Hardline; FPS; PlayStation 4; 2016
+Battlefield Hardline; FPS; Xbox One; 2016
+Battlefield Hardline; FPS; PC; 2016
+FIFA 17; Esportes; PlayStation 4; 2016
+
+Dragon Age: Inquisition; RPG de ação; PlayStation 4; 2014
+Dragon Age: Inquisition; RPG de ação; Xbox One; 2014
+Dragon Age: Inquisition; RPG de ação; PC; 2014
+Grand Theft Auto V; Ação/Aventura; PlayStation 4; 2014
+Grand Theft Auto V; Ação/Aventura; Xbox One; 2014
+Grand Theft Auto V; Ação/Aventura; PC; 2014
+The Witcher 3: Wild Hunt; RPG de ação; PlayStation 4; 2014
+The Witcher 3: Wild Hunt; RPG de ação; Xbox One; 2014
+The Witcher 3: Wild Hunt; RPG de ação; PC; 2014
+Middle-earth: Shadow of Mordor; Ação/Aventura; PlayStation 4; 2014
+Middle-earth: Shadow of Mordor; Ação/Aventura; Xbox One; 2014
+Middle-earth: Shadow of Mordor; Ação/Aventura; PC; 2014
+Far Cry 4; Tiro em primeira pessoa; PlayStation 4; 2014
+Far Cry 4; Tiro em primeira pessoa; Xbox One; 2014
+Far Cry 4; Tiro em primeira pessoa; PC; 2014
+Destiny; FPS/MMO; PlayStation 4; 2014
+Destiny; FPS/MMO; Xbox One; 2014
+Destiny; FPS/MMO; PC; 2014
+Assassin's Creed Unity; Ação/Aventura; PlayStation 4; 2014
+Assassin's Creed Unity; Ação/Aventura; Xbox One; 2014
+Assassin's Creed Unity; Ação/Aventura; PC; 2014
+Watch Dogs; Ação/Aventura; PlayStation 4; 2014
+Watch Dogs; Ação/Aventura; Xbox One; 2014
+Watch Dogs; Ação/Aventura; PC; 2014
+The Evil Within; Survival Horror; PlayStation 4; 2014
+The Evil Within; Survival Horror; Xbox One; 2014
+The Evil Within; Survival Horror; PC; 2014
+Alien: Isolation; Survival Horror; PlayStation 4; 2014
+Alien: Isolation; Survival Horror; Xbox One; 2014
+Alien: Isolation; Survival Horror; PC; 2014
+Bayonetta 2; Ação; Wii U; 2014
+Super Smash Bros. for Wii U; Luta; Wii U; 2014
+Mario Kart 8; Corrida; Wii U; 2014
+Titanfall; FPS; Xbox One; 2014
+Titanfall; FPS; PC; 2014
+The Sims 4; Simulação de vida; PC; 2014
+Diablo III: Reaper of Souls; RPG de ação; PlayStation 4; 2014
+Diablo III: Reaper of Souls; RPG de ação; Xbox One; 2014
+Diablo III: Reaper of Souls; RPG de ação; PC; 2014
+Far Cry 3; Tiro em primeira pessoa; PlayStation 4; 2014
+Far Cry 3; Tiro em primeira pessoa; Xbox One; 2014
+Far Cry 3; Tiro em primeira pessoa; PC; 2014
+Borderlands: The Pre-Sequel; FPS/RPG; PlayStation 4; 2014
+Borderlands: The Pre-Sequel; FPS/RPG; Xbox One; 2014
+Borderlands: The Pre-Sequel; FPS/RPG; PC; 2014
+Hearthstone: Heroes of Warcraft; Cartas; PC; 2014
+South Park: The Stick of Truth; RPG; PlayStation 4; 2014
+South Park: The Stick of Truth; RPG; Xbox One; 2014
+South Park: The Stick of Truth; RPG; PC; 2014
+FIFA 15; Esportes; PlayStation 4; 2014
+
+Deus Ex; RPG de ação; PC; 2000
+Diablo II; RPG de ação; PC; 2000
+The Sims; Simulação de vida; PC; 2000
+Final Fantasy IX; RPG; PlayStation; 2000
+Perfect Dark; Tiro em primeira pessoa; Nintendo 64; 2000
+Tony Hawk's Pro Skater 2; Esportes; PlayStation; 2000
+Grand Theft Auto III; Ação/Aventura; PlayStation 2; 2001
+Max Payne; Tiro em terceira pessoa; PC; 2001
+Silent Hill 2; Survival Horror; PlayStation 2; 2001
+Metal Gear Solid 2: Sons of Liberty; Ação/Aventura; PlayStation 2; 2001
+Grand Theft Auto: Vice City; Ação/Aventura; PlayStation 2; 2002
+The Elder Scrolls III: Morrowind; RPG de ação; PC; 2002
+Warcraft III: Reign of Chaos; Estratégia em tempo real; PC; 2002
+Battlefield 1942; FPS; PC; 2002
+Kingdom Hearts; RPG de ação; PlayStation 2; 2002
+Tom Clancy's Ghost Recon; Tiro tático; PC; 2002
+Prince of Persia: The Sands of Time; Ação/Aventura; PlayStation 2; 2003
+Counter-Strike 1.6; FPS; PC; 2003
+Need for Speed: Underground; Corrida; PlayStation 2; 2003
+Max Payne 2: The Fall of Max Payne; Tiro em terceira pessoa; PC; 2003
+Beyond Good & Evil; Ação/Aventura; PlayStation 2; 2003
+Call of Duty; FPS; PC; 2003
+SoulCalibur II; Luta; PlayStation 2; 2003
+Command & Conquer: Generals; Estratégia em tempo real; PC; 2003
+Freelancer; Simulação de espaço; PC; 2003
+The Simpsons: Hit & Run; Ação/Aventura; PlayStation 2; 2003
+Star Wars Jedi Knight: Jedi Academy; FPS; PC; 2003
+Medal of Honor: Allied Assault; FPS; PC; 2002
+Devil May Cry; Ação; PlayStation 2; 2001
+Baldur's Gate II: Shadows of Amn; RPG; PC; 2000
+Silent Hill 3; Survival Horror; PlayStation 2; 2003
+Unreal Tournament 2004; FPS; PC; 2004
+Age of Mythology; Estratégia em tempo real; PC; 2002
+Star Wars: Battlefront; FPS; PlayStation 2; 2004
+Burnout 3: Takedown; Corrida; PlayStation 2; 2004
+Jak II; Ação/Aventura; PlayStation 2; 2003
+Half-Life 2; FPS; PC; 2004
+World of Warcraft; MMORPG; PC; 2004
+Far Cry; FPS; PC; 2004
+Ratchet & Clank: Up Your Arsenal; Plataforma; PlayStation 2; 2004
+Metal Gear Solid 3: Snake Eater; Ação/Aventura; PlayStation 2; 2004
+Katamari Damacy; Puzzle; PlayStation 2; 2004
+World Soccer Winning Eleven 7 International; Esportes; PlayStation 2; 2003
+Burnout 2: Point of Impact; Corrida; PlayStation 2; 2002
+SSX 3; Esportes; PlayStation 2; 2003
+Tony Hawk's Pro Skater 3; Esportes; PlayStation 2; 2001
+Battlefield Vietnam; FPS; PC; 2004
+Rome: Total War; Estratégia em tempo real; PC; 2004
+Silent Hill 4: The Room; Survival Horror; PlayStation 2; 2004
+The Sims 2; Simulação de vida; PC; 2004
+Jak 3; Ação/Aventura; PlayStation 2; 2004
+Tony Hawk's Underground 2; Esportes; PlayStation 2; 2004
+Grand Theft Auto: San Andreas; Ação/Aventura; PlayStation 2; 2004
+Splinter Cell: Pandora Tomorrow; Ação/Aventura; PlayStation 2; 2004
+Prince of Persia: The Two Thrones; Ação/Aventura; PlayStation 2; 2005
+Call of Duty: United Offensive; FPS; PC; 2004
+Counter-Strike: Source; FPS; PC; 2004
+Spider-Man 2; Ação/Aventura; PlayStation 2; 2004
+Need for Speed: Most Wanted; Corrida; PlayStation 2; 2005
+The Elder Scrolls IV: Oblivion; RPG de ação; PC; 2006
+God of War; Ação; PlayStation 2; 2005
+Dragon Quest VIII: Journey of the Cursed King; RPG; PlayStation 2; 2005
+Mortal Kombat: Deception; Luta; PlayStation 2; 2004
+Kingdom Hearts II; RPG de ação; PlayStation 2; 2005
+Resident Evil 4; Survival Horror; PlayStation 2; 2005
+Burnout Revenge; Corrida; PlayStation 2; 2005
+Tony Hawk's Underground; Esportes; PlayStation 2; 2003
+Medal of Honor: Frontline; FPS; PlayStation 2; 2002
+Star Wars: The Force Unleashed; Ação/Aventura; PlayStation 2; 2008
+Call of Duty 2; FPS; PC; 2005
+Psychonauts; Ação/Aventura; PlayStation 2; 2005
+Unreal Tournament 2003; FPS; PC; 2002
+Far Cry 2; FPS; PC; 2008
+Pro Evolution Soccer 3; Esportes; PlayStation 2; 2003
+Jak and Daxter: The Precursor Legacy; Plataforma; PlayStation 2; 2001
+The Elder Scrolls III: Bloodmoon; RPG de ação; PC; 2003
+Hitman 2: Silent Assassin; Stealth; PlayStation 2; 2002
+SSX Tricky; Esportes; PlayStation 2; 2001
+Colin McRae Rally 3; Corrida; PlayStation 2; 2002
+WWE SmackDown! Here Comes the Pain; Luta; PlayStation 2; 2003
+Gran Turismo 4; Corrida; PlayStation 2; 2004
+Need for Speed: Carbon; Corrida; PlayStation 2; 2006
+Prince of Persia: Warrior Within; Ação/Aventura; PlayStation 2; 2004
+The Sims: Bustin' Out; Simulação de vida; PlayStation 2; 2003
+Tom Clancy's Splinter Cell; Ação/Aventura; PlayStation 2; 2003
+Tom Clancy's Splinter Cell: Chaos Theory; Ação/Aventura; PlayStation 2; 2005
+Age of Empires II: The Age of Kings; Estratégia em tempo real; PC; 1999
+Medal of Honor: Allied Assault - Spearhead; FPS; PC; 2002
+Dragon Ball Z: Budokai Tenkaichi 3; Luta; PlayStation 2; 2007
+SSX; Esportes; PlayStation 2; 2000
+Resident Evil Code: Veronica X; Survival Horror; PlayStation 2; 2001
+Final Fantasy XII; RPG; PlayStation 2; 2006
+Need for Speed: Underground 2; Corrida; PlayStation 2; 2004
+Star Wars: Jedi Starfighter; Simulação de voo; PlayStation 2; 2002
+Pro Evolution Soccer 6; Esportes; PlayStation 2; 2006
+Tony Hawk's Pro Skater 4; Esportes; PlayStation 2; 2002
+The Sims 3; Simulação de vida; PC; 2009
+Max Payne 3; Tiro em terceira pessoa; PlayStation 3; 2012
+Spider-Man: The Movie; Ação/Aventura; PlayStation 2; 2002
+Resident Evil Outbreak; Survival Horror; PlayStation 2; 2003
+Tom Clancy's Ghost Recon 2; Tiro tático; PlayStation 2; 2004
+Need for Speed: Hot Pursuit 2; Corrida; PlayStation 2; 2002
+Ace Combat 5: The Unsung War; Simulação de voo; PlayStation 2; 2004
+WWE SmackDown! Shut Your Mouth; Luta; PlayStation 2; 2002
+Mortal Kombat: Deadly Alliance; Luta; PlayStation 2; 2002
+Star Wars: Battlefront II; FPS; PlayStation 2; 2005
+Medal of Honor: Rising Sun; FPS; PlayStation 2; 2003
+TimeSplitters; FPS; PlayStation 2; 2000
+Final Fantasy X-2; RPG; PlayStation 2; 2003
+Tekken 4; Luta; PlayStation 2; 2002
+Gran Turismo 3: A-Spec; Corrida; PlayStation 2; 20011
+Tony Hawk's American Wasteland; Esportes; PlayStation 2; 2005
+Spider-Man 2; Ação/Aventura; PlayStation 2; 2004
+Metal Gear Solid 2: Substance; Ação/Aventura; PlayStation 2; 2002
+The Sims 2: Pets; Simulação de vida; PlayStation 2; 2006
+Tom Clancy's Splinter Cell: Double Agent; Ação/Aventura; PlayStation 2; 2006
+
+Final Fantasy VII; RPG; PlayStation 1; 1997
+Quake II; Tiro em primeira pessoa; PC; 1997
+Crash Bandicoot 2: Cortex Strikes Back; Plataforma; PlayStation 1; 1997
+Age of Empires; Estratégia em tempo real; PC; 1997
+Tomb Raider II; Ação-aventura; PlayStation 1; 1997
+Grand Theft Auto; Ação-aventura; PC; 1997
+Oddworld: Abe's Oddysee; Plataforma; PlayStation 1; 1997
+Star Fox 64; Tiro em terceira pessoa; Nintendo 64; 1997
+Diablo; RPG de ação; PC; 1997
+Castlevania: Symphony of the Night; Metroidvania; PlayStation 1; 1997
+Fallout; RPG; PC; 1997
+Diddy Kong Racing; Corrida; Nintendo 64; 1997
+GoldenEye 007; Tiro em primeira pessoa; Nintendo 64; 1997
+Age of Empires: The Rise of Rome; Estratégia em tempo real; PC; 1998
+Half-Life; Tiro em primeira pessoa; PC; 1998
+Resident Evil 2; Survival horror; PlayStation 1; 1998
+Spyro the Dragon; Plataforma; PlayStation 1; 1998
+StarCraft; Estratégia em tempo real; PC; 1998
+The Legend of Zelda: Ocarina of Time; Ação-aventura; Nintendo 64; 1998
+Grim Fandango; Aventura gráfica; PC; 1998
+Metal Gear Solid; Stealth, ação-aventura; PlayStation 1; 1998
+Banjo-Kazooie; Plataforma; Nintendo 64; 1998
+Baldur's Gate; RPG; PC; 1998
+Thief: The Dark Project; Stealth; PC; 1998
+Xenogears; RPG; PlayStation 1; 1998
+Crash Bandicoot: Warped; Plataforma; PlayStation 1; 1998
+Unreal; Tiro em primeira pessoa; PC; 1998
+Star Wars: Rogue Squadron; Simulador de voo; Nintendo 64; 1998
+Command & Conquer: Red Alert; Estratégia em tempo real; PC; 1998
+Fallout 2; RPG; PC; 1998
+Resident Evil 3: Nemesis; Survival horror; PlayStation 1; 1999
+Silent Hill; Survival horror; PlayStation 1; 1999
+Counter-Strike; Tiro em primeira pessoa; PC; 1999
+Super Smash Bros.; Luta; Nintendo 64; 1999
+Age of Empires II: The Age of Kings; Estratégia em tempo real; PC; 1999
+Tony Hawk's Pro Skater; Esportes; PlayStation 1; 1999
+Final Fantasy VIII; RPG; PlayStation 1; 1999
+Donkey Kong 64; Plataforma; Nintendo 64; 1999
+System Shock 2; RPG de ação; PC; 1999
+Medal of Honor; Tiro em primeira pessoa; PlayStation 1; 1999
+Grand Theft Auto 2; Ação-aventura; PC; 1999
+Warcraft III: Reign of Chaos; Estratégia em tempo real; PC; 2002
+Age of Empires II: The Conquerors; Estratégia em tempo real; PC; 2000
+The Sims; Simulação de vida; PC; 2000
+Deus Ex; RPG de ação; PC; 2000
+Perfect Dark; Tiro em primeira pessoa; Nintendo 64; 2000
+Diablo II; RPG de ação; PC; 2000
+Tony Hawk's Pro Skater 2; Esportes; PlayStation 1; 2000
+Final Fantasy IX; RPG; PlayStation 1; 2000
+Pokémon Stadium; RPG de combate; Nintendo 64; 2000
+The Legend of Zelda: Majora's Mask; Ação-aventura; Nintendo 64; 2000
+Shenmue; Ação-aventura; Dreamcast; 2000
+Star Wars: Episode I - Racer; Corrida; Nintendo 64; 1999
+Chrono Cross; RPG; PlayStation 1; 1999
+Donkey Kong Country; Plataforma; Game Boy Color; 2000
+Jet Set Radio; Esportes; Dreamcast; 2000
+Max Payne; Tiro em terceira pessoa; PC; 2001
+Spider-Man; Ação-aventura; PlayStation 1; 2000
+Final Fantasy Tactics; RPG; PlayStation 1; 1997
+Crash Team Racing; Corrida; PlayStation 1; 1999

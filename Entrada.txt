@@ -1,718 +1,718 @@
-1;Assassin's Creed II;Ação-Aventura;PlayStation 3;2009
-1;Assassin's Creed II;Ação-Aventura;Xbox 360;2009
-1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 3;2009
-1;Batman: Arkham Asylum;Ação-Aventura;Xbox 360;2009
-1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 3;2009
-1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox 360;2009
-1;Dragon Age: Origins;RPG;PlayStation 3;2009
-1;Dragon Age: Origins;RPG;Xbox 360;2009
-1;FIFA 10;Esportes;PlayStation 3;2009
-1;FIFA 10;Esportes;Xbox 360;2009
-1;Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;PlayStation 3;2009
-1;Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;Xbox 360;2009
-1;Halo 3: ODST;Tiro em primeira pessoa;Xbox 360;2009
-1;Infamous;Ação-Aventura;PlayStation 3;2009
-1;Left 4 Dead 2;Tiro em primeira pessoa;Xbox 360;2009
-1;Resident Evil 5;Ação-Aventura;PlayStation 3;2009
-1;Resident Evil 5;Ação-Aventura;Xbox 360;2009
-1;Uncharted 2: Among Thieves;Ação-Aventura;PlayStation 3;2009
-1;Borderlands;RPG de ação;PlayStation 3;2009
-1;Borderlands;RPG de ação;Xbox 360;2009
-1;Bayonetta;Ação;PlayStation 3;2009
-1;Bayonetta;Ação;Xbox 360;2009
-1;Street Fighter IV;Luta;PlayStation 3;2009
-1;Street Fighter IV;Luta;Xbox 360;2009
-1;BioShock 2;Tiro em primeira pessoa;PlayStation 3;2009
-1;BioShock 2;Tiro em primeira pessoa;Xbox 360;2009
-1;Assassin's Creed: Bloodlines;Ação-Aventura;PlayStation Portable (PSP);2009
-1;FIFA 10;Esportes;PlayStation 2;2009
-1;Need for Speed: Shift;Corrida;PlayStation 3;2009
-1;Need for Speed: Shift;Corrida;Xbox 360;2009
-1;Forza Motorsport 3;Corrida;Xbox 360;2009
-1;God of War Collection;Ação-Aventura;PlayStation 3;2009
-1;Madden NFL 10;Esportes;PlayStation 3;2009
-1;Madden NFL 10;Esportes;Xbox 360;2009
-1;Pro Evolution Soccer 2010;Esportes;PlayStation 3;2009
-1;Pro Evolution Soccer 2010;Esportes;Xbox 360;2009
-1;Red Faction: Guerrilla;Tiro em terceira pessoa;PlayStation 3;2009
-1;Red Faction: Guerrilla;Tiro em terceira pessoa;Xbox 360;2009
-1;Saints Row 2;Ação-Aventura;PlayStation 3;2009
-1;Saints Row 2;Ação-Aventura;Xbox 360;2009
-1;The Sims 3;Simulação de vida;PC;2009
-1;Ratchet & Clank Future: A Crack in Time;Plataforma;PlayStation 3;2009
-1;Batman: Arkham Asylum;Ação-Aventura;PC;2009
-1;The Sims 3: World Adventures;Simulação de vida;PC;2009
-1;Left 4 Dead 2;Tiro em primeira pessoa;PC;2009
-1;Street Fighter IV;Luta;PC;2009
-1;Torchlight;RPG de ação;PC;2009
-1;Resident Evil 5;Ação-Aventura;PC;2009
-1;Prototype;Ação-Aventura;PlayStation 3;2009
-1;Prototype;Ação-Aventura;Xbox 360;2009
-1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PlayStation 3;2009
-1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;Xbox 360;2009
-1;Dragon Age: Origins;RPG;PC;2009
-1;Borderlands;RPG de ação;PC;2009
-1;Halo 3: ODST;Tiro em primeira pessoa;Xbox One;2009
-1;FIFA 10;Esportes;Xbox One;2009
-1;Assassin's Creed II;Ação-Aventura;Xbox One;2009
-1;Batman: Arkham Asylum;Ação-Aventura;Xbox One;2009
-1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox One;2009
-1;Dragon Age: Origins;RPG;Xbox One;2009
-1;FIFA 10;Esportes;PlayStation 4;2009
-1;Assassin's Creed II;Ação-Aventura;PlayStation 4;2009
-1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 4;2009
-1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 4;2009
-1;Dragon Age: Origins;RPG;PlayStation 4;2009
-1;FIFA 10;Esportes;PlayStation 5;2009
-1;Assassin's Creed II;Ação-Aventura;PlayStation 5;2009
-1;Batman: Arkham Asylum;Ação-Aventura;PlayStation 5;2009
-1;Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 5;2009
-1;Dragon Age: Origins;RPG;PlayStation 5;2009
-1;FIFA 10;Esportes;PC;2009
-1;Dragon Age: Origins;RPG;PC;2009
-1;Left 4 Dead 2;Tiro em primeira pessoa;PC;2009
-1;Street Fighter IV;Luta;PC;2009
-1;Borderlands;RPG de ação;PC;2009
-1;Resident Evil 5;Ação-Aventura;PC;2009
-1;Prototype;Ação-Aventura;PC;2009
-1;Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PC;2009
-1;Torchlight;RPG de ação;PC;2009
-1;Need for Speed: Shift;Corrida;PC;2009
-Red Dead Redemption;Ação/Aventura;PlayStation 3;2010
-Red Dead Redemption;Ação/Aventura;Xbox 360;2010
-Mass Effect 2;RPG;PC;2010
-Mass Effect 2;RPG;Xbox 360;2010
-BioShock 2;Tiro em primeira pessoa;PC;2010
-BioShock 2;Tiro em primeira pessoa;Xbox 360;2010
-Heavy Rain;Ação/Aventura;PlayStation 3;2010
-God of War III;Ação;PlayStation 3;2010
-God of War III;Ação;PlayStation 4;2010
-Call of Duty: Black Ops;Tiro em primeira pessoa;PC;2010
-Call of Duty: Black Ops;Tiro em primeira pessoa;PlayStation 3;2010
-Call of Duty: Black Ops;Tiro em primeira pessoa;Xbox 360;2010
-Halo: Reach;Tiro em primeira pessoa;Xbox 360;2010
-Alan Wake;Ação/Aventura;Xbox 360;2010
-Fallout: New Vegas;RPG;PC;2010
-Fallout: New Vegas;RPG;PlayStation 3;2010
-Fallout: New Vegas;RPG;Xbox 360;2010
-Assassin's Creed: Brotherhood;Ação/Aventura;PlayStation 3;2010
-Assassin's Creed: Brotherhood;Ação/Aventura;Xbox 360;2010
-Assassin's Creed: Brotherhood;Ação/Aventura;PC;2010
-Battlefield: Bad Company 2;Tiro em primeira pessoa;PlayStation 3;2010
-Battlefield: Bad Company 2;Tiro em primeira pessoa;Xbox 360;2010
-Battlefield: Bad Company 2;Tiro em primeira pessoa;PC;2010
-Final Fantasy XIII;RPG;PlayStation 3;2010
-Final Fantasy XIII;RPG;Xbox 360;2010
-Super Meat Boy;Plataforma;Xbox 360;2010
-Super Meat Boy;Plataforma;PC;2010
-Limbo;Plataforma;Xbox 360;2010
-Limbo;Plataforma;PC;2010
-StarCraft II: Wings of Liberty;Estratégia em tempo real;PC;2010
-Metro 2033;Tiro em primeira pessoa;PC;2010
-Metro 2033;Tiro em primeira pessoa;Xbox 360;2010
-Super Street Fighter IV;Luta;PlayStation 3;2010
-Super Street Fighter IV;Luta;Xbox 360;2010
-Need for Speed: Hot Pursuit;Corrida;PlayStation 3;2010
-Need for Speed: Hot Pursuit;Corrida;Xbox 360;2010
-Need for Speed: Hot Pursuit;Corrida;PC;2010
-FIFA 11;Esportes;PlayStation 3;2010
-FIFA 11;Esportes;Xbox 360;2010
-FIFA 11;Esportes;PC;2010
-NBA 2K11;Esportes;PlayStation 3;2010
-NBA 2K11;Esportes;Xbox 360;2010
-NBA 2K11;Esportes;PC;2010
-Amnesia: The Dark Descent;Survival Horror;PC;2010
-Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;PC;2010
-Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;PlayStation 3;2010
-Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;Xbox 360;2010
-Star Wars: The Force Unleashed II;Ação/Aventura;PlayStation 3;2010
-Star Wars: The Force Unleashed II;Ação/Aventura;Xbox 360;2010
-Star Wars: The Force Unleashed II;Ação/Aventura;PC;2010
-Dead Rising 2;Ação/Aventura;PlayStation 3;2010
-Dead Rising 2;Ação/Aventura;Xbox 360;2010
-Dead Rising 2;Ação/Aventura;PC;2010
-Medal of Honor;Tiro em primeira pessoa;PlayStation 3;2010
-Medal of Honor;Tiro em primeira pessoa;Xbox 360;2010
-Medal of Honor;Tiro em primeira pessoa;PC;2010
-Tom Clancy's Splinter Cell: Conviction;Ação/Aventura;Xbox 360;2010
-Tom Clancy's Splinter Cell: Conviction;Ação/Aventura;PC;2010
-Alan Wake's American Nightmare;Ação/Aventura;Xbox 360;2010
-FIFA 10;Esportes;PlayStation 3;2010
-FIFA 10;Esportes;Xbox 360;2010
-FIFA 10;Esportes;PC;2010
-Dragon Age: Origins;RPG;PlayStation 3;2010
-Dragon Age: Origins;RPG;Xbox 360;2010
-Dragon Age: Origins;RPG;PC;2010
-Dead Space 2;Survival Horror;PlayStation 3;2010
-Dead Space 2;Survival Horror;Xbox 360;2010
-Dead Space 2;Survival Horror;PC;2010
-Castlevania: Lords of Shadow;Ação/Aventura;PlayStation 3;2010
-Castlevania: Lords of Shadow;Ação/Aventura;Xbox 360;2010
-Castlevania: Lords of Shadow;Ação/Aventura;PC;2010
-Mafia II;Ação/Aventura;PlayStation 3;2010
-Mafia II;Ação/Aventura;Xbox 360;2010
-Mafia II;Ação/Aventura;PC;2010
-Just Cause 2;Ação/Aventura;PlayStation 3;2010
-Just Cause 2;Ação/Aventura;Xbox 360;2010
-Just Cause 2;Ação/Aventura;PC;2010
-Fable III;RPG;Xbox 360;2010
-World of Warcraft: Cataclysm;MMORPG;PC;2010
-Super Street Fighter IV: Arcade Edition;Luta;PlayStation 3;2010
-Super Street Fighter IV: Arcade Edition;Luta;Xbox 360;2010
-Super Street Fighter IV: Arcade Edition;Luta;PC;2010 
-WWE SmackDown vs. Raw 2011;Luta;PlayStation 3;2010
-WWE SmackDown vs. Raw 2011;Luta;Xbox 360;2010
-WWE SmackDown vs. Raw 2011;Luta;PlayStation 2;2010
-Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;PlayStation 3;2010
-Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;Xbox 360;2010
-Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;PC;2010
-Mafia II: Joe's Adventures;Ação/Aventura;PlayStation 3;2010
-Mafia II: Joe's Adventures;Ação/Aventura;Xbox 360;2010
-Mafia II: Joe's Adventures;Ação/Aventura;PC;2010
-Medal of Honor: Frontline HD;Tiro em primeira pessoa;PlayStation 3;2010
-Medal of Honor: Frontline HD;Tiro em primeira pessoa;Xbox 360;2010
-Medal of Honor: Frontline HD;Tiro em primeira pessoa;PC;2010
-Star Wars: The Old Republic;MMORPG;PC;2010
-Kane & Lynch 2: Dog Days;Ação;PlayStation 3;2010
-Kane & Lynch 2: Dog Days;Ação;Xbox 360;2010
-Kane & Lynch 2: Dog Days;Ação;PC;2010
-The Elder Scrolls V: Skyrim;RPG;PlayStation 3;2011
-The Elder Scrolls V: Skyrim;RPG;Xbox 360;2011
-The Elder Scrolls V: Skyrim;RPG;PC;2011
-Batman: Arkham City;Ação/Aventura;PlayStation 3;2011
-Batman: Arkham City;Ação/Aventura;Xbox 360;2011
-Batman: Arkham City;Ação/Aventura;PC;2011
-Uncharted 3: Drake's Deception;Ação/Aventura;PlayStation 3;2011
-Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;PlayStation 3;2011
-Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;Xbox 360;2011
-Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;PC;2011
-Gears of War 3;Tiro em terceira pessoa;Xbox 360;2011
-Battlefield 3;Tiro em primeira pessoa;PlayStation 3;2011
-Battlefield 3;Tiro em primeira pessoa;Xbox 360;2011
-Battlefield 3;Tiro em primeira pessoa;PC;2011
-Portal 2;Quebra-cabeça/Plataforma;PlayStation 3;2011
-Portal 2;Quebra-cabeça/Plataforma;Xbox 360;2011
-Portal 2;Quebra-cabeça/Plataforma;PC;2011
-Deus Ex: Human Revolution;RPG/Ação;PlayStation 3;2011
-Deus Ex: Human Revolution;RPG/Ação;Xbox 360;2011
-Deus Ex: Human Revolution;RPG/Ação;PC;2011
-Dark Souls;RPG/Ação;PlayStation 3;2011
-Dark Souls;RPG/Ação;Xbox 360;2011
-Dark Souls;RPG/Ação;PC;2011
-Saints Row: The Third;Ação/Aventura;PlayStation 3;2011
-Saints Row: The Third;Ação/Aventura;Xbox 360;2011
-Saints Row: The Third;Ação/Aventura;PC;2011
-Assassin's Creed: Revelations;Ação/Aventura;PlayStation 3;2011
-Assassin's Creed: Revelations;Ação/Aventura;Xbox 360;2011
-Assassin's Creed: Revelations;Ação/Aventura;PC;2011
-FIFA 12;Esportes;PlayStation 3;2011
-FIFA 12;Esportes;Xbox 360;2011
-FIFA 12;Esportes;PC;2011
-Madden NFL 12;Esportes;PlayStation 3;2011
-Madden NFL 12;Esportes;Xbox 360;2011
-Madden NFL 12;Esportes;PC;2011
-NBA 2K12;Esportes;PlayStation 3;2011
-NBA 2K12;Esportes;Xbox 360;2011
-NBA 2K12;Esportes;PC;2011
-Forza Motorsport 4;Corrida;Xbox 360;2011
-Mortal Kombat;Luta;PlayStation 3;2011
-Mortal Kombat;Luta;Xbox 360;2011
-Mortal Kombat;Luta;PC;2011
-The Witcher 2: Assassins of Kings;RPG;PC;2011
-Killzone 3;Tiro em primeira pessoa;PlayStation 3;2011
-LittleBigPlanet 2;Plataforma;PlayStation 3;2011
-Dragon Age II;RPG;PlayStation 3;2011
-Dragon Age II;RPG;Xbox 360;2011
-Dragon Age II;RPG;PC;2011
-Mortal Kombat Arcade Kollection;Luta;PlayStation 3;2011
-Mortal Kombat Arcade Kollection;Luta;Xbox 360;2011
-Mortal Kombat Arcade Kollection;Luta;PC;2011
-Rayman Origins;Plataforma;PlayStation 3;2011
-Rayman Origins;Plataforma;Xbox 360;2011
-Rayman Origins;Plataforma;PC;2011
-Minecraft;Sobrevivência;PC;2011
-FIFA Street;Esportes;PlayStation 3;2011
-FIFA Street;Esportes;Xbox 360;2011
-FIFA Street;Esportes;PC;2011
-Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2011
-Max Payne 3;Tiro em terceira pessoa;Xbox 360;2011
-Max Payne 3;Tiro em terceira pessoa;PC;2011
-Star Wars: The Old Republic;MMORPG;PC;2011
-Need for Speed: The Run;Corrida;PlayStation 3;2011
-Need for Speed: The Run;Corrida;Xbox 360;2011
-Need for Speed: The Run;Corrida;PC;2011
-The Sims 3: Pets;Simulação;PlayStation 3;2011
-The Sims 3: Pets;Simulação;Xbox 360;2011
-The Sims 3: Pets;Simulação;PC;2011
-Saints Row: The Third - Gangstas in Space;Ação/Aventura;PlayStation 3;2011
-Saints Row: The Third - Gangstas in Space;Ação/Aventura;Xbox 360;2011
-Saints Row: The Third - Gangstas in Space;Ação/Aventura;PC;2011
-WWE '12;Luta;PlayStation 3;2011
-WWE '12;Luta;Xbox 360;2011
-WWE '12;Luta;PC;2011
-Infamous 2;Ação/Aventura;PlayStation 3;2011
-RAGE;Tiro em primeira pessoa;PlayStation 3;2011
-RAGE;Tiro em primeira pessoa;Xbox 360;2011
-RAGE;Tiro em primeira pessoa;PC;2011
-Crysis 2;Tiro em primeira pessoa;PlayStation 3;2011
-Crysis 2;Tiro em primeira pessoa;Xbox 360;2011
-Crysis 2;Tiro em primeira pessoa;PC;2011
-Dead Space 2;Survival horror;PlayStation 3;2011
-Dead Space 2;Survival horror;Xbox 360;2011
-Dead Space 2;Survival horror;PC;2011
-Child of Eden;Musical;PlayStation 3;2011
-Child of Eden;Musical;Xbox 360;2011
-Child of Eden;Musical;PC;2011
-Just Dance 3;Música;PlayStation 3;2011
-Just Dance 3;Música;Xbox 360;2011
-Resistance 3;Tiro em primeira pessoa;PlayStation 3;2011
-Sonic Generations;Plataforma;PlayStation 3;2011
-Sonic Generations;Plataforma;Xbox 360;2011
-Sonic Generations;Plataforma;PC;2011
-Shift 2: Unleashed;Corrida;PlayStation 3;2011
-Shift 2: Unleashed;Corrida;Xbox 360;2011
-Shift 2: Unleashed;Corrida;PC;2011
-Anno 2070;Estratégia;PC;2011
-1;Assassin's Creed III;Ação-aventura;PlayStation 3;2012
-1;Assassin's Creed III;Ação-aventura;Xbox 360;2012
-1;Assassin's Creed III;Ação-aventura;PC;2012
-1;Borderlands 2;Tiro em primeira pessoa;PlayStation 3;2012
-1;Borderlands 2;Tiro em primeira pessoa;Xbox 360;2012
-1;Borderlands 2;Tiro em primeira pessoa;PC;2012
-1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 3;2012
-1;Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox 360;2012
-1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PC;2012
-1;Darksiders II;Ação-aventura;PlayStation 3;2012
-1;Darksiders II;Ação-aventura;Xbox 360;2012
-1;Darksiders II;Ação-aventura;PC;2012
-1;Dishonored;Ação-aventura;PlayStation 3;2012
-1;Dishonored;Ação-aventura;Xbox 360;2012
-1;Dishonored;Ação-aventura;PC;2012
-1;Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2012
-1;Far Cry 3;Tiro em primeira pessoa;Xbox 360;2012
-1;Far Cry 3;Tiro em primeira pessoa;PC;2012
-1;FIFA 13;Esportes;PlayStation 3;2012
-1;FIFA 13;Esportes;Xbox 360;2012
-1;FIFA 13;Esportes;PC;2012
-1;Halo 4;Tiro em primeira pessoa;Xbox 360;2012
-1;Journey;Aventura;PlayStation 3;2012
-1;Mass Effect 3;RPG de ação;PlayStation 3;2012
-1;Mass Effect 3;RPG de ação;Xbox 360;2012
-1;Mass Effect 3;RPG de ação;PC;2012
-1;Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2012
-1;Max Payne 3;Tiro em terceira pessoa;Xbox 360;2012
-1;Max Payne 3;Tiro em terceira pessoa;PC;2012
-1;NBA 2K13;Esportes;PlayStation 3;2012
-1;NBA 2K13;Esportes;Xbox 360;2012
-1;NBA 2K13;Esportes;PC;2012
-1;Need for Speed: Most Wanted;Corrida;PlayStation 3;2012
-1;Need for Speed: Most Wanted;Corrida;Xbox 360;2012
-1;Need for Speed: Most Wanted;Corrida;PC;2012
-1;Resident Evil 6;Survival horror;PlayStation 3;2012
-1;Resident Evil 6;Survival horror;Xbox 360;2012
-1;Resident Evil 6;Survival horror;PC;2012
-1;Sleeping Dogs;Ação-aventura;PlayStation 3;2012
-1;Sleeping Dogs;Ação-aventura;Xbox 360;2012
-1;Sleeping Dogs;Ação-aventura;PC;2012
-1;The Elder Scrolls V: Skyrim;RPG de ação;PlayStation 3;2012
-1;The Elder Scrolls V: Skyrim;RPG de ação;Xbox 360;2012
-1;The Elder Scrolls V: Skyrim;RPG de ação;PC;2012
-1;The Last of Us;Ação-aventura;PlayStation 3;2012
-1;XCOM: Enemy Unknown;Estratégia por turnos;PlayStation 3;2012
-1;XCOM: Enemy Unknown;Estratégia por turnos;Xbox 360;2012
-1;XCOM: Enemy Unknown;Estratégia por turnos;PC;2012
-1;Diablo III;RPG de ação;PC;2012
-1;Guild Wars 2;MMORPG;PC;2012
-1;Dishonored;Ação-aventura;PlayStation 4;2012
-1;Dishonored;Ação-aventura;Xbox One;2012
-1;Borderlands 2;Tiro em primeira pessoa;PlayStation 4;2012
-1;Borderlands 2;Tiro em primeira pessoa;Xbox One;2012
-1;Far Cry 3;Tiro em primeira pessoa;PlayStation 4;2012
-1;Far Cry 3;Tiro em primeira pessoa;Xbox One;2012
-1;FIFA 13;Esportes;PlayStation 4;2012
-1;FIFA 13;Esportes;Xbox One;2012
-1;Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 4;2012
-1;Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox One;2012
-1;Halo 4;Tiro em primeira pessoa;Xbox One;2012
-1;Mass Effect 3;RPG de ação;PlayStation 4;2012
-1;Mass Effect 3;RPG de ação;Xbox One;2012
-1;Max Payne 3;Tiro em terceira pessoa;PlayStation 4;2012
-1;Max Payne 3;Tiro em terceira pessoa;Xbox One;2012
-1;NBA 2K13;Esportes;PlayStation 4;2012
-1;NBA 2K13;Esportes;Xbox One;2012
-1;Need for Speed: Most Wanted;Corrida;PlayStation 4;2012
-1;Need for Speed: Most Wanted;Corrida;Xbox One;2012
-1;Resident Evil 6;Survival horror;PlayStation 4;2012
-BioShock Infinite;Ação-Aventura;PC;2013
-BioShock Infinite;Ação-Aventura;PlayStation 3;2013
-BioShock Infinite;Ação-Aventura;Xbox 360;2013
-The Last of Us;Ação-Aventura;PlayStation 3;2013
-Grand Theft Auto V;Ação-Aventura;PlayStation 3;2013
-Grand Theft Auto V;Ação-Aventura;Xbox 360;2013
-Tomb Raider;Ação-Aventura;PlayStation 3;2013
-Tomb Raider;Ação-Aventura;Xbox 360;2013
-Tomb Raider;Ação-Aventura;PC;2013
-Assassin's Creed IV: Black Flag;Ação-Aventura;PlayStation 3;2013
-Assassin's Creed IV: Black Flag;Ação-Aventura;Xbox 360;2013
-Assassin's Creed IV: Black Flag;Ação-Aventura;PC;2013
-Assassin's Creed IV: Black Flag;Ação-Aventura;PlayStation 4;2013
-Battlefield 4;Tiro em primeira pessoa;PlayStation 3;2013
-Battlefield 4;Tiro em primeira pessoa;Xbox 360;2013
-Battlefield 4;Tiro em primeira pessoa;PC;2013
-Battlefield 4;Tiro em primeira pessoa;PlayStation 4;2013
-Call of Duty: Ghosts;Tiro em primeira pessoa;PlayStation 3;2013
-Call of Duty: Ghosts;Tiro em primeira pessoa;Xbox 360;2013
-Call of Duty: Ghosts;Tiro em primeira pessoa;PC;2013
-Call of Duty: Ghosts;Tiro em primeira pessoa;PlayStation 4;2013
-FIFA 14;Esportes;PlayStation 3;2013
-FIFA 14;Esportes;Xbox 360;2013
-FIFA 14;Esportes;PC;2013
-FIFA 14;Esportes;PlayStation 4;2013
-NBA 2K14;Esportes;PlayStation 3;2013
-NBA 2K14;Esportes;Xbox 360;2013
-NBA 2K14;Esportes;PC;2013
-NBA 2K14;Esportes;PlayStation 4;2013
-Assassin's Creed III;Ação-Aventura;PlayStation 3;2013
-Assassin's Creed III;Ação-Aventura;Xbox 360;2013
-Assassin's Creed III;Ação-Aventura;PC;2013
-Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2013
-Far Cry 3;Tiro em primeira pessoa;Xbox 360;2013
-Far Cry 3;Tiro em primeira pessoa;PC;2013
-Far Cry 3: Blood Dragon;Tiro em primeira pessoa;PlayStation 3;2013
-Far Cry 3: Blood Dragon;Tiro em primeira pessoa;Xbox 360;2013
-Far Cry 3: Blood Dragon;Tiro em primeira pessoa;PC;2013
-The Elder Scrolls V: Skyrim;RPG;PlayStation 3;2013
-The Elder Scrolls V: Skyrim;RPG;Xbox 360;2013
-The Elder Scrolls V: Skyrim;RPG;PC;2013
-The Elder Scrolls V: Skyrim;RPG;PlayStation 4;2013
-Minecraft;Aventura;PlayStation 3;2013
-Minecraft;Aventura;Xbox 360;2013
-Minecraft;Aventura;PC;2013
-Minecraft;Aventura;PlayStation 4;2013
-Diablo III;RPG de ação;PlayStation 3;2013
-Diablo III;RPG de ação;Xbox 360;2013
-Diablo III;RPG de ação;PC;2013
-Diablo III: Reaper of Souls;RPG de ação;PlayStation 3;2013
-Diablo III: Reaper of Souls;RPG de ação;Xbox 360;2013
-Diablo III: Reaper of Souls;RPG de ação;PC;2013
-FIFA 13;Esportes;PlayStation 3;2013
-FIFA 13;Esportes;Xbox 360;2013
-FIFA 13;Esportes;PC;2013
-FIFA 13;Esportes;PlayStation 4;2013
-Hitman: Absolution;Stealth;PlayStation 3;2013
-Hitman: Absolution;Stealth;Xbox 360;2013
-Hitman: Absolution;Stealth;PC;2013
-Hitman: Absolution;Stealth;PlayStation 4;2013
-Need for Speed: Most Wanted;Corrida;PlayStation 3;2013
-Need for Speed: Most Wanted;Corrida;Xbox 360;2013
-Need for Speed: Most Wanted;Corrida;PC;2013
-Need for Speed: Most Wanted;Corrida;PlayStation 4;2013
-The Walking Dead: Season One;Aventura gráfica;PlayStation 3;2013
-The Walking Dead: Season One;Aventura gráfica;Xbox 360;2013
-The Walking Dead: Season One;Aventura gráfica;PC;2013
-The Walking Dead: Season One;Aventura gráfica;PlayStation 4;2013
-Dishonored;Ação-Aventura;PlayStation 3;2013
-Dishonored;Ação-Aventura;Xbox 360;2013
-Dishonored;Ação-Aventura;PC;2013
-Dishonored;Ação-Aventura;PlayStation 4;2013
-Dark Souls II;RPG de ação;PlayStation 3;2013
-Dark Souls II;RPG de ação;Xbox 360;2013
-Dark Souls II;RPG de ação;PC;2013
-Dark Souls II;RPG de ação;PlayStation 4;2013
-Resident Evil 6;Survival horror;PlayStation 3;2013
-Resident Evil 6;Survival horror;Xbox 360;2013
-Resident Evil 6;Survival horror;PC;2013
-Resident Evil 6;Survival horror;PlayStation 4;2013
-Crysis 3;Tiro em primeira pessoa;PlayStation 3;2013
-Crysis 3;Tiro em primeira pessoa;Xbox 360;2013
-Crysis 3;Tiro em primeira pessoa;PC;2013
-Crysis 3;Tiro em primeira pessoa;PlayStation 4;2013
-Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2013
-Max Payne 3;Tiro em terceira pessoa;Xbox 360;2013
-Max Payne 3;Tiro em terceira pessoa;PC;2013
-Max Payne 3;Tiro em terceira pessoa;PlayStation 4;2013
-Battlefield 3;Tiro em primeira pessoa;PlayStation 3;2013
-Battlefield 3;Tiro em primeira pessoa;Xbox 360;2013
-Battlefield 3;Tiro em primeira pessoa;PC;2013
-Battlefield 3;Tiro em primeira pessoa;PlayStation 4;2013
-Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 3;2013
-Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox 360;2013
-Call of Duty: Black Ops II;Tiro em primeira pessoa;PC;2013
-Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 4;2013
-Pro Evolution Soccer 2013;Esportes;PlayStation 3;2013
-Pro Evolution Soccer 2013;Esportes;Xbox 360;2013
-Pro Evolution Soccer 2013;Esportes;PC;2013
-1;The Witcher 3: Wild Hunt;RPG;PlayStation 4;2015
-1;Metal Gear Solid V: The Phantom Pain;Ação/Aventura;PlayStation 4;2015
-1;Fallout 4;RPG;PlayStation 4;2015
-1;Bloodborne;Ação/RPG;PlayStation 4;2015
-1;Halo 5: Guardians;Tiro em primeira pessoa;Xbox One;2015
-1;Batman: Arkham Knight;Ação/Aventura;PlayStation 4;2015
-1;Call of Duty: Black Ops III;Tiro em primeira pessoa;PlayStation 4;2015
-1;Star Wars Battlefront;Tiro em primeira pessoa;PlayStation 4;2015
-1;Rise of the Tomb Raider;Ação/Aventura;Xbox One;2015
-1;Assassin's Creed Syndicate;Ação/Aventura;PlayStation 4;2015
-1;Rocket League;Esportes;PlayStation 4;2015
-1;FIFA 16;Esportes;PlayStation 4;2015
-1;Mortal Kombat X;Luta;PlayStation 4;2015
-1;Dying Light;Ação/Aventura;PlayStation 4;2015
-1;Until Dawn;Ação/Aventura;PlayStation 4;2015
-1;Forza Motorsport 6;Corrida;Xbox One;2015
-1;Halo: The Master Chief Collection;Tiro em primeira pessoa;Xbox One;2015
-1;The Order: 1886;Ação/Aventura;PlayStation 4;2015
-1;NBA 2K16;Esportes;PlayStation 4;2015
-1;Persona 5;RPG;PlayStation 4;2015
-1;Tom Clancy's Rainbow Six Siege;Tiro em primeira pessoa;PlayStation 4;2015
-1;Metal Gear Solid V: Ground Zeroes;Ação/Aventura;PlayStation 4;2015
-1;Destiny: The Taken King;Tiro em primeira pessoa;PlayStation 4;2015
-1;Just Cause 3;Ação/Aventura;PlayStation 4;2015
-1;Mad Max;Ação/Aventura;PlayStation 4;2015
-1;The Elder Scrolls Online: Tamriel Unlimited;RPG;PlayStation 4;2015
-1;Resident Evil Revelations 2;Survival horror;PlayStation 4;2015
-1;Battlefield Hardline;Tiro em primeira pessoa;PlayStation 4;2015
-1;Dragon Ball Xenoverse;Luta;PlayStation 4;2015
-1;Final Fantasy Type-0 HD;RPG;PlayStation 4;2015
-1;Grand Theft Auto V;Ação/Aventura;PlayStation 4;2015
-1;The Division;RPG;PlayStation 4;2015
-1;Battlefield 4;Tiro em primeira pessoa;PlayStation 4;2015
-1;Minecraft: Story Mode;Aventura gráfica;PlayStation 4;2015
-1;Diablo III: Reaper of Souls;RPG de ação;PlayStation 4;2015
-1;The Crew;Corrida;PlayStation 4;2015
-1;Watch Dogs;Ação/Aventura;PlayStation 4;2015
-1;Need for Speed;Corrida;PlayStation 4;2015
-1;Uncharted: The Nathan Drake Collection;Ação/Aventura;PlayStation 4;2015
-1;Pro Evolution Soccer 2016;Esportes;PlayStation 4;2015
-1;Final Fantasy XIV: Heavensward;RPG online;PlayStation 4;2015
-1;Battlefield 1;Tiro em primeira pessoa;PlayStation 4;2015
-1;Resident Evil 7: Biohazard;Survival horror;PlayStation 4;2015
-1;Far Cry 4;Tiro em primeira pessoa;PlayStation 4;2015
-1;The Sims 4;Simulação de vida;PC;2015
-1;Gears of War: Ultimate Edition;Tiro em terceira pessoa;Xbox One;2015
-1;Tom Clancy's The Division 2;RPG;PlayStation 4;2015
-1;PES 2015;Esportes;PlayStation 4;2015
-1;Borderlands: The Handsome Collection;RPG de ação;PlayStation 4;2015
-1;Star Wars Jedi: Fallen Order;Ação/Aventura;PlayStation 4;2015
-1;Need for Speed Rivals;Corrida;PlayStation 4;2015
-1;Minecraft;Sobrevivência;PC;2015
-1;Mortal Kombat XL;Luta;PlayStation 4;2015
-1;Deus Ex: Mankind Divided;RPG de ação;PlayStation 4;2015
-1;Dragon Age: Inquisition;RPG;PlayStation 4;2015
-1;Overwatch;Tiro em primeira pessoa;PC;2015
-1;FIFA 15;Esportes;PlayStation 4;2015
-1;Far Cry Primal;Tiro em primeira pessoa;PlayStation 4;2015
-1;Wolfenstein: The Old Blood;Tiro em primeira pessoa;PlayStation 4;2015
-1;Assassin's Creed IV: Black Flag;Ação/Aventura;PlayStation 4;2015
-1;Mirror's Edge Catalyst;Ação/Aventura;PlayStation 4;2015
-1;Dark Souls III;RPG de ação;PlayStation 4;2015
-1;Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2015
-1;Resident Evil HD Remaster;Survival horror;PlayStation 4;2015
-1;Dishonored 2;Ação/Aventura;PlayStation 4;2015
-1;Middle-earth: Shadow of Mordor;Ação/Aventura;PlayStation 4;2015
-1;The Last of Us Remastered;Ação/Aventura;PlayStation 4;2015
-1;The Elder Scrolls V: Skyrim Special Edition;RPG;PlayStation 4;2015
-1;Assassin's Creed Unity;Ação/Aventura;PlayStation 4;2015
-1;Resident Evil 2 Remake;Survival horror;PlayStation 4;2015
-1;Batman: Arkham Origins;Ação/Aventura;PlayStation 4;2015
-1;Fallout 3;RPG;PlayStation 3;2015
-1;Battlefield V;Tiro em primeira pessoa;PlayStation 4;2015
-1;Ghost of Tsushima;Ação/Aventura;PlayStation 4;2015
-1;Tom Clancy's Ghost Recon Wildlands;Tiro em terceira pessoa;PlayStation 4;2015
-1;Hitman;Stealth;PlayStation 4;2015
-1;StarCraft II: Legacy of the Void;Estratégia em tempo real;PC;2015
-1;Grand Theft Auto: San Andreas;Ação/Aventura;PlayStation 3;2015
-1;Doom;Tiro em primeira pessoa;PlayStation 4;2015
-1;Saints Row IV;Ação/Aventura;PlayStation 4;2015
-1;Assassin's Creed Rogue;Ação/Aventura;PlayStation 3;2015
-1;Metro Exodus;Tiro em primeira pessoa;PlayStation 4;2015
-1;World of Warcraft: Legion;RPG online;PC;2015
-1;Batman: Arkham City;Ação/Aventura;PlayStation 3;2015
-1;Resident Evil 6;Survival horror;PlayStation 4;2015
-1;Far Cry 5;Tiro em primeira pessoa;PlayStation 4;2015
-1;Mortal Kombat 11;Luta;PlayStation 4;2015
-1;Diablo III;RPG de ação;PlayStation 4;2015
-1;Horizon Zero Dawn;Ação/Aventura;PlayStation 4;2017
-1;PlayerUnknown's Battlegrounds;Battle Royale;PC;2017
-1;Persona 5;RPG;PlayStation 4;2017
-1;Cuphead;Plataforma;Xbox One;2017
-1;Resident Evil 7: Biohazard;Survival Horror;PlayStation 4;2017
-1;Nier: Automata;RPG de Ação;PlayStation 4;2017
-1;Assassin's Creed Origins;Ação/Aventura;PlayStation 4;2017
-1;Destiny 2;Tiro;PlayStation 4;2017
-1;Wolfenstein II: The New Colossus;Tiro em primeira pessoa;PlayStation 4;2017
-1;Call of Duty: WWII;Tiro em primeira pessoa;PlayStation 4;2017
-1;Fortnite;Battle Royale;PlayStation 4;2017
-1;Injustice 2;Luta;PlayStation 4;2017
-1;Uncharted: The Lost Legacy;Ação/Aventura;PlayStation 4;2017
-1;Crash Bandicoot N. Sane Trilogy;Plataforma;PlayStation 4;2017
-1;Gran Turismo Sport;Corrida;PlayStation 4;2017
-1;Middle-earth: Shadow of War;Ação/Aventura;PlayStation 4;2017
-1;Tom Clancy's Ghost Recon Wildlands;Tiro em terceira pessoa;PlayStation 4;2017
-1;Overwatch;Tiro em equipe;PC;2017
-1;Forza Motorsport 7;Corrida;Xbox One;2017
-1;Marvel vs. Capcom: Infinite;Luta;PlayStation 4;2017
-1;Prey;Tiro em primeira pessoa;PlayStation 4;2017
-1;Final Fantasy XIV: Stormblood;MMORPG;PC;2017
-1;Stardew Valley;Simulação;PC;2017
-1;Tom Clancy's The Division;Tiro em terceira pessoa;PlayStation 4;2017
-1;Yakuza 0;Ação/Aventura;PlayStation 4;2017
-1;Madden NFL 18;Esportes;PlayStation 4;2017
-1;Tekken 7;Luta;PlayStation 4;2017
-1;FIFA 18;Esportes;PlayStation 4;2017
-1;South Park: The Fractured But Whole;RPG;PlayStation 4;2017
-1;The Evil Within 2;Survival Horror;PlayStation 4;2017
-1;Sonic Mania;Plataforma;PlayStation 4;2017
-1;Dishonored: Death of the Outsider;Ação/Aventura;PlayStation 4;2017
-1;NieR Replicant ver.1.22474487139...;RPG de Ação;PlayStation 4;2017
-1;Destiny 2: Curse of Osiris;Tiro;PlayStation 4;2017
-1;Hellblade: Senua's Sacrifice;Ação/Aventura;PlayStation 4;2017
-1;Nioh;RPG de Ação;PlayStation 4;2017
-1;Need for Speed Payback;Corrida;PlayStation 4;2017
-1;Little Nightmares;Plataforma;PlayStation 4;2017
-1;ARK: Survival Evolved;Sobrevivência;PC;2017
-1;Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2017
-1;Madden NFL 17;Esportes;PlayStation 4;2017
-1;Life is Strange: Before the Storm;Aventura Gráfica;PlayStation 4;2017
-1;Dragon Ball FighterZ;Luta;PlayStation 4;2017
-1;Divinity: Original Sin II;RPG;PC;2017
-1;Sonic Forces;Plataforma;PlayStation 4;2017
-1;Far Cry 5;Tiro em primeira pessoa;PlayStation 4;2017
-1;Sniper Elite 4;Tiro em terceira pessoa;PlayStation 4;2017
-1;Tom Clancy's Rainbow Six Siege;Tiro em equipe;PC;2017
-1;Ghost Recon: Wildlands;Tiro em terceira pessoa;PlayStation 4;2017
-1;Dark Souls III: The Ringed City;RPG de Ação;PlayStation 4;2017
-1;Madden NFL 16;Esportes;PlayStation 4;2017
-1;Final Fantasy XII: The Zodiac Age;RPG;PlayStation 4;2017
-1;The Surge;RPG de Ação;PlayStation 4;2017
-1;Little Nightmares: Secrets of The Maw;Plataforma;PlayStation 4;2017
-1;Wipeout Omega Collection;Corrida;PlayStation 4;2017
-1;Dragon Quest XI;RPG;PlayStation 4;2017
-1;Diablo III: Rise of the Necromancer;RPG de Ação;PlayStation 4;2017
-1;FIFA 17;Esportes;PlayStation 4;2017
-1;South Park: Phone Destroyer;Estratégia;Android/iOS;2017
-1;Final Fantasy XV: Episode Prompto;RPG de Ação;PlayStation 4;2017
-1;Outlast 2;Survival Horror;PlayStation 4;2017
-1;WWE 2K18;Luta;PlayStation 4;2017
-1;Dragon's Dogma: Dark Arisen;RPG de Ação;PlayStation 4;2017
-1;Madden NFL 15;Esportes;PlayStation 4;2017
-1;The Witcher 3: Wild Hunt - Blood and Wine;RPG de Ação;PlayStation 4;2017
-1;FIFA 16;Esportes;PlayStation 4;2017
-1;Overwatch: Game of the Year Edition;Tiro em equipe;PC;2017
-1;The Elder Scrolls: Legends;Estratégia;PC;2017
-1;Minecraft: Story Mode - Season Two;Aventura Gráfica;PlayStation 4;2017
-1;Kingdom Hearts HD 1.5 + 2.5 Remix;RPG de Ação;PlayStation 4;2017
-1;LEGO Marvel Super Heroes 2;Ação/Aventura;PlayStation 4;2017
-1;PES 2018;Esportes;PlayStation 4;2017
-1;Star Wars Battlefront II;Tiro em primeira pessoa;PlayStation 4;2017
-1;Final Fantasy XV: Comrades;RPG de Ação;PlayStation 4;2017
-1;Hitman: The Complete First Season;Ação/Aventura;PlayStation 4;2017
-1;Cities: Skylines;Simulação;PlayStation 4;2017
-1;Watch Dogs 2;Ação/Aventura;PlayStation 4;2017
-1;Resident Evil 7: Biohazard - End of Zoe;Survival Horror;PlayStation 4;2017
-1;Middle-earth: Shadow of War - The Blade of Galadriel;Ação/Aventura;PlayStation 4;2017
-1;Outlast Trinity;Survival Horror;PlayStation 4;2017
-1;LEGO City Undercover;Ação/Aventura;PlayStation 4;2017
-1;NBA 2K18;Esportes;PlayStation 4;2017
-1;Final Fantasy XV: Episode Ignis;RPG de Ação;PlayStation 4;2017
-1;Agents of Mayhem;Ação/Aventura;PlayStation 4;2017
-1;The Elder Scrolls Online: Morrowind;MMORPG;PlayStation 4;2017
-1;The Sims 4;Simulação;PlayStation 4;2017
-1;Minecraft: Story Mode - Season One;Aventura Gráfica;PlayStation 4;2017
-1;Marvel's Guardians of the Galaxy: The Telltale Series;Aventura Gráfica;PlayStation 4;2017
-1;Titanfall 2;Tiro em primeira pessoa;PlayStation 4;2017
-1;Crash Bandicoot N. Sane Trilogy;Plataforma;PlayStation 4;2017
-1;Gran Turismo Sport;Corrida;PlayStation 4;2017
-1;Sekiro: Shadows Die Twice;Ação-aventura;PlayStation 4;2019
-1;Resident Evil 2;Survival horror;PlayStation 4;2019
-1;Devil May Cry 5;Hack and slash;PlayStation 4;2019
-1;Death Stranding;Ação;PlayStation 4;2019
-1;Control;Ação-aventura;PlayStation 4;2019
-1;The Outer Worlds;RPG;PlayStation 4;2019
-1;Borderlands 3;RPG de tiro;PlayStation 4;2019
-1;Tom Clancy's The Division 2;RPG de ação;PlayStation 4;2019
-1;Mortal Kombat 11;Luta;PlayStation 4;2019
-1;Gears 5;Tiro em terceira pessoa;Xbox One;2019
-1;Call of Duty: Modern Warfare;Tiro em primeira pessoa;PlayStation 4;2019
-1;Star Wars Jedi: Fallen Order;Ação-aventura;PlayStation 4;2019
-1;Metro Exodus;Tiro em primeira pessoa;PlayStation 4;2019
-1;Apex Legends;Battle royale;PlayStation 4;2019
-1;FIFA 20;Esporte;PlayStation 4;2019
-1;NBA 2K20;Esporte;PlayStation 4;2019
-1;Madden NFL 20;Esporte;PlayStation 4;2019
-1;Pro Evolution Soccer 2020;Esporte;PlayStation 4;2019
-1;Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2019
-1;Call of Duty: Black Ops 4;Tiro em primeira pessoa;PlayStation 4;2019
-1;Anthem;RPG de ação;PlayStation 4;2019
-1;Far Cry New Dawn;Tiro em primeira pessoa;PlayStation 4;2019
-1;Rage 2;Tiro em primeira pessoa;PlayStation 4;2019
-1;A Plague Tale: Innocence;Ação-aventura;PlayStation 4;2019
-1;Days Gone;Ação-aventura;PlayStation 4;2019
-1;Metro: Last Light Redux;Tiro em primeira pessoa;PC;2019
-1;Battlefield V;Tiro em primeira pessoa;PlayStation 4;2019
-1;Assassin's Creed Odyssey;RPG de ação;PlayStation 4;2019
-1;Kingdom Hearts III;RPG de ação;PlayStation 4;2019
-1;The Division 2;RPG de ação;PC;2019
-1;Mortal Kombat 11;Luta;PC;2019
-1;Apex Legends;Battle royale;PC;2019
-1;Control;Ação-aventura;PC;2019
-1;Borderlands 3;RPG de tiro;PC;2019
-1;Sekiro: Shadows Die Twice;Ação-aventura;PC;2019
-1;Resident Evil 2;Survival horror;PC;2019
-1;Devil May Cry 5;Hack and slash;PC;2019
-1;Death Stranding;Ação;PC;2019
-1;The Outer Worlds;RPG;PC;2019
-1;Star Wars Jedi: Fallen Order;Ação-aventura;PC;2019
-1;Tom Clancy's The Division 2;RPG de ação;PC;2019
-1;Gears 5;Tiro em terceira pessoa;PC;2019
-1;Call of Duty: Modern Warfare;Tiro em primeira pessoa;PC;2019
-1;Metro Exodus;Tiro em primeira pessoa;PC;2019
-1;Far Cry New Dawn;Tiro em primeira pessoa;PC;2019
-1;Rage 2;Tiro em primeira pessoa;PC;2019
-1;A Plague Tale: Innocence;Ação-aventura;PC;2019
-1;Days Gone;Ação-aventura;PC;2019
-1;FIFA 20;Esporte;PC;2019
-1;NBA 2K20;Esporte;PC;2019
-1;Madden NFL 20;Esporte;PC;2019
-1;Pro Evolution Soccer 2020;Esporte;PC;2019
-1;Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2019
-1;The Legend of Zelda: Link's Awakening;Ação-aventura;PC;2019
-1;Call of Duty: Black Ops 4;Tiro em primeira pessoa;PC;2019
-1;Anthem;RPG de ação;PC;2019
-1;Metro: Last Light Redux;Tiro em primeira pessoa;Xbox One;2019
-1;Battlefield V;Tiro em primeira pessoa;Xbox One;2019
-1;Assassin's Creed Odyssey;RPG de ação;Xbox One;2019
-1;Kingdom Hearts III;RPG de ação;Xbox One;2019
-1;The Division 2;RPG de ação;Xbox One;2019
-1;Mortal Kombat 11;Luta;Xbox One;2019
-1;Apex Legends;Battle royale;Xbox One;2019
-1;Control;Ação-aventura;Xbox One;2019
-1;Borderlands 3;RPG de tiro;Xbox One;2019
-1;Sekiro: Shadows Die Twice;Ação-aventura;Xbox One;2019
-1;Resident Evil 2;Survival horror;Xbox One;2019
-1;Devil May Cry 5;Hack and slash;Xbox One;2019
-1;Death Stranding;Ação;Xbox One;2019
-1;The Outer Worlds;RPG;Xbox One;2019
-1;Star Wars Jedi: Fallen Order;Ação-aventura;Xbox One;2019
-1;Tom Clancy's The Division 2;RPG de ação;Xbox One;2019
-1;Gears 5;Tiro em terceira pessoa;Xbox One;2019
-1;Call of Duty: Modern Warfare;Tiro em primeira pessoa;Xbox One;2019
-1;Metro Exodus;Tiro em primeira pessoa;Xbox One;2019
-1;Far Cry New Dawn;Tiro em primeira pessoa;Xbox One;2019
-1;Rage 2;Tiro em primeira pessoa;Xbox One;2019
-1;A Plague Tale: Innocence;Ação-aventura;Xbox One;2019
-1;Days Gone;Ação-aventura;Xbox One;2019
-1;FIFA 20;Esporte;Xbox One;2019
-1;NBA 2K20;Esporte;Xbox One;2019
-1;Madden NFL 20;Esporte;Xbox One;2019
-1;Pro Evolution Soccer 2020;Esporte;Xbox One;2019
-1;Crash Team Racing Nitro-Fueled;Corrida;Xbox One;2019
-1;Metro: Last Light Redux;Tiro em primeira pessoa;PlayStation 3;2019
-1;Battlefield V;Tiro em primeira pessoa;PlayStation 3;2019
-1;Assassin's Creed Odyssey;RPG de ação;PlayStation 3;2019
-1;Kingdom Hearts III;RPG de ação;PlayStation 3;2019
-1;The Division 2;RPG de ação;PlayStation 3;2019
-1;Mortal Kombat 11;Luta;PlayStation 3;2019
-1;Control;Ação-aventura;PlayStation 3;2019
-1;Borderlands 3;RPG de tiro;PlayStation 3;2019
-1;Sekiro: Shadows Die Twice;Ação-aventura;PlayStation 3;2019
-1;Resident Evil 2;Survival horror;PlayStation 3;2019
-1;Devil May Cry 5;Hack and slash;PlayStation 3;2019
+1 Assassin's Creed II;Ação-Aventura;PlayStation 3;2009
+1 Assassin's Creed II;Ação-Aventura;Xbox 360;2009
+1 Batman: Arkham Asylum;Ação-Aventura;PlayStation 3;2009
+1 Batman: Arkham Asylum;Ação-Aventura;Xbox 360;2009
+1 Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 3;2009
+1 Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox 360;2009
+1 Dragon Age: Origins;RPG;PlayStation 3;2009
+1 Dragon Age: Origins;RPG;Xbox 360;2009
+1 FIFA 10;Esportes;PlayStation 3;2009
+1 FIFA 10;Esportes;Xbox 360;2009
+1 Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;PlayStation 3;2009
+1 Grand Theft Auto: Episodes from Liberty City;Ação-Aventura;Xbox 360;2009
+1 Halo 3: ODST;Tiro em primeira pessoa;Xbox 360;2009
+1 Infamous;Ação-Aventura;PlayStation 3;2009
+1 Left 4 Dead 2;Tiro em primeira pessoa;Xbox 360;2009
+1 Resident Evil 5;Ação-Aventura;PlayStation 3;2009
+1 Resident Evil 5;Ação-Aventura;Xbox 360;2009
+1 Uncharted 2: Among Thieves;Ação-Aventura;PlayStation 3;2009
+1 Borderlands;RPG de ação;PlayStation 3;2009
+1 Borderlands;RPG de ação;Xbox 360;2009
+1 Bayonetta;Ação;PlayStation 3;2009
+1 Bayonetta;Ação;Xbox 360;2009
+1 Street Fighter IV;Luta;PlayStation 3;2009
+1 Street Fighter IV;Luta;Xbox 360;2009
+1 BioShock 2;Tiro em primeira pessoa;PlayStation 3;2009
+1 BioShock 2;Tiro em primeira pessoa;Xbox 360;2009
+1 Assassin's Creed: Bloodlines;Ação-Aventura;PlayStation Portable (PSP);2009
+1 FIFA 10;Esportes;PlayStation 2;2009
+1 Need for Speed: Shift;Corrida;PlayStation 3;2009
+1 Need for Speed: Shift;Corrida;Xbox 360;2009
+1 Forza Motorsport 3;Corrida;Xbox 360;2009
+1 God of War Collection;Ação-Aventura;PlayStation 3;2009
+1 Madden NFL 10;Esportes;PlayStation 3;2009
+1 Madden NFL 10;Esportes;Xbox 360;2009
+1 Pro Evolution Soccer 2010;Esportes;PlayStation 3;2009
+1 Pro Evolution Soccer 2010;Esportes;Xbox 360;2009
+1 Red Faction: Guerrilla;Tiro em terceira pessoa;PlayStation 3;2009
+1 Red Faction: Guerrilla;Tiro em terceira pessoa;Xbox 360;2009
+1 Saints Row 2;Ação-Aventura;PlayStation 3;2009
+1 Saints Row 2;Ação-Aventura;Xbox 360;2009
+1 The Sims 3;Simulação de vida;PC;2009
+1 Ratchet & Clank Future: A Crack in Time;Plataforma;PlayStation 3;2009
+1 Batman: Arkham Asylum;Ação-Aventura;PC;2009
+1 The Sims 3: World Adventures;Simulação de vida;PC;2009
+1 Left 4 Dead 2;Tiro em primeira pessoa;PC;2009
+1 Street Fighter IV;Luta;PC;2009
+1 Torchlight;RPG de ação;PC;2009
+1 Resident Evil 5;Ação-Aventura;PC;2009
+1 Prototype;Ação-Aventura;PlayStation 3;2009
+1 Prototype;Ação-Aventura;Xbox 360;2009
+1 Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PlayStation 3;2009
+1 Call of Juarez: Bound in Blood;Tiro em primeira pessoa;Xbox 360;2009
+1 Dragon Age: Origins;RPG;PC;2009
+1 Borderlands;RPG de ação;PC;2009
+1 Halo 3: ODST;Tiro em primeira pessoa;Xbox One;2009
+1 FIFA 10;Esportes;Xbox One;2009
+1 Assassin's Creed II;Ação-Aventura;Xbox One;2009
+1 Batman: Arkham Asylum;Ação-Aventura;Xbox One;2009
+1 Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;Xbox One;2009
+1 Dragon Age: Origins;RPG;Xbox One;2009
+1 FIFA 10;Esportes;PlayStation 4;2009
+1 Assassin's Creed II;Ação-Aventura;PlayStation 4;2009
+1 Batman: Arkham Asylum;Ação-Aventura;PlayStation 4;2009
+1 Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 4;2009
+1 Dragon Age: Origins;RPG;PlayStation 4;2009
+1 FIFA 10;Esportes;PlayStation 5;2009
+1 Assassin's Creed II;Ação-Aventura;PlayStation 5;2009
+1 Batman: Arkham Asylum;Ação-Aventura;PlayStation 5;2009
+1 Call of Duty: Modern Warfare 2;Tiro em primeira pessoa;PlayStation 5;2009
+1 Dragon Age: Origins;RPG;PlayStation 5;2009
+1 FIFA 10;Esportes;PC;2009
+1 Dragon Age: Origins;RPG;PC;2009
+1 Left 4 Dead 2;Tiro em primeira pessoa;PC;2009
+1 Street Fighter IV;Luta;PC;2009
+1 Borderlands;RPG de ação;PC;2009
+1 Resident Evil 5;Ação-Aventura;PC;2009
+1 Prototype;Ação-Aventura;PC;2009
+1 Call of Juarez: Bound in Blood;Tiro em primeira pessoa;PC;2009
+1 Torchlight;RPG de ação;PC;2009
+1 Need for Speed: Shift;Corrida;PC;2009
+1 Red Dead Redemption;Ação/Aventura;PlayStation 3;2010
+1 Red Dead Redemption;Ação/Aventura;Xbox 360;2010
+1 Mass Effect 2;RPG;PC;2010
+1 Mass Effect 2;RPG;Xbox 360;2010
+1 BioShock 2;Tiro em primeira pessoa;PC;2010
+1 BioShock 2;Tiro em primeira pessoa;Xbox 360;2010
+1 Heavy Rain;Ação/Aventura;PlayStation 3;2010
+1 God of War III;Ação;PlayStation 3;2010
+1 God of War III;Ação;PlayStation 4;2010
+1 Call of Duty: Black Ops;Tiro em primeira pessoa;PC;2010
+1 Call of Duty: Black Ops;Tiro em primeira pessoa;PlayStation 3;2010
+1 Call of Duty: Black Ops;Tiro em primeira pessoa;Xbox 360;2010
+1 Halo: Reach;Tiro em primeira pessoa;Xbox 360;2010
+1 Alan Wake;Ação/Aventura;Xbox 360;2010
+1 Fallout: New Vegas;RPG;PC;2010
+1 Fallout: New Vegas;RPG;PlayStation 3;2010
+1 Fallout: New Vegas;RPG;Xbox 360;2010
+1 Assassin's Creed: Brotherhood;Ação/Aventura;PlayStation 3;2010
+1 Assassin's Creed: Brotherhood;Ação/Aventura;Xbox 360;2010
+1 Assassin's Creed: Brotherhood;Ação/Aventura;PC;2010
+1 Battlefield: Bad Company 2;Tiro em primeira pessoa;PlayStation 3;2010
+1 Battlefield: Bad Company 2;Tiro em primeira pessoa;Xbox 360;2010
+1 Battlefield: Bad Company 2;Tiro em primeira pessoa;PC;2010
+1 Final Fantasy XIII;RPG;PlayStation 3;2010
+1 Final Fantasy XIII;RPG;Xbox 360;2010
+1 Super Meat Boy;Plataforma;Xbox 360;2010
+1 Super Meat Boy;Plataforma;PC;2010
+1 Limbo;Plataforma;Xbox 360;2010
+1 Limbo;Plataforma;PC;2010
+1 StarCraft II: Wings of Liberty;Estratégia em tempo real;PC;2010
+1 Metro 2033;Tiro em primeira pessoa;PC;2010
+1 Metro 2033;Tiro em primeira pessoa;Xbox 360;2010
+1 Super Street Fighter IV;Luta;PlayStation 3;2010
+1 Super Street Fighter IV;Luta;Xbox 360;2010
+1 Need for Speed: Hot Pursuit;Corrida;PlayStation 3;2010
+1 Need for Speed: Hot Pursuit;Corrida;Xbox 360;2010
+1 Need for Speed: Hot Pursuit;Corrida;PC;2010
+1 FIFA 11;Esportes;PlayStation 3;2010
+1 FIFA 11;Esportes;Xbox 360;2010
+1 FIFA 11;Esportes;PC;2010
+1 NBA 2K11;Esportes;PlayStation 3;2010
+1 NBA 2K11;Esportes;Xbox 360;2010
+1 NBA 2K11;Esportes;PC;2010
+1 Amnesia: The Dark Descent;Survival Horror;PC;2010
+1 Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;PC;2010
+1 Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;PlayStation 3;2010
+1 Battlefield: Bad Company 2: Vietnam;Tiro em primeira pessoa;Xbox 360;2010
+1 Star Wars: The Force Unleashed II;Ação/Aventura;PlayStation 3;2010
+1 Star Wars: The Force Unleashed II;Ação/Aventura;Xbox 360;2010
+1 Star Wars: The Force Unleashed II;Ação/Aventura;PC;2010
+1 Dead Rising 2;Ação/Aventura;PlayStation 3;2010
+1 Dead Rising 2;Ação/Aventura;Xbox 360;2010
+1 Dead Rising 2;Ação/Aventura;PC;2010
+1 Medal of Honor;Tiro em primeira pessoa;PlayStation 3;2010
+1 Medal of Honor;Tiro em primeira pessoa;Xbox 360;2010
+1 Medal of Honor;Tiro em primeira pessoa;PC;2010
+1 Tom Clancy's Splinter Cell: Conviction;Ação/Aventura;Xbox 360;2010
+1 Tom Clancy's Splinter Cell: Conviction;Ação/Aventura;PC;2010
+1 Alan Wake's American Nightmare;Ação/Aventura;Xbox 360;2010
+1 FIFA 10;Esportes;PlayStation 3;2010
+1 FIFA 10;Esportes;Xbox 360;2010
+1 FIFA 10;Esportes;PC;2010
+1 Dragon Age: Origins;RPG;PlayStation 3;2010
+1 Dragon Age: Origins;RPG;Xbox 360;2010
+1 Dragon Age: Origins;RPG;PC;2010
+1 Dead Space 2;Survival Horror;PlayStation 3;2010
+1 Dead Space 2;Survival Horror;Xbox 360;2010
+1 Dead Space 2;Survival Horror;PC;2010
+1 Castlevania: Lords of Shadow;Ação/Aventura;PlayStation 3;2010
+1 Castlevania: Lords of Shadow;Ação/Aventura;Xbox 360;2010
+1 Castlevania: Lords of Shadow;Ação/Aventura;PC;2010
+1 Mafia II;Ação/Aventura;PlayStation 3;2010
+1 Mafia II;Ação/Aventura;Xbox 360;2010
+1 Mafia II;Ação/Aventura;PC;2010
+1 Just Cause 2;Ação/Aventura;PlayStation 3;2010
+1 Just Cause 2;Ação/Aventura;Xbox 360;2010
+1 Just Cause 2;Ação/Aventura;PC;2010
+1 Fable III;RPG;Xbox 360;2010
+1 World of Warcraft: Cataclysm;MMORPG;PC;2010
+1 Super Street Fighter IV: Arcade Edition;Luta;PlayStation 3;2010
+1 Super Street Fighter IV: Arcade Edition;Luta;Xbox 360;2010
+1 Super Street Fighter IV: Arcade Edition;Luta;PC;2010 
+1 WWE SmackDown vs. Raw 2011;Luta;PlayStation 3;2010
+1 WWE SmackDown vs. Raw 2011;Luta;Xbox 360;2010
+1 WWE SmackDown vs. Raw 2011;Luta;PlayStation 2;2010
+1 Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;PlayStation 3;2010
+1 Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;Xbox 360;2010
+1 Battlefield: Bad Company 2: Ultimate Edition;Tiro em primeira pessoa;PC;2010
+1 Mafia II: Joe's Adventures;Ação/Aventura;PlayStation 3;2010
+1 Mafia II: Joe's Adventures;Ação/Aventura;Xbox 360;2010
+1 Mafia II: Joe's Adventures;Ação/Aventura;PC;2010
+1 Medal of Honor: Frontline HD;Tiro em primeira pessoa;PlayStation 3;2010
+1 Medal of Honor: Frontline HD;Tiro em primeira pessoa;Xbox 360;2010
+1 Medal of Honor: Frontline HD;Tiro em primeira pessoa;PC;2010
+1 Star Wars: The Old Republic;MMORPG;PC;2010
+1 Kane & Lynch 2: Dog Days;Ação;PlayStation 3;2010
+1 Kane & Lynch 2: Dog Days;Ação;Xbox 360;2010
+1 Kane & Lynch 2: Dog Days;Ação;PC;2010
+1 The Elder Scrolls V: Skyrim;RPG;PlayStation 3;2011
+1 The Elder Scrolls V: Skyrim;RPG;Xbox 360;2011
+1 The Elder Scrolls V: Skyrim;RPG;PC;2011
+1 Batman: Arkham City;Ação/Aventura;PlayStation 3;2011
+1 Batman: Arkham City;Ação/Aventura;Xbox 360;2011
+1 Batman: Arkham City;Ação/Aventura;PC;2011
+1 Uncharted 3: Drake's Deception;Ação/Aventura;PlayStation 3;2011
+1 Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;PlayStation 3;2011
+1 Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;Xbox 360;2011
+1 Call of Duty: Modern Warfare 3;Tiro em primeira pessoa;PC;2011
+1 Gears of War 3;Tiro em terceira pessoa;Xbox 360;2011
+1 Battlefield 3;Tiro em primeira pessoa;PlayStation 3;2011
+1 Battlefield 3;Tiro em primeira pessoa;Xbox 360;2011
+1 Battlefield 3;Tiro em primeira pessoa;PC;2011
+1 Portal 2;Quebra-cabeça/Plataforma;PlayStation 3;2011
+1 Portal 2;Quebra-cabeça/Plataforma;Xbox 360;2011
+1 Portal 2;Quebra-cabeça/Plataforma;PC;2011
+1 Deus Ex: Human Revolution;RPG/Ação;PlayStation 3;2011
+1 Deus Ex: Human Revolution;RPG/Ação;Xbox 360;2011
+1 Deus Ex: Human Revolution;RPG/Ação;PC;2011
+1 Dark Souls;RPG/Ação;PlayStation 3;2011
+1 Dark Souls;RPG/Ação;Xbox 360;2011
+1 Dark Souls;RPG/Ação;PC;2011
+1 Saints Row: The Third;Ação/Aventura;PlayStation 3;2011
+1 Saints Row: The Third;Ação/Aventura;Xbox 360;2011
+1 Saints Row: The Third;Ação/Aventura;PC;2011
+1 Assassin's Creed: Revelations;Ação/Aventura;PlayStation 3;2011
+1 Assassin's Creed: Revelations;Ação/Aventura;Xbox 360;2011
+1 Assassin's Creed: Revelations;Ação/Aventura;PC;2011
+1 FIFA 12;Esportes;PlayStation 3;2011
+1 FIFA 12;Esportes;Xbox 360;2011
+1 FIFA 12;Esportes;PC;2011
+1 Madden NFL 12;Esportes;PlayStation 3;2011
+1 Madden NFL 12;Esportes;Xbox 360;2011
+1 Madden NFL 12;Esportes;PC;2011
+1 NBA 2K12;Esportes;PlayStation 3;2011
+1 NBA 2K12;Esportes;Xbox 360;2011
+1 NBA 2K12;Esportes;PC;2011
+1 Forza Motorsport 4;Corrida;Xbox 360;2011
+1 Mortal Kombat;Luta;PlayStation 3;2011
+1 Mortal Kombat;Luta;Xbox 360;2011
+1 Mortal Kombat;Luta;PC;2011
+1 The Witcher 2: Assassins of Kings;RPG;PC;2011
+1 Killzone 3;Tiro em primeira pessoa;PlayStation 3;2011
+1 LittleBigPlanet 2;Plataforma;PlayStation 3;2011
+1 Dragon Age II;RPG;PlayStation 3;2011
+1 Dragon Age II;RPG;Xbox 360;2011
+1 Dragon Age II;RPG;PC;2011
+1 Mortal Kombat Arcade Kollection;Luta;PlayStation 3;2011
+1 Mortal Kombat Arcade Kollection;Luta;Xbox 360;2011
+1 Mortal Kombat Arcade Kollection;Luta;PC;2011
+1 Rayman Origins;Plataforma;PlayStation 3;2011
+1 Rayman Origins;Plataforma;Xbox 360;2011
+1 Rayman Origins;Plataforma;PC;2011
+1 Minecraft;Sobrevivência;PC;2011
+1 FIFA Street;Esportes;PlayStation 3;2011
+1 FIFA Street;Esportes;Xbox 360;2011
+1 FIFA Street;Esportes;PC;2011
+1 Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2011
+1 Max Payne 3;Tiro em terceira pessoa;Xbox 360;2011
+1 Max Payne 3;Tiro em terceira pessoa;PC;2011
+1 Star Wars: The Old Republic;MMORPG;PC;2011
+1 Need for Speed: The Run;Corrida;PlayStation 3;2011
+1 Need for Speed: The Run;Corrida;Xbox 360;2011
+1 Need for Speed: The Run;Corrida;PC;2011
+1 The Sims 3: Pets;Simulação;PlayStation 3;2011
+1 The Sims 3: Pets;Simulação;Xbox 360;2011
+1 The Sims 3: Pets;Simulação;PC;2011
+1 Saints Row: The Third - Gangstas in Space;Ação/Aventura;PlayStation 3;2011
+1 Saints Row: The Third - Gangstas in Space;Ação/Aventura;Xbox 360;2011
+1 Saints Row: The Third - Gangstas in Space;Ação/Aventura;PC;2011
+1 WWE '12;Luta;PlayStation 3;2011
+1 WWE '12;Luta;Xbox 360;2011
+1 WWE '12;Luta;PC;2011
+1 Infamous 2;Ação/Aventura;PlayStation 3;2011
+1 RAGE;Tiro em primeira pessoa;PlayStation 3;2011
+1 RAGE;Tiro em primeira pessoa;Xbox 360;2011
+1 RAGE;Tiro em primeira pessoa;PC;2011
+1 Crysis 2;Tiro em primeira pessoa;PlayStation 3;2011
+1 Crysis 2;Tiro em primeira pessoa;Xbox 360;2011
+1 Crysis 2;Tiro em primeira pessoa;PC;2011
+1 Dead Space 2;Survival horror;PlayStation 3;2011
+1 Dead Space 2;Survival horror;Xbox 360;2011
+1 Dead Space 2;Survival horror;PC;2011
+1 Child of Eden;Musical;PlayStation 3;2011
+1 Child of Eden;Musical;Xbox 360;2011
+1 Child of Eden;Musical;PC;2011
+1 Just Dance 3;Música;PlayStation 3;2011
+1 Just Dance 3;Música;Xbox 360;2011
+1 Resistance 3;Tiro em primeira pessoa;PlayStation 3;2011
+1 Sonic Generations;Plataforma;PlayStation 3;2011
+1 Sonic Generations;Plataforma;Xbox 360;2011
+1 Sonic Generations;Plataforma;PC;2011
+1 Shift 2: Unleashed;Corrida;PlayStation 3;2011
+1 Shift 2: Unleashed;Corrida;Xbox 360;2011
+1 Shift 2: Unleashed;Corrida;PC;2011
+1 Anno 2070;Estratégia;PC;2011
+1 Assassin's Creed III;Ação-aventura;PlayStation 3;2012
+1 Assassin's Creed III;Ação-aventura;Xbox 360;2012
+1 Assassin's Creed III;Ação-aventura;PC;2012
+1 Borderlands 2;Tiro em primeira pessoa;PlayStation 3;2012
+1 Borderlands 2;Tiro em primeira pessoa;Xbox 360;2012
+1 Borderlands 2;Tiro em primeira pessoa;PC;2012
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 3;2012
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox 360;2012
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PC;2012
+1 Darksiders II;Ação-aventura;PlayStation 3;2012
+1 Darksiders II;Ação-aventura;Xbox 360;2012
+1 Darksiders II;Ação-aventura;PC;2012
+1 Dishonored;Ação-aventura;PlayStation 3;2012
+1 Dishonored;Ação-aventura;Xbox 360;2012
+1 Dishonored;Ação-aventura;PC;2012
+1 Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2012
+1 Far Cry 3;Tiro em primeira pessoa;Xbox 360;2012
+1 Far Cry 3;Tiro em primeira pessoa;PC;2012
+1 FIFA 13;Esportes;PlayStation 3;2012
+1 FIFA 13;Esportes;Xbox 360;2012
+1 FIFA 13;Esportes;PC;2012
+1 Halo 4;Tiro em primeira pessoa;Xbox 360;2012
+1 Journey;Aventura;PlayStation 3;2012
+1 Mass Effect 3;RPG de ação;PlayStation 3;2012
+1 Mass Effect 3;RPG de ação;Xbox 360;2012
+1 Mass Effect 3;RPG de ação;PC;2012
+1 Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2012
+1 Max Payne 3;Tiro em terceira pessoa;Xbox 360;2012
+1 Max Payne 3;Tiro em terceira pessoa;PC;2012
+1 NBA 2K13;Esportes;PlayStation 3;2012
+1 NBA 2K13;Esportes;Xbox 360;2012
+1 NBA 2K13;Esportes;PC;2012
+1 Need for Speed: Most Wanted;Corrida;PlayStation 3;2012
+1 Need for Speed: Most Wanted;Corrida;Xbox 360;2012
+1 Need for Speed: Most Wanted;Corrida;PC;2012
+1 Resident Evil 6;Survival horror;PlayStation 3;2012
+1 Resident Evil 6;Survival horror;Xbox 360;2012
+1 Resident Evil 6;Survival horror;PC;2012
+1 Sleeping Dogs;Ação-aventura;PlayStation 3;2012
+1 Sleeping Dogs;Ação-aventura;Xbox 360;2012
+1 Sleeping Dogs;Ação-aventura;PC;2012
+1 The Elder Scrolls V: Skyrim;RPG de ação;PlayStation 3;2012
+1 The Elder Scrolls V: Skyrim;RPG de ação;Xbox 360;2012
+1 The Elder Scrolls V: Skyrim;RPG de ação;PC;2012
+1 The Last of Us;Ação-aventura;PlayStation 3;2012
+1 XCOM: Enemy Unknown;Estratégia por turnos;PlayStation 3;2012
+1 XCOM: Enemy Unknown;Estratégia por turnos;Xbox 360;2012
+1 XCOM: Enemy Unknown;Estratégia por turnos;PC;2012
+1 Diablo III;RPG de ação;PC;2012
+1 Guild Wars 2;MMORPG;PC;2012
+1 Dishonored;Ação-aventura;PlayStation 4;2012
+1 Dishonored;Ação-aventura;Xbox One;2012
+1 Borderlands 2;Tiro em primeira pessoa;PlayStation 4;2012
+1 Borderlands 2;Tiro em primeira pessoa;Xbox One;2012
+1 Far Cry 3;Tiro em primeira pessoa;PlayStation 4;2012
+1 Far Cry 3;Tiro em primeira pessoa;Xbox One;2012
+1 FIFA 13;Esportes;PlayStation 4;2012
+1 FIFA 13;Esportes;Xbox One;2012
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 4;2012
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox One;2012
+1 Halo 4;Tiro em primeira pessoa;Xbox One;2012
+1 Mass Effect 3;RPG de ação;PlayStation 4;2012
+1 Mass Effect 3;RPG de ação;Xbox One;2012
+1 Max Payne 3;Tiro em terceira pessoa;PlayStation 4;2012
+1 Max Payne 3;Tiro em terceira pessoa;Xbox One;2012
+1 NBA 2K13;Esportes;PlayStation 4;2012
+1 NBA 2K13;Esportes;Xbox One;2012
+1 Need for Speed: Most Wanted;Corrida;PlayStation 4;2012
+1 Need for Speed: Most Wanted;Corrida;Xbox One;2012
+1 Resident Evil 6;Survival horror;PlayStation 4;2012
+1 BioShock Infinite;Ação-Aventura;PC;2013
+1 BioShock Infinite;Ação-Aventura;PlayStation 3;2013
+1 BioShock Infinite;Ação-Aventura;Xbox 360;2013
+1 The Last of Us;Ação-Aventura;PlayStation 3;2013
+1 Grand Theft Auto V;Ação-Aventura;PlayStation 3;2013
+1 Grand Theft Auto V;Ação-Aventura;Xbox 360;2013
+1 Tomb Raider;Ação-Aventura;PlayStation 3;2013
+1 Tomb Raider;Ação-Aventura;Xbox 360;2013
+1 Tomb Raider;Ação-Aventura;PC;2013
+1 Assassin's Creed IV: Black Flag;Ação-Aventura;PlayStation 3;2013
+1 Assassin's Creed IV: Black Flag;Ação-Aventura;Xbox 360;2013
+1 Assassin's Creed IV: Black Flag;Ação-Aventura;PC;2013
+1 Assassin's Creed IV: Black Flag;Ação-Aventura;PlayStation 4;2013
+1 Battlefield 4;Tiro em primeira pessoa;PlayStation 3;2013
+1 Battlefield 4;Tiro em primeira pessoa;Xbox 360;2013
+1 Battlefield 4;Tiro em primeira pessoa;PC;2013
+1 Battlefield 4;Tiro em primeira pessoa;PlayStation 4;2013
+1 Call of Duty: Ghosts;Tiro em primeira pessoa;PlayStation 3;2013
+1 Call of Duty: Ghosts;Tiro em primeira pessoa;Xbox 360;2013
+1 Call of Duty: Ghosts;Tiro em primeira pessoa;PC;2013
+1 Call of Duty: Ghosts;Tiro em primeira pessoa;PlayStation 4;2013
+1 FIFA 14;Esportes;PlayStation 3;2013
+1 FIFA 14;Esportes;Xbox 360;2013
+1 FIFA 14;Esportes;PC;2013
+1 FIFA 14;Esportes;PlayStation 4;2013
+1 NBA 2K14;Esportes;PlayStation 3;2013
+1 NBA 2K14;Esportes;Xbox 360;2013
+1 NBA 2K14;Esportes;PC;2013
+1 NBA 2K14;Esportes;PlayStation 4;2013
+1 Assassin's Creed III;Ação-Aventura;PlayStation 3;2013
+1 Assassin's Creed III;Ação-Aventura;Xbox 360;2013
+1 Assassin's Creed III;Ação-Aventura;PC;2013
+1 Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2013
+1 Far Cry 3;Tiro em primeira pessoa;Xbox 360;2013
+1 Far Cry 3;Tiro em primeira pessoa;PC;2013
+1 Far Cry 3: Blood Dragon;Tiro em primeira pessoa;PlayStation 3;2013
+1 Far Cry 3: Blood Dragon;Tiro em primeira pessoa;Xbox 360;2013
+1 Far Cry 3: Blood Dragon;Tiro em primeira pessoa;PC;2013
+1 The Elder Scrolls V: Skyrim;RPG;PlayStation 3;2013
+1 The Elder Scrolls V: Skyrim;RPG;Xbox 360;2013
+1 The Elder Scrolls V: Skyrim;RPG;PC;2013
+1 The Elder Scrolls V: Skyrim;RPG;PlayStation 4;2013
+1 Minecraft;Aventura;PlayStation 3;2013
+1 Minecraft;Aventura;Xbox 360;2013
+1 Minecraft;Aventura;PC;2013
+1 Minecraft;Aventura;PlayStation 4;2013
+1 Diablo III;RPG de ação;PlayStation 3;2013
+1 Diablo III;RPG de ação;Xbox 360;2013
+1 Diablo III;RPG de ação;PC;2013
+1 Diablo III: Reaper of Souls;RPG de ação;PlayStation 3;2013
+1 Diablo III: Reaper of Souls;RPG de ação;Xbox 360;2013
+1 Diablo III: Reaper of Souls;RPG de ação;PC;2013
+1 FIFA 13;Esportes;PlayStation 3;2013
+1 FIFA 13;Esportes;Xbox 360;2013
+1 FIFA 13;Esportes;PC;2013
+1 FIFA 13;Esportes;PlayStation 4;2013
+1 Hitman: Absolution;Stealth;PlayStation 3;2013
+1 Hitman: Absolution;Stealth;Xbox 360;2013
+1 Hitman: Absolution;Stealth;PC;2013
+1 Hitman: Absolution;Stealth;PlayStation 4;2013
+1 Need for Speed: Most Wanted;Corrida;PlayStation 3;2013
+1 Need for Speed: Most Wanted;Corrida;Xbox 360;2013
+1 Need for Speed: Most Wanted;Corrida;PC;2013
+1 Need for Speed: Most Wanted;Corrida;PlayStation 4;2013
+1 The Walking Dead: Season One;Aventura gráfica;PlayStation 3;2013
+1 The Walking Dead: Season One;Aventura gráfica;Xbox 360;2013
+1 The Walking Dead: Season One;Aventura gráfica;PC;2013
+1 The Walking Dead: Season One;Aventura gráfica;PlayStation 4;2013
+1 Dishonored;Ação-Aventura;PlayStation 3;2013
+1 Dishonored;Ação-Aventura;Xbox 360;2013
+1 Dishonored;Ação-Aventura;PC;2013
+1 Dishonored;Ação-Aventura;PlayStation 4;2013
+1 Dark Souls II;RPG de ação;PlayStation 3;2013
+1 Dark Souls II;RPG de ação;Xbox 360;2013
+1 Dark Souls II;RPG de ação;PC;2013
+1 Dark Souls II;RPG de ação;PlayStation 4;2013
+1 Resident Evil 6;Survival horror;PlayStation 3;2013
+1 Resident Evil 6;Survival horror;Xbox 360;2013
+1 Resident Evil 6;Survival horror;PC;2013
+1 Resident Evil 6;Survival horror;PlayStation 4;2013
+1 Crysis 3;Tiro em primeira pessoa;PlayStation 3;2013
+1 Crysis 3;Tiro em primeira pessoa;Xbox 360;2013
+1 Crysis 3;Tiro em primeira pessoa;PC;2013
+1 Crysis 3;Tiro em primeira pessoa;PlayStation 4;2013
+1 Max Payne 3;Tiro em terceira pessoa;PlayStation 3;2013
+1 Max Payne 3;Tiro em terceira pessoa;Xbox 360;2013
+1 Max Payne 3;Tiro em terceira pessoa;PC;2013
+1 Max Payne 3;Tiro em terceira pessoa;PlayStation 4;2013
+1 Battlefield 3;Tiro em primeira pessoa;PlayStation 3;2013
+1 Battlefield 3;Tiro em primeira pessoa;Xbox 360;2013
+1 Battlefield 3;Tiro em primeira pessoa;PC;2013
+1 Battlefield 3;Tiro em primeira pessoa;PlayStation 4;2013
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 3;2013
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;Xbox 360;2013
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PC;2013
+1 Call of Duty: Black Ops II;Tiro em primeira pessoa;PlayStation 4;2013
+1 Pro Evolution Soccer 2013;Esportes;PlayStation 3;2013
+1 Pro Evolution Soccer 2013;Esportes;Xbox 360;2013
+1 Pro Evolution Soccer 2013;Esportes;PC;2013
+1 The Witcher 3: Wild Hunt;RPG;PlayStation 4;2015
+1 Metal Gear Solid V: The Phantom Pain;Ação/Aventura;PlayStation 4;2015
+1 Fallout 4;RPG;PlayStation 4;2015
+1 Bloodborne;Ação/RPG;PlayStation 4;2015
+1 Halo 5: Guardians;Tiro em primeira pessoa;Xbox One;2015
+1 Batman: Arkham Knight;Ação/Aventura;PlayStation 4;2015
+1 Call of Duty: Black Ops III;Tiro em primeira pessoa;PlayStation 4;2015
+1 Star Wars Battlefront;Tiro em primeira pessoa;PlayStation 4;2015
+1 Rise of the Tomb Raider;Ação/Aventura;Xbox One;2015
+1 Assassin's Creed Syndicate;Ação/Aventura;PlayStation 4;2015
+1 Rocket League;Esportes;PlayStation 4;2015
+1 FIFA 16;Esportes;PlayStation 4;2015
+1 Mortal Kombat X;Luta;PlayStation 4;2015
+1 Dying Light;Ação/Aventura;PlayStation 4;2015
+1 Until Dawn;Ação/Aventura;PlayStation 4;2015
+1 Forza Motorsport 6;Corrida;Xbox One;2015
+1 Halo: The Master Chief Collection;Tiro em primeira pessoa;Xbox One;2015
+1 The Order: 1886;Ação/Aventura;PlayStation 4;2015
+1 NBA 2K16;Esportes;PlayStation 4;2015
+1 Persona 5;RPG;PlayStation 4;2015
+1 Tom Clancy's Rainbow Six Siege;Tiro em primeira pessoa;PlayStation 4;2015
+1 Metal Gear Solid V: Ground Zeroes;Ação/Aventura;PlayStation 4;2015
+1 Destiny: The Taken King;Tiro em primeira pessoa;PlayStation 4;2015
+1 Just Cause 3;Ação/Aventura;PlayStation 4;2015
+1 Mad Max;Ação/Aventura;PlayStation 4;2015
+1 The Elder Scrolls Online: Tamriel Unlimited;RPG;PlayStation 4;2015
+1 Resident Evil Revelations 2;Survival horror;PlayStation 4;2015
+1 Battlefield Hardline;Tiro em primeira pessoa;PlayStation 4;2015
+1 Dragon Ball Xenoverse;Luta;PlayStation 4;2015
+1 Final Fantasy Type-0 HD;RPG;PlayStation 4;2015
+1 Grand Theft Auto V;Ação/Aventura;PlayStation 4;2015
+1 The Division;RPG;PlayStation 4;2015
+1 Battlefield 4;Tiro em primeira pessoa;PlayStation 4;2015
+1 Minecraft: Story Mode;Aventura gráfica;PlayStation 4;2015
+1 Diablo III: Reaper of Souls;RPG de ação;PlayStation 4;2015
+1 The Crew;Corrida;PlayStation 4;2015
+1 Watch Dogs;Ação/Aventura;PlayStation 4;2015
+1 Need for Speed;Corrida;PlayStation 4;2015
+1 Uncharted: The Nathan Drake Collection;Ação/Aventura;PlayStation 4;2015
+1 Pro Evolution Soccer 2016;Esportes;PlayStation 4;2015
+1 Final Fantasy XIV: Heavensward;RPG online;PlayStation 4;2015
+1 Battlefield Tiro em primeira pessoa;PlayStation 4;2015
+1 Resident Evil 7: Biohazard;Survival horror;PlayStation 4;2015
+1 Far Cry 4;Tiro em primeira pessoa;PlayStation 4;2015
+1 The Sims 4;Simulação de vida;PC;2015
+1 Gears of War: Ultimate Edition;Tiro em terceira pessoa;Xbox One;2015
+1 Tom Clancy's The Division 2;RPG;PlayStation 4;2015
+1 PES 2015;Esportes;PlayStation 4;2015
+1 Borderlands: The Handsome Collection;RPG de ação;PlayStation 4;2015
+1 Star Wars Jedi: Fallen Order;Ação/Aventura;PlayStation 4;2015
+1 Need for Speed Rivals;Corrida;PlayStation 4;2015
+1 Minecraft;Sobrevivência;PC;2015
+1 Mortal Kombat XL;Luta;PlayStation 4;2015
+1 Deus Ex: Mankind Divided;RPG de ação;PlayStation 4;2015
+1 Dragon Age: Inquisition;RPG;PlayStation 4;2015
+1 Overwatch;Tiro em primeira pessoa;PC;2015
+1 FIFA 15;Esportes;PlayStation 4;2015
+1 Far Cry Primal;Tiro em primeira pessoa;PlayStation 4;2015
+1 Wolfenstein: The Old Blood;Tiro em primeira pessoa;PlayStation 4;2015
+1 Assassin's Creed IV: Black Flag;Ação/Aventura;PlayStation 4;2015
+1 Mirror's Edge Catalyst;Ação/Aventura;PlayStation 4;2015
+1 Dark Souls III;RPG de ação;PlayStation 4;2015
+1 Far Cry 3;Tiro em primeira pessoa;PlayStation 3;2015
+1 Resident Evil HD Remaster;Survival horror;PlayStation 4;2015
+1 Dishonored 2;Ação/Aventura;PlayStation 4;2015
+1 Middle-earth: Shadow of Mordor;Ação/Aventura;PlayStation 4;2015
+1 The Last of Us Remastered;Ação/Aventura;PlayStation 4;2015
+1 The Elder Scrolls V: Skyrim Special Edition;RPG;PlayStation 4;2015
+1 Assassin's Creed Unity;Ação/Aventura;PlayStation 4;2015
+1 Resident Evil 2 Remake;Survival horror;PlayStation 4;2015
+1 Batman: Arkham Origins;Ação/Aventura;PlayStation 4;2015
+1 Fallout 3;RPG;PlayStation 3;2015
+1 Battlefield V;Tiro em primeira pessoa;PlayStation 4;2015
+1 Ghost of Tsushima;Ação/Aventura;PlayStation 4;2015
+1 Tom Clancy's Ghost Recon Wildlands;Tiro em terceira pessoa;PlayStation 4;2015
+1 Hitman;Stealth;PlayStation 4;2015
+1 StarCraft II: Legacy of the Void;Estratégia em tempo real;PC;2015
+1 Grand Theft Auto: San Andreas;Ação/Aventura;PlayStation 3;2015
+1 Doom;Tiro em primeira pessoa;PlayStation 4;2015
+1 Saints Row IV;Ação/Aventura;PlayStation 4;2015
+1 Assassin's Creed Rogue;Ação/Aventura;PlayStation 3;2015
+1 Metro Exodus;Tiro em primeira pessoa;PlayStation 4;2015
+1 World of Warcraft: Legion;RPG online;PC;2015
+1 Batman: Arkham City;Ação/Aventura;PlayStation 3;2015
+1 Resident Evil 6;Survival horror;PlayStation 4;2015
+1 Far Cry 5;Tiro em primeira pessoa;PlayStation 4;2015
+1 Mortal Kombat 1Luta;PlayStation 4;2015
+1 Diablo III;RPG de ação;PlayStation 4;2015
+1 Horizon Zero Dawn;Ação/Aventura;PlayStation 4;2017
+1 PlayerUnknown's Battlegrounds;Battle Royale;PC;2017
+1 Persona 5;RPG;PlayStation 4;2017
+1 Cuphead;Plataforma;Xbox One;2017
+1 Resident Evil 7: Biohazard;Survival Horror;PlayStation 4;2017
+1 Nier: Automata;RPG de Ação;PlayStation 4;2017
+1 Assassin's Creed Origins;Ação/Aventura;PlayStation 4;2017
+1 Destiny 2;Tiro;PlayStation 4;2017
+1 Wolfenstein II: The New Colossus;Tiro em primeira pessoa;PlayStation 4;2017
+1 Call of Duty: WWII;Tiro em primeira pessoa;PlayStation 4;2017
+1 Fortnite;Battle Royale;PlayStation 4;2017
+1 Injustice 2;Luta;PlayStation 4;2017
+1 Uncharted: The Lost Legacy;Ação/Aventura;PlayStation 4;2017
+1 Crash Bandicoot N. Sane Trilogy;Plataforma;PlayStation 4;2017
+1 Gran Turismo Sport;Corrida;PlayStation 4;2017
+1 Middle-earth: Shadow of War;Ação/Aventura;PlayStation 4;2017
+1 Tom Clancy's Ghost Recon Wildlands;Tiro em terceira pessoa;PlayStation 4;2017
+1 Overwatch;Tiro em equipe;PC;2017
+1 Forza Motorsport 7;Corrida;Xbox One;2017
+1 Marvel vs. Capcom: Infinite;Luta;PlayStation 4;2017
+1 Prey;Tiro em primeira pessoa;PlayStation 4;2017
+1 Final Fantasy XIV: Stormblood;MMORPG;PC;2017
+1 Stardew Valley;Simulação;PC;2017
+1 Tom Clancy's The Division;Tiro em terceira pessoa;PlayStation 4;2017
+1 Yakuza 0;Ação/Aventura;PlayStation 4;2017
+1 Madden NFL 18;Esportes;PlayStation 4;2017
+1 Tekken 7;Luta;PlayStation 4;2017
+1 FIFA 18;Esportes;PlayStation 4;2017
+1 South Park: The Fractured But Whole;RPG;PlayStation 4;2017
+1 The Evil Within 2;Survival Horror;PlayStation 4;2017
+1 Sonic Mania;Plataforma;PlayStation 4;2017
+1 Dishonored: Death of the Outsider;Ação/Aventura;PlayStation 4;2017
+1 NieR Replicant ver.1.22474487139...;RPG de Ação;PlayStation 4;2017
+1 Destiny 2: Curse of Osiris;Tiro;PlayStation 4;2017
+1 Hellblade: Senua's Sacrifice;Ação/Aventura;PlayStation 4;2017
+1 Nioh;RPG de Ação;PlayStation 4;2017
+1 Need for Speed Payback;Corrida;PlayStation 4;2017
+1 Little Nightmares;Plataforma;PlayStation 4;2017
+1 ARK: Survival Evolved;Sobrevivência;PC;2017
+1 Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2017
+1 Madden NFL 17;Esportes;PlayStation 4;2017
+1 Life is Strange: Before the Storm;Aventura Gráfica;PlayStation 4;2017
+1 Dragon Ball FighterZ;Luta;PlayStation 4;2017
+1 Divinity: Original Sin II;RPG;PC;2017
+1 Sonic Forces;Plataforma;PlayStation 4;2017
+1 Far Cry 5;Tiro em primeira pessoa;PlayStation 4;2017
+1 Sniper Elite 4;Tiro em terceira pessoa;PlayStation 4;2017
+1 Tom Clancy's Rainbow Six Siege;Tiro em equipe;PC;2017
+1 Ghost Recon: Wildlands;Tiro em terceira pessoa;PlayStation 4;2017
+1 Dark Souls III: The Ringed City;RPG de Ação;PlayStation 4;2017
+1 Madden NFL 16;Esportes;PlayStation 4;2017
+1 Final Fantasy XII: The Zodiac Age;RPG;PlayStation 4;2017
+1 The Surge;RPG de Ação;PlayStation 4;2017
+1 Little Nightmares: Secrets of The Maw;Plataforma;PlayStation 4;2017
+1 Wipeout Omega Collection;Corrida;PlayStation 4;2017
+1 Dragon Quest XI;RPG;PlayStation 4;2017
+1 Diablo III: Rise of the Necromancer;RPG de Ação;PlayStation 4;2017
+1 FIFA 17;Esportes;PlayStation 4;2017
+1 South Park: Phone Destroyer;Estratégia;Android/iOS;2017
+1 Final Fantasy XV: Episode Prompto;RPG de Ação;PlayStation 4;2017
+1 Outlast 2;Survival Horror;PlayStation 4;2017
+1 WWE 2K18;Luta;PlayStation 4;2017
+1 Dragon's Dogma: Dark Arisen;RPG de Ação;PlayStation 4;2017
+1 Madden NFL 15;Esportes;PlayStation 4;2017
+1 The Witcher 3: Wild Hunt - Blood and Wine;RPG de Ação;PlayStation 4;2017
+1 FIFA 16;Esportes;PlayStation 4;2017
+1 Overwatch: Game of the Year Edition;Tiro em equipe;PC;2017
+1 The Elder Scrolls: Legends;Estratégia;PC;2017
+1 Minecraft: Story Mode - Season Two;Aventura Gráfica;PlayStation 4;2017
+1 Kingdom Hearts HD 1.5 + 2.5 Remix;RPG de Ação;PlayStation 4;2017
+1 LEGO Marvel Super Heroes 2;Ação/Aventura;PlayStation 4;2017
+1 PES 2018;Esportes;PlayStation 4;2017
+1 Star Wars Battlefront II;Tiro em primeira pessoa;PlayStation 4;2017
+1 Final Fantasy XV: Comrades;RPG de Ação;PlayStation 4;2017
+1 Hitman: The Complete First Season;Ação/Aventura;PlayStation 4;2017
+1 Cities: Skylines;Simulação;PlayStation 4;2017
+1 Watch Dogs 2;Ação/Aventura;PlayStation 4;2017
+1 Resident Evil 7: Biohazard - End of Zoe;Survival Horror;PlayStation 4;2017
+1 Middle-earth: Shadow of War - The Blade of Galadriel;Ação/Aventura;PlayStation 4;2017
+1 Outlast Trinity;Survival Horror;PlayStation 4;2017
+1 LEGO City Undercover;Ação/Aventura;PlayStation 4;2017
+1 NBA 2K18;Esportes;PlayStation 4;2017
+1 Final Fantasy XV: Episode Ignis;RPG de Ação;PlayStation 4;2017
+1 Agents of Mayhem;Ação/Aventura;PlayStation 4;2017
+1 The Elder Scrolls Online: Morrowind;MMORPG;PlayStation 4;2017
+1 The Sims 4;Simulação;PlayStation 4;2017
+1 Minecraft: Story Mode - Season One;Aventura Gráfica;PlayStation 4;2017
+1 Marvel's Guardians of the Galaxy: The Telltale Series;Aventura Gráfica;PlayStation 4;2017
+1 Titanfall 2;Tiro em primeira pessoa;PlayStation 4;2017
+1 Crash Bandicoot N. Sane Trilogy;Plataforma;PlayStation 4;2017
+1 Gran Turismo Sport;Corrida;PlayStation 4;2017
+1 Sekiro: Shadows Die Twice;Ação-aventura;PlayStation 4;2019
+1 Resident Evil 2;Survival horror;PlayStation 4;2019
+1 Devil May Cry 5;Hack and slash;PlayStation 4;2019
+1 Death Stranding;Ação;PlayStation 4;2019
+1 Control;Ação-aventura;PlayStation 4;2019
+1 The Outer Worlds;RPG;PlayStation 4;2019
+1 Borderlands 3;RPG de tiro;PlayStation 4;2019
+1 Tom Clancy's The Division 2;RPG de ação;PlayStation 4;2019
+1 Mortal Kombat 11;Luta;PlayStation 4;2019
+1 Gears 5;Tiro em terceira pessoa;Xbox One;2019
+1 Call of Duty: Modern Warfare;Tiro em primeira pessoa;PlayStation 4;2019
+1 Star Wars Jedi: Fallen Order;Ação-aventura;PlayStation 4;2019
+1 Metro Exodus;Tiro em primeira pessoa;PlayStation 4;2019
+1 Apex Legends;Battle royale;PlayStation 4;2019
+1 FIFA 20;Esporte;PlayStation 4;2019
+1 NBA 2K20;Esporte;PlayStation 4;2019
+1 Madden NFL 20;Esporte;PlayStation 4;2019
+1 Pro Evolution Soccer 2020;Esporte;PlayStation 4;2019
+1 Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2019
+1 Call of Duty: Black Ops 4;Tiro em primeira pessoa;PlayStation 4;2019
+1 Anthem;RPG de ação;PlayStation 4;2019
+1 Far Cry New Dawn;Tiro em primeira pessoa;PlayStation 4;2019
+1 Rage 2;Tiro em primeira pessoa;PlayStation 4;2019
+1 A Plague Tale: Innocence;Ação-aventura;PlayStation 4;2019
+1 Days Gone;Ação-aventura;PlayStation 4;2019
+1 Metro: Last Light Redux;Tiro em primeira pessoa;PC;2019
+1 Battlefield V;Tiro em primeira pessoa;PlayStation 4;2019
+1 Assassin's Creed Odyssey;RPG de ação;PlayStation 4;2019
+1 Kingdom Hearts III;RPG de ação;PlayStation 4;2019
+1 The Division 2;RPG de ação;PC;2019
+1 Mortal Kombat 11;Luta;PC;2019
+1 Apex Legends;Battle royale;PC;2019
+1 Control;Ação-aventura;PC;2019
+1 Borderlands 3;RPG de tiro;PC;2019
+1 Sekiro: Shadows Die Twice;Ação-aventura;PC;2019
+1 Resident Evil 2;Survival horror;PC;2019
+1 Devil May Cry 5;Hack and slash;PC;2019
+1 Death Stranding;Ação;PC;2019
+1 The Outer Worlds;RPG;PC;2019
+1 Star Wars Jedi: Fallen Order;Ação-aventura;PC;2019
+1 Tom Clancy's The Division 2;RPG de ação;PC;2019
+1 Gears 5;Tiro em terceira pessoa;PC;2019
+1 Call of Duty: Modern Warfare;Tiro em primeira pessoa;PC;2019
+1 Metro Exodus;Tiro em primeira pessoa;PC;2019
+1 Far Cry New Dawn;Tiro em primeira pessoa;PC;2019
+1 Rage 2;Tiro em primeira pessoa;PC;2019
+1 A Plague Tale: Innocence;Ação-aventura;PC;2019
+1 Days Gone;Ação-aventura;PC;2019
+1 FIFA 20;Esporte;PC;2019
+1 NBA 2K20;Esporte;PC;2019
+1 Madden NFL 20;Esporte;PC;2019
+1 Pro Evolution Soccer 2020;Esporte;PC;2019
+1 Crash Team Racing Nitro-Fueled;Corrida;PlayStation 4;2019
+1 The Legend of Zelda: Link's Awakening;Ação-aventura;PC;2019
+1 Call of Duty: Black Ops 4;Tiro em primeira pessoa;PC;2019
+1 Anthem;RPG de ação;PC;2019
+1 Metro: Last Light Redux;Tiro em primeira pessoa;Xbox One;2019
+1 Battlefield V;Tiro em primeira pessoa;Xbox One;2019
+1 Assassin's Creed Odyssey;RPG de ação;Xbox One;2019
+1 Kingdom Hearts III;RPG de ação;Xbox One;2019
+1 The Division 2;RPG de ação;Xbox One;2019
+1 Mortal Kombat 11;Luta;Xbox One;2019
+1 Apex Legends;Battle royale;Xbox One;2019
+1 Control;Ação-aventura;Xbox One;2019
+1 Borderlands 3;RPG de tiro;Xbox One;2019
+1 Sekiro: Shadows Die Twice;Ação-aventura;Xbox One;2019
+1 Resident Evil 2;Survival horror;Xbox One;2019
+1 Devil May Cry 5;Hack and slash;Xbox One;2019
+1 Death Stranding;Ação;Xbox One;2019
+1 The Outer Worlds;RPG;Xbox One;2019
+1 Star Wars Jedi: Fallen Order;Ação-aventura;Xbox One;2019
+1 Tom Clancy's The Division 2;RPG de ação;Xbox One;2019
+1 Gears 5;Tiro em terceira pessoa;Xbox One;2019
+1 Call of Duty: Modern Warfare;Tiro em primeira pessoa;Xbox One;2019
+1 Metro Exodus;Tiro em primeira pessoa;Xbox One;2019
+1 Far Cry New Dawn;Tiro em primeira pessoa;Xbox One;2019
+1 Rage 2;Tiro em primeira pessoa;Xbox One;2019
+1 A Plague Tale: Innocence;Ação-aventura;Xbox One;2019
+1 Days Gone;Ação-aventura;Xbox One;2019
+1 FIFA 20;Esporte;Xbox One;2019
+1 NBA 2K20;Esporte;Xbox One;2019
+1 Madden NFL 20;Esporte;Xbox One;2019
+1 Pro Evolution Soccer 2020;Esporte;Xbox One;2019
+1 Crash Team Racing Nitro-Fueled;Corrida;Xbox One;2019
+1 Metro: Last Light Redux;Tiro em primeira pessoa;PlayStation 3;2019
+1 Battlefield V;Tiro em primeira pessoa;PlayStation 3;2019
+1 Assassin's Creed Odyssey;RPG de ação;PlayStation 3;2019
+1 Kingdom Hearts III;RPG de ação;PlayStation 3;2019
+1 The Division 2;RPG de ação;PlayStation 3;2019
+1 Mortal Kombat 11;Luta;PlayStation 3;2019
+1 Control;Ação-aventura;PlayStation 3;2019
+1 Borderlands 3;RPG de tiro;PlayStation 3;2019
+1 Sekiro: Shadows Die Twice;Ação-aventura;PlayStation 3;2019
+1 Resident Evil 2;Survival horror;PlayStation 3;2019
+1 Devil May Cry 5;Hack and slash;PlayStation 3;2019

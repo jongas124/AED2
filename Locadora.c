@@ -56,38 +56,41 @@ if (entrada == NULL)
             break;
             }
         case 2:{ // Buscar Título
-            getchar();
-            scanf("%[^\n]%*c", nome);            
+            fscanf(entrada, "%c");
+            //printf("\n\nbuscando %s\n", nome);
+            //fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", nome); 
+            //printf("\n\n%s\n", nome);           
             struct Node *tmp;
-            tmp = NULL;
+            tmp = (struct Node*)malloc(sizeof(struct Node));
             tmp = busca(Raiz, nome);
             impressaoJogo(tmp);
             break;
             }
         case 3:{ // Imprimir todos os jogos de um gênero
-            getchar();
-            scanf("%[^\n]%*c", genero);
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", genero);
             impressaoGenero(Raiz, genero);
             break;
             }
 
         case 4:{ // Imprimir todos os jogos de uma plataforma
-            getchar();
-            scanf("%[^\n]%*c", plataforma);
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", plataforma);
             impressaoPlataforma(Raiz, plataforma);
             break;
             }
 
         case 5:{ // Imprimir todos os jogos de um ano
-            getchar();
-            scanf("%d", &ano);
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%d", &ano);
             impressaoAno(Raiz, ano);
             break;
             }
 
         case 6:{ // Alugar um jogo
-            getchar();
-            scanf("%[^\n]%*c", nome);            
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", nome);            
             struct Node *tmp;
             tmp = busca(Raiz, nome);
             alugarJogo(tmp);
@@ -95,8 +98,8 @@ if (entrada == NULL)
             }
 
         case 7:{ // Devolver um jogo
-            getchar();
-            scanf("%[^\n]%*c", nome);            
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", nome);            
             struct Node *tmp;
             tmp = busca(Raiz, nome);
             devolverJogo(tmp);
@@ -104,8 +107,8 @@ if (entrada == NULL)
             }
         
         case 8:{ //Deletar um jogo
-            getchar();
-            scanf("%[^\n]%*c", nome);
+            fscanf(entrada, "%c");
+            fscanf(entrada,"%[^\n]%*c", nome);
             Raiz = deleteNode(Raiz, nome);
             break;
         }
@@ -122,6 +125,7 @@ if (entrada == NULL)
 
         default:{
             printf("\nOperação Inválida\n");
+            break;
         }
         
         }

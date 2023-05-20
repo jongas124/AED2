@@ -308,3 +308,12 @@ void devolverJogo(struct Node* jogo) {
         printf("Jogo nao encontrado\n");
     }
 }
+
+void impressaoTodos(struct Node* raiz){
+    if(raiz!=NULL){
+        impressaoTodos(raiz->Left);
+        printf("%s\n", raiz->nome);
+        impressaoTodos(raiz->Right);
+    }
+
+}

@@ -63,3 +63,6 @@ void alugarJogo(struct Node* jogo);
 
 // Função para devolver um jogo
 void devolverJogo(struct Node* jogo);
+
+//funçao para imprimir todos
+void impressaoTodos(struct Node* raiz);

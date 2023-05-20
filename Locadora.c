@@ -59,6 +59,7 @@ if (entrada == NULL)
             getchar();
             scanf("%[^\n]%*c", nome);            
             struct Node *tmp;
+            tmp = NULL;
             tmp = busca(Raiz, nome);
             impressaoJogo(tmp);
             break;
@@ -105,7 +106,7 @@ if (entrada == NULL)
         case 8:{ //Deletar um jogo
             getchar();
             scanf("%[^\n]%*c", nome);
-            deleteNode(Raiz, nome);
+            Raiz = deleteNode(Raiz, nome);
             break;
         }
 
@@ -143,16 +144,20 @@ printf("9: Mostrar Todos os Jogos\n");
 printf("0: Finalizar Aplicacao\n");
     scanf("%d", &opCode2);
 
-    printf("\n\n\tleu opcode %d\n", opCode2);
+    
     while(opCode2!=0){
         
         switch (opCode2){//Lendo operação a ser realizada
         case 1: // Adicionar Título
             {   
             getchar();
+            printf("(Nome do jogo) (Cod. Plataforma)\n");
             scanf("%[^\n]%*c", nome);
+            printf("(Genero)\n");
             scanf("%[^\n]%*c", genero);
+            printf("(Plataforma)\n");
             scanf("%[^\n]%*c", plataforma);
+            printf("(Ano)\n");
             scanf("%d", &ano);
             if(Raiz==NULL){
                 Raiz = malloc(sizeof(struct Node));
@@ -174,8 +179,9 @@ printf("0: Finalizar Aplicacao\n");
             }
         case 2:{ // Buscar Título
             getchar();
-            scanf("%[^\n]%*c", nome);            
+            scanf("%[^\n]%*c", nome);                        
             struct Node *tmp;
+            tmp = (struct Node*)malloc(sizeof(struct Node));
             tmp = busca(Raiz, nome);
             impressaoJogo(tmp);
             break;

@@ -112,20 +112,20 @@ struct Node* addNode(struct Node* raiz, char* nome, char* genero, char* platafor
 
 // Função para buscar um jogo específico
 struct Node* busca(struct Node* raiz, char* nome) {
-    if (raiz != NULL) {
-        if (strncmp(raiz->nome, nome, 60) == 0) {
+    if(raiz!=NULL){
+        if (strcmp(raiz->nome, nome) == 0) {
             return raiz;
         }
-        if (strncmp(raiz->nome, nome, 60) > 0) {
+        else if(strcmp(raiz->nome, nome) > 0){
             busca(raiz->Left, nome);
         }
-        if (strncmp(raiz->nome, nome, 60) < 0) {
+        else if (strcmp(raiz->nome, nome) < 0) {
             busca(raiz->Right, nome);
-        }
+        }        
     }
-    else
+    else{
         return NULL;
-
+    }
 }
 
 // Função para encontrar o nó com o valor mínimo em uma árvore
@@ -141,9 +141,9 @@ struct Node* deleteNode(struct Node* raiz, char* nome) {
     // Realiza a remoção como em uma árvore de busca binária
     if (raiz == NULL)
         return raiz;
-    if (strcmp(nome, raiz->nome) > 0)
+    if (strcmp(nome, raiz->nome) < 0)
         raiz->Left = deleteNode(raiz->Left, nome);
-    else if (strcmp(nome, raiz->nome) < 0)
+    else if (strcmp(nome, raiz->nome) > 0)
         raiz->Right = deleteNode(raiz->Right, nome);
     else {
         // O nó a ser removido foi encontrado

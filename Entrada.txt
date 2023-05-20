@@ -1,21 +1,21 @@
 1
-Assassin's Creed II PS3
-Ação-Aventura
+Assassins Creed II PS3
+Acao-Aventura
 PlayStation 3
 2009
 1
-Assassin's Creed II X360
-Ação-Aventura
+Assassins Creed II X360
+Acao-Aventura
 Xbox 360
 2009
 1
 Batman: Arkham Asylum PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Batman: Arkham Asylum X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2009
 1
@@ -50,12 +50,12 @@ Xbox 360
 2009
 1
 Grand Theft Auto: Episodes from Liberty City PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Grand Theft Auto: Episodes from Liberty City X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2009
 1
@@ -65,7 +65,7 @@ Xbox 360
 2009
 1
 Infamous PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
@@ -75,38 +75,38 @@ Xbox 360
 2009
 1
 Resident Evil 5 PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Resident Evil 5 X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2009
 1
 Uncharted 2: Among Thieves PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Borderlands PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2009
 1
 Borderlands X360
-RPG de ação
+RPG de acao
 Xbox 360
 2009
 1
 Bayonetta
-Ação
+Acao
 PlayStation 3
 
 2009
 1
 Bayonetta X360
-Ação
+Acao
 Xbox 360
 2009
 1
@@ -151,7 +151,7 @@ Xbox 360
 2009
 1
 God of War Collection PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
@@ -186,17 +186,17 @@ Xbox 360
 2009
 1
 Saints Row 2 PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Saints Row 2 X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2009
 1
 The Sims 3 PC
-Simulação de vida
+Simulacao de vida
 PC
 2009
 1
@@ -206,12 +206,12 @@ PlayStation 3
 2009
 1
 Batman: Arkham Asylum PC
-Ação-Aventura
+Acao-Aventura
 PC
 2009
 1
 The Sims 3: World Adventures PC
-Simulação de vida
+Simulacao de vida
 PC
 2009
 1
@@ -226,22 +226,22 @@ PC
 2009
 1
 Torchlight PC
-RPG de ação
+RPG de acao
 PC
 2009
 1
 Resident Evil 5 PC
-Ação-Aventura
+Acao-Aventura
 PC
 2009
 1
 Prototype PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2009
 1
 Prototype X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2009
 1
@@ -261,7 +261,7 @@ PC
 2009
 1
 Borderlands PC
-RPG de ação
+RPG de acao
 PC
 2009
 1
@@ -275,13 +275,13 @@ Esportes
 Xbox One
 2009
 1
-Assassin's Creed II XONE
-Ação-Aventura
+Assassins Creed II XONE
+Acao-Aventura
 Xbox One
 2009
 1
 Batman: Arkham Asylum XONE
-Ação-Aventura
+Acao-Aventura
 Xbox One
 2009
 1
@@ -300,13 +300,13 @@ Esportes
 PlayStation 4
 2009
 1
-Assassin's Creed II PS4
-Ação-Aventura
+Assassins Creed II PS4
+Acao-Aventura
 PlayStation 4
 2009
 1
 Batman: Arkham Asylum PS4
-Ação-Aventura
+Acao-Aventura
 PlayStation 4
 2009
 1
@@ -325,13 +325,13 @@ Esportes
 PlayStation 5
 2009
 1
-Assassin's Creed II PS5
-Ação-Aventura
+Assassins Creed II PS5
+Acao-Aventura
 PlayStation 5
 2009
 1
 Batman: Arkham Asylum PS5
-Ação-Aventura
+Acao-Aventura
 PlayStation 5
 2009
 1
@@ -366,17 +366,17 @@ PC
 2009
 1
 Borderlands PC
-RPG de ação
+RPG de acao
 PC
 2009
 1
 Resident Evil 5 PC
-Ação-Aventura
+Acao-Aventura
 PC
 2009
 1
 Prototype PC
-Ação-Aventura
+Acao-Aventura
 PC
 2009
 1
@@ -386,7 +386,7 @@ PC
 2009
 1
 Torchlight PC
-RPG de ação
+RPG de acao
 PC
 2009
 1
@@ -396,12 +396,12 @@ PC
 2009
 1
 Red Dead Redemption PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Red Dead Redemption X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
@@ -426,17 +426,17 @@ Xbox 360
 2010
 1
 Heavy Rain PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 God of War III PS3
-Ação
+Acao
 PlayStation 3
 2010
 1
 God of War III PS4
-Ação
+Acao
 PlayStation 4
 2010
 1
@@ -461,7 +461,7 @@ Xbox 360
 2010
 1
 Alan Wake X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
@@ -480,18 +480,18 @@ RPG
 Xbox 360
 2010
 1
-Assassin's Creed: Brotherhood PS3
-Ação/Aventura
+Assassins Creed: Brotherhood PS3
+Acao - Aventura
 PlayStation 3
 2010
 1
-Assassin's Creed: Brotherhood X360
-Ação/Aventura
+Assassins Creed: Brotherhood X360
+Acao - Aventura
 Xbox 360
 2010
 1
-Assassin's Creed: Brotherhood PC
-Ação/Aventura
+Assassins Creed: Brotherhood PC
+Acao - Aventura
 PC
 2010
 1
@@ -541,7 +541,7 @@ PC
 2010
 1
 StarCraft II: Wings of Liberty PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2010
 1
@@ -631,32 +631,32 @@ Xbox 360
 2010
 1
 Star Wars: The Force Unleashed II PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Star Wars: The Force Unleashed II X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
 Star Wars: The Force Unleashed II PC
-Ação/Aventura
+Acao - Aventura
 PC
 2010
 1
 Dead Rising 2 PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Dead Rising 2 X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
 Dead Rising 2 PC
-Ação/Aventura
+Acao - Aventura
 PC
 2010
 1
@@ -675,18 +675,18 @@ Tiro em primeira pessoa
 PC
 2010
 1
-Tom Clancy's Splinter Cell: Conviction X360
-Ação/Aventura
+Tom Clancys Splinter Cell: Conviction X360
+Acao - Aventura
 Xbox 360
 2010
 1
-Tom Clancy's Splinter Cell: Conviction PC
-Ação/Aventura
+Tom Clancys Splinter Cell: Conviction PC
+Acao - Aventura
 PC
 2010
 1
-Alan Wake's American Nightmare X360
-Ação/Aventura
+Alan Wakes American Nightmare X360
+Acao - Aventura
 Xbox 360
 2010
 1
@@ -736,47 +736,47 @@ PC
 2010
 1
 Castlevania: Lords of Shadow PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Castlevania: Lords of Shadow X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
 Castlevania: Lords of Shadow PC
-Ação/Aventura
+Acao - Aventura
 PC
 2010
 1
 Mafia II PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Mafia II X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
 Mafia II PC
-Aç�o/Aventura
+Ac�o - Aventura
 PC
 2010
 1
 Just Cause 2 PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2010
 1
 Just Cause 2 X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2010
 1
 Just Cause 2 PC
-Ação/Aventura
+Acao - Aventura
 PC
 2010
 1
@@ -825,18 +825,18 @@ Tiro em primeira pessoa
 PC
 2010
 1
-Mafia II: Joe's Adventures PS3
-Ação/Aventura
+Mafia II: Joes Adventures PS3
+Acao - Aventura
 PlayStation 3
 2010
 1
-Mafia II: Joe's Adventures X360
-Ação/Aventura
+Mafia II: Joes Adventures X360
+Acao - Aventura
 Xbox 360
 2010
 1
-Mafia II: Joe's Adventures PC
-Ação/Aventura
+Mafia II: Joes Adventures PC
+Acao - Aventura
 PC
 2010
 1
@@ -861,17 +861,17 @@ PC
 2010
 1
 Kane & Lynch 2: Dog Days PS3
-Ação
+Acao
 PlayStation 3
 2010
 1
 Kane & Lynch 2: Dog Days X360
-Ação
+Acao
 Xbox 360
 2010
 1
 Kane & Lynch 2: Dog Days PC
-Ação
+Acao
 PC
 2010
 1
@@ -891,22 +891,22 @@ PC
 2011
 1
 Batman: Arkham City PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2011
 1
 Batman: Arkham City X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2011
 1
 Batman: Arkham City PC
-Ação/Aventura
+Acao - Aventura
 PC
 2011
 1
-Uncharted 3: Drake's Deception PS3
-Ação/Aventura
+Uncharted 3: Drakes Deception PS3
+Acao - Aventura
 PlayStation 3
 2011
 1
@@ -946,77 +946,77 @@ PC
 2011
 1
 Portal 2 PS3
-Quebra-cabeça/Plataforma
+Quebra-cabeca - Plataforma
 PlayStation 3
 2011
 1
 Portal 2 X360
-Quebra-cabeça/Plataforma
+Quebra-cabeca - Plataforma
 Xbox 360
 2011
 1
 Portal 2 PC
-Quebra-cabeça/Plataforma
+Quebra-cabeca - Plataforma
 PC
 2011
 1
 Deus Ex: Human Revolution PS3
-RPG/Ação
+RPG - Acao
 PlayStation 3
 2011
 1
 Deus Ex: Human Revolution X360
-RPG/Ação
+RPG - Acao
 Xbox 360
 2011
 1
 Deus Ex: Human Revolution PC
-RPG/Ação
+RPG - Acao
 PC
 2011
 1
 Dark Souls PS3
-RPG/Ação
+RPG - Acao
 PlayStation 3
 2011
 1
 Dark Souls X360
-RPG/Ação
+RPG - Acao
 Xbox 360
 2011
 1
 Dark Souls PC
-RPG/Ação
+RPG - Acao
 PC
 2011
 1
 Saints Row: The Third PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2011
 1
 Saints Row: The Third X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2011
 1
 Saints Row: The Third PC
-Ação/Aventura
+Acao - Aventura
 PC
 2011
 1
-Assassin's Creed: Revelations PS3
-Ação/Aventura
+Assassins Creed: Revelations PS3
+Acao - Aventura
 PlayStation 3
 2011
 1
-Assassin's Creed: Revelations X360
-Ação/Aventura
+Assassins Creed: Revelations X360
+Acao - Aventura
 Xbox 360
 2011
 1
-Assassin's Creed: Revelations PC
-Ação/Aventura
+Assassins Creed: Revelations PC
+Acao - Aventura
 PC
 2011
 1
@@ -1146,7 +1146,7 @@ PC
 2011
 1
 Minecraft PC
-Sobrevivência
+Sobrevivencia
 PC
 2011
 1
@@ -1201,52 +1201,52 @@ PC
 2011
 1
 The Sims 3: Pets PS3
-Simulação
+Simulacao
 PlayStation 3
 2011
 1
 The Sims 3: Pets X360
-Simulação
+Simulacao
 Xbox 360
 2011
 1
 The Sims 3: Pets PC
-Simulação
+Simulacao
 PC
 2011
 1
 Saints Row: The Third - Gangstas in Space PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2011
 1
 Saints Row: The Third - Gangstas in Space X360
-Ação/Aventura
+Acao - Aventura
 Xbox 360
 2011
 1
 Saints Row: The Third - Gangstas in Space PC
-Ação/Aventura
+Acao - Aventura
 PC
 2011
 1
-WWE '12 PS3
+WWE 12 PS3
 Luta
 PlayStation 3
 2011
 1
-WWE '12 X360
+WWE 12 X360
 Luta
 Xbox 360
 2011
 1
-WWE '12 PC
+WWE 12 PC
 Luta
 PC
 2011
 1
 Infamous 2 PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2011
 1
@@ -1311,12 +1311,12 @@ PC
 2011
 1
 Just Dance 3 PS3
-Música
+Musica
 PlayStation 3
 2011
 1
 Just Dance 3 X360
-Música
+Musica
 Xbox 360
 2011
 1
@@ -1356,22 +1356,22 @@ PC
 2011
 1
 Anno 2070 PC
-Estratégia
+Estrategia
 PC
 2011
 1
-Assassin's Creed III PS3
-Ação-aventura
+Assassins Creed III PS3
+Acao-aventura
 PlayStation 3
 2012
 1
-Assassin's Creed III X360
-Ação-aventura
+Assassins Creed III X360
+Acao-aventura
 Xbox 360
 2012
 1
-Assassin's Creed III PC
-Ação-aventura
+Assassins Creed III PC
+Acao-aventura
 PC
 2012
 1
@@ -1406,32 +1406,32 @@ PC
 2012
 1
 Darksiders II PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2012
 1
 Darksiders II X360
-Ação-aventura
+Acao-aventura
 Xbox 360
 2012
 1
 Darksiders II PC
-Ação-aventura
+Acao-aventura
 PC
 2012
 1
 Dishonored PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2012
 1
 Dishonored X360
-Ação-aventura
+Acao-aventura
 Xbox 360
 2012
 1
 Dishonored PC
-Ação-aventura
+Acao-aventura
 PC
 2012
 1
@@ -1476,17 +1476,17 @@ PlayStation 3
 2012
 1
 Mass Effect 3 PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2012
 1
 Mass Effect 3 X360
-RPG de ação
+RPG de acao
 Xbox 360
 2012
 1
 Mass Effect 3 PC
-RPG de ação
+RPG de acao
 PC
 2012
 1
@@ -1551,57 +1551,57 @@ PC
 2012
 1
 Sleeping Dogs PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2012
 1
 Sleeping Dogs X360
-Ação-aventura
+Acao-aventura
 Xbox 360
 2012
 1
 Sleeping Dogs PC
-Ação-aventura
+Acao-aventura
 PC
 2012
 1
 The Elder Scrolls V: Skyrim PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2012
 1
 The Elder Scrolls V: Skyrim X360
-RPG de ação
+RPG de acao
 Xbox 360
 2012
 1
 The Elder Scrolls V: Skyrim PC
-RPG de ação
+RPG de acao
 PC
 2012
 1
 The Last of Us PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2012
 1
 XCOM: Enemy Unknown PS3
-Estratégia por turnos
+Estrategia por turnos
 PlayStation 3
 2012
 1
 XCOM: Enemy Unknown X360
-Estratégia por turnos
+Estrategia por turnos
 Xbox 360
 2012
 1
 XCOM: Enemy Unknown PC
-Estratégia por turnos
+Estrategia por turnos
 PC
 2012
 1
 Diablo III PC
-RPG de ação
+RPG de acao
 PC
 2012
 1
@@ -1611,12 +1611,12 @@ PC
 2012
 1
 Dishonored PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2012
 1
 Dishonored XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2012
 1
@@ -1666,12 +1666,12 @@ Xbox One
 2012
 1
 Mass Effect 3 PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2012
 1
 Mass Effect 3 XONE
-RPG de ação
+RPG de acao
 Xbox One
 2012
 1
@@ -1711,67 +1711,67 @@ PlayStation 4
 2012
 1
 BioShock Infinite PC
-Ação-Aventura
+Acao-Aventura
 PC
 2013
 1
 BioShock Infinite PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2013
 1
 BioShock Infinite X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2013
 1
 The Last of Us PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2013
 1
 Grand Theft Auto V PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2013
 1
 Grand Theft Auto V X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2013
 1
 Tomb Raider PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2013
 1
 Tomb Raider X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2013
 1
 Tomb Raider PC
-Ação-Aventura
+Acao-Aventura
 PC
 2013
 1
-Assassin's Creed IV: Black Flag PS3
-Ação-Aventura
+Assassins Creed IV: Black Flag PS3
+Acao-Aventura
 PlayStation 3
 2013
 1
-Assassin's Creed IV: Black Flag X360
-Ação-Aventura
+Assassins Creed IV: Black Flag X360
+Acao-Aventura
 Xbox 360
 2013
 1
-Assassin's Creed IV: Black Flag PC
-Ação-Aventura
+Assassins Creed IV: Black Flag PC
+Acao-Aventura
 PC
 2013
 1
-Assassin's Creed IV: Black Flag PS4
-Ação-Aventura
+Assassins Creed IV: Black Flag PS4
+Acao-Aventura
 PlayStation 4
 2013
 1
@@ -1855,18 +1855,18 @@ Esportes
 PlayStation 4
 2013
 1
-Assassin's Creed III PS3
-Ação-Aventura
+Assassins Creed III PS3
+Acao-Aventura
 PlayStation 3
 2013
 1
-Assassin's Creed III X360
-Ação-Aventura
+Assassins Creed III X360
+Acao-Aventura
 Xbox 360
 2013
 1
-Assassin's Creed III PC
-Ação-Aventura
+Assassins Creed III PC
+Acao-Aventura
 PC
 2013
 1
@@ -1941,32 +1941,32 @@ PlayStation 4
 2013
 1
 Diablo III PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2013
 1
 Diablo III X360
-RPG de ação
+RPG de acao
 Xbox 360
 2013
 1
 Diablo III PC
-RPG de ação
+RPG de acao
 PC
 2013
 1
 Diablo III: Reaper of Souls PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2013
 1
 Diablo III: Reaper of Souls X360
-RPG de ação
+RPG de acao
 Xbox 360
 2013
 1
 Diablo III: Reaper of Souls PC
-RPG de ação
+RPG de acao
 PC
 2013
 1
@@ -2051,42 +2051,42 @@ PlayStation 4
 2013
 1
 Dishonored PS3
-Ação-Aventura
+Acao-Aventura
 PlayStation 3
 2013
 1
 Dishonored X360
-Ação-Aventura
+Acao-Aventura
 Xbox 360
 2013
 1
 Dishonored PC
-Ação-Aventura
+Acao-Aventura
 PC
 2013
 1
 Dishonored PS4
-Ação-Aventura
+Acao-Aventura
 PlayStation 4
 2013
 1
 Dark Souls II PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2013
 1
 Dark Souls II X360
-RPG de ação
+RPG de acao
 Xbox 360
 2013
 1
 Dark Souls II PC
-RPG de ação
+RPG de acao
 PC
 2013
 1
 Dark Souls II PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2013
 1
@@ -2211,7 +2211,7 @@ PlayStation 4
 2015
 1
 Metal Gear Solid V: The Phantom Pain PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2221,7 +2221,7 @@ PlayStation 4
 2015
 1
 Bloodborne PS4
-Ação/RPG
+Acao - RPG
 PlayStation 4
 2015
 1
@@ -2231,7 +2231,7 @@ Xbox One
 2015
 1
 Batman: Arkham Knight PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2246,12 +2246,12 @@ PlayStation 4
 2015
 1
 Rise of the Tomb Raider XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2015
 1
-Assassin's Creed Syndicate PS4
-Ação/Aventura
+Assassins Creed Syndicate PS4
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2271,12 +2271,12 @@ PlayStation 4
 2015
 1
 Dying Light PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
 Until Dawn PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2291,7 +2291,7 @@ Xbox One
 2015
 1
 The Order: 1886 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2305,13 +2305,13 @@ RPG
 PlayStation 4
 2015
 1
-Tom Clancy's Rainbow Six Siege PS4
+Tom Clancys Rainbow Six Siege PS4
 Tiro em primeira pessoa
 PlayStation 4
 2015
 1
 Metal Gear Solid V: Ground Zeroes PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2321,12 +2321,12 @@ PlayStation 4
 2015
 1
 Just Cause 3 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
 Mad Max PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2356,7 +2356,7 @@ PlayStation 4
 2015
 1
 Grand Theft Auto V PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2376,7 +2376,7 @@ PlayStation 4
 2015
 1
 Diablo III: Reaper of Souls PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2015
 1
@@ -2386,7 +2386,7 @@ PlayStation 4
 2015
 1
 Watch Dogs PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2396,7 +2396,7 @@ PlayStation 4
 2015
 1
 Uncharted: The Nathan Drake Collection PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2421,7 +2421,7 @@ PlayStation 4
 2015
 1
 The Sims 4 PC
-Simulação de vida
+Simulacao de vida
 PC
 2015
 1
@@ -2430,7 +2430,7 @@ Tiro em terceira pessoa
 Xbox One
 2015
 1
-Tom Clancy's The Division 2 PS4
+Tom Clancys The Division 2 PS4
 RPG
 PlayStation 4
 2015
@@ -2441,12 +2441,12 @@ PlayStation 4
 2015
 1
 Borderlands: The Handsome Collection PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2015
 1
 Star Wars Jedi: Fallen Order PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2456,7 +2456,7 @@ PlayStation 4
 2015
 1
 Minecraft PC
-Sobrevivência
+Sobrevivencia
 PC
 2015
 1
@@ -2466,7 +2466,7 @@ PlayStation 4
 2015
 1
 Deus Ex: Mankind Divided PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2015
 1
@@ -2495,18 +2495,18 @@ Tiro em primeira pessoa
 PlayStation 4
 2015
 1
-Assassin's Creed IV: Black Flag PS4
-Ação/Aventura
+Assassins Creed IV: Black Flag PS4
+Acao - Aventura
 PlayStation 4
 2015
 1
-Mirror's Edge Catalyst PS4
-Ação/Aventura
+Mirrors Edge Catalyst PS4
+Acao - Aventura
 PlayStation 4
 2015
 1
 Dark Souls III PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2015
 1
@@ -2521,17 +2521,17 @@ PlayStation 4
 2015
 1
 Dishonored 2 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
 Middle-earth: Shadow of Mordor PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
 The Last of Us Remastered PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2540,8 +2540,8 @@ RPG
 PlayStation 4
 2015
 1
-Assassin's Creed Unity PS4
-Ação/Aventura
+Assassins Creed Unity PS4
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2551,7 +2551,7 @@ PlayStation 4
 2015
 1
 Batman: Arkham Origins PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
@@ -2566,11 +2566,11 @@ PlayStation 4
 2015
 1
 Ghost of Tsushima PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
-Tom Clancy's Ghost Recon Wildlands PS4
+Tom Clancys Ghost Recon Wildlands PS4
 Tiro em terceira pessoa
 PlayStation 4
 2015
@@ -2581,12 +2581,12 @@ PlayStation 4
 2015
 1
 StarCraft II: Legacy of the Void PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2015
 1
 Grand Theft Auto: San Andreas PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2015
 1
@@ -2596,12 +2596,12 @@ PlayStation 4
 2015
 1
 Saints Row IV PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2015
 1
-Assassin's Creed Rogue PS3
-Ação/Aventura
+Assassins Creed Rogue PS3
+Acao - Aventura
 PlayStation 3
 2015
 1
@@ -2616,7 +2616,7 @@ PC
 2015
 1
 Batman: Arkham City PS3
-Ação/Aventura
+Acao - Aventura
 PlayStation 3
 2015
 1
@@ -2636,16 +2636,16 @@ PlayStation 4
 2015
 1
 Diablo III PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2015
 1
 Horizon Zero Dawn PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
-PlayerUnknown's Battlegrounds PC
+PlayerUnknowns Battlegrounds PC
 Battle Royale
 PC
 2017
@@ -2666,12 +2666,12 @@ PlayStation 4
 2017
 1
 Nier: Automata PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
-Assassin's Creed Origins PS4
-Ação/Aventura
+Assassins Creed Origins PS4
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -2701,7 +2701,7 @@ PlayStation 4
 2017
 1
 Uncharted: The Lost Legacy PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -2716,11 +2716,11 @@ PlayStation 4
 2017
 1
 Middle-earth: Shadow of War PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
-Tom Clancy's Ghost Recon Wildlands PS4
+Tom Clancys Ghost Recon Wildlands PS4
 Tiro em terceira pessoa
 PlayStation 4
 2017
@@ -2751,17 +2751,17 @@ PC
 2017
 1
 Stardew Valley PC
-Simulação
+Simulacao
 PC
 2017
 1
-Tom Clancy's The Division PS4
+Tom Clancys The Division PS4
 Tiro em terceira pessoa
 PlayStation 4
 2017
 1
 Yakuza 0 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -2796,12 +2796,12 @@ PlayStation 4
 2017
 1
 Dishonored: Death of the Outsider PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
 NieR Replicant ver.1.22474487139... PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2810,13 +2810,13 @@ Tiro
 PlayStation 4
 2017
 1
-Hellblade: Senua's Sacrifice PS4
-Ação/Aventura
+Hellblade: Senuas Sacrifice PS4
+Acao - Aventura
 PlayStation 4
 2017
 1
 Nioh PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2831,7 +2831,7 @@ PlayStation 4
 2017
 1
 ARK: Survival Evolved PC
-Sobrevivência
+Sobrevivencia
 PC
 2017
 1
@@ -2875,7 +2875,7 @@ Tiro em terceira pessoa
 PlayStation 4
 2017
 1
-Tom Clancy's Rainbow Six Siege PC
+Tom Clancys Rainbow Six Siege PC
 Tiro em equipe
 PC
 2017
@@ -2886,7 +2886,7 @@ PlayStation 4
 2017
 1
 Dark Souls III: The Ringed City PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2901,7 +2901,7 @@ PlayStation 4
 2017
 1
 The Surge PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2921,7 +2921,7 @@ PlayStation 4
 2017
 1
 Diablo III: Rise of the Necromancer PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2931,7 +2931,7 @@ PlayStation 4
 2017
 1
 Final Fantasy XV: Episode Prompto PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2945,8 +2945,8 @@ Luta
 PlayStation 4
 2017
 1
-Dragon's Dogma: Dark Arisen PS4
-RPG de Ação
+Dragons Dogma: Dark Arisen PS4
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2956,7 +2956,7 @@ PlayStation 4
 2017
 1
 The Witcher 3: Wild Hunt - Blood and Wine PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
@@ -2971,7 +2971,7 @@ PC
 2017
 1
 The Elder Scrolls: Legends PC
-Estratégia
+Estrategia
 PC
 2017
 1
@@ -2981,12 +2981,12 @@ PlayStation 4
 2017
 1
 Kingdom Hearts HD 1.5 + 2.5 Remix PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
 LEGO Marvel Super Heroes 2 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -3001,22 +3001,22 @@ PlayStation 4
 2017
 1
 Final Fantasy XV: Comrades PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
 Hitman: The Complete First Season PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
 Cities: Skylines PS4
-Simulação
+Simulacao
 PlayStation 4
 2017
 1
 Watch Dogs 2 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -3026,7 +3026,7 @@ PlayStation 4
 2017
 1
 Middle-earth: Shadow of War - The Blade of Galadriel PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -3036,7 +3036,7 @@ PlayStation 4
 2017
 1
 LEGO City Undercover PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -3046,12 +3046,12 @@ PlayStation 4
 2017
 1
 Final Fantasy XV: Episode Ignis PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2017
 1
 Agents of Mayhem PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2017
 1
@@ -3061,7 +3061,7 @@ PlayStation 4
 2017
 1
 The Sims 4 PS4
-Simulação
+Simulacao
 PlayStation 4
 2017
 1
@@ -3070,7 +3070,7 @@ Aventura Gráfica
 PlayStation 4
 2017
 1
-Marvel's Guardians of the Galaxy: The Telltale Series PS4
+Marvels Guardians of the Galaxy: The Telltale Series PS4
 Aventura Gráfica
 PlayStation 4
 2017
@@ -3091,7 +3091,7 @@ PlayStation 4
 2017
 1
 Sekiro: Shadows Die Twice PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2019
 1
@@ -3106,12 +3106,12 @@ PlayStation 4
 2019
 1
 Death Stranding PS4
-Ação
+Acao
 PlayStation 4
 2019
 1
 Control PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2019
 1
@@ -3125,8 +3125,8 @@ RPG de tiro
 PlayStation 4
 2019
 1
-Tom Clancy's The Division 2 PS4
-RPG de ação
+Tom Clancys The Division 2 PS4
+RPG de acao
 PlayStation 4
 2019
 1
@@ -3146,7 +3146,7 @@ PlayStation 4
 2019
 1
 Star Wars Jedi: Fallen Order PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2019
 1
@@ -3191,7 +3191,7 @@ PlayStation 4
 2019
 1
 Anthem PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2019
 1
@@ -3206,12 +3206,12 @@ PlayStation 4
 2019
 1
 A Plague Tale: Innocence PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2019
 1
 Days Gone PS4
-Ação-aventura
+Acao-aventura
 PlayStation 4
 2019
 1
@@ -3225,18 +3225,18 @@ Tiro em primeira pessoa
 PlayStation 4
 2019
 1
-Assassin's Creed Odyssey PS4
-RPG de ação
+Assassins Creed Odyssey PS4
+RPG de acao
 PlayStation 4
 2019
 1
 Kingdom Hearts III PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2019
 1
 The Division 2 PC
-RPG de ação
+RPG de acao
 PC
 2019
 1
@@ -3251,7 +3251,7 @@ PC
 2019
 1
 Control PC
-Ação-aventura
+Acao-aventura
 PC
 2019
 1
@@ -3261,7 +3261,7 @@ PC
 2019
 1
 Sekiro: Shadows Die Twice PC
-Ação-aventura
+Acao-aventura
 PC
 2019
 1
@@ -3276,7 +3276,7 @@ PC
 2019
 1
 Death Stranding PC
-Ação
+Acao
 PC
 2019
 1
@@ -3286,12 +3286,12 @@ PC
 2019
 1
 Star Wars Jedi: Fallen Order PC
-Ação-aventura
+Acao-aventura
 PC
 2019
 1
-Tom Clancy's The Division 2 PC
-RPG de ação
+Tom Clancys The Division 2 PC
+RPG de acao
 PC
 2019
 1
@@ -3321,12 +3321,12 @@ PC
 2019
 1
 A Plague Tale: Innocence PC
-Ação-aventura
+Acao-aventura
 PC
 2019
 1
 Days Gone PC
-Ação-aventura
+Acao-aventura
 PC
 2019
 1
@@ -3355,8 +3355,8 @@ Corrida
 PlayStation 4
 2019
 1
-The Legend of Zelda: Link's Awakening PC
-Ação-aventura
+The Legend of Zelda: Links Awakening PC
+Acao-aventura
 PC
 2019
 1
@@ -3366,7 +3366,7 @@ PC
 2019
 1
 Anthem PC
-RPG de ação
+RPG de acao
 PC
 2019
 1
@@ -3380,18 +3380,18 @@ Tiro em primeira pessoa
 Xbox One
 2019
 1
-Assassin's Creed Odyssey XONE
-RPG de ação
+Assassins Creed Odyssey XONE
+RPG de acao
 Xbox One
 2019
 1
 Kingdom Hearts III XONE
-RPG de ação
+RPG de acao
 Xbox One
 2019
 1
 The Division 2 XONE
-RPG de ação
+RPG de acao
 Xbox One
 2019
 1
@@ -3406,7 +3406,7 @@ Xbox One
 2019
 1
 Control XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2019
 1
@@ -3416,7 +3416,7 @@ Xbox One
 2019
 1
 Sekiro: Shadows Die Twice XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2019
 1
@@ -3431,7 +3431,7 @@ Xbox One
 2019
 1
 Death Stranding XONE
-Ação
+Acao
 Xbox One
 2019
 1
@@ -3441,12 +3441,12 @@ Xbox One
 2019
 1
 Star Wars Jedi: Fallen Order XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2019
 1
-Tom Clancy's The Division 2 XONE
-RPG de ação
+Tom Clancys The Division 2 XONE
+RPG de acao
 Xbox One
 2019
 1
@@ -3476,12 +3476,12 @@ Xbox One
 2019
 1
 A Plague Tale: Innocence XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2019
 1
 Days Gone XONE
-Ação-aventura
+Acao-aventura
 Xbox One
 2019
 1
@@ -3520,18 +3520,18 @@ Tiro em primeira pessoa
 PlayStation 3
 2019
 1
-Assassin's Creed Odyssey PS3
-RPG de ação
+Assassins Creed Odyssey PS3
+RPG de acao
 PlayStation 3
 2019
 1
 Kingdom Hearts III PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2019
 1
 The Division 2 PS3
-RPG de ação
+RPG de acao
 PlayStation 3
 2019
 1
@@ -3541,7 +3541,7 @@ PlayStation 3
 2019
 1
 Control PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2019
 1
@@ -3551,7 +3551,7 @@ PlayStation 3
 2019
 1
 Sekiro: Shadows Die Twice PS3
-Ação-aventura
+Acao-aventura
 PlayStation 3
 2019
 1
@@ -3640,27 +3640,27 @@ Survival Horror
 PC
 2021
 1
-Assassin's Creed Valhalla PS4
+Assassins Creed Valhalla PS4
 Action-Adventure
 PlayStation 4
 2021
 1
-Assassin's Creed Valhalla PS5
+Assassins Creed Valhalla PS5
 Action-Adventure
 PlayStation 5
 2021
 1
-Assassin's Creed Valhalla XONE
+Assassins Creed Valhalla XONE
 Action-Adventure
 Xbox One
 2021
 1
-Assassin's Creed Valhalla XSE
+Assassins Creed Valhalla XSE
 Action-Adventure
 Xbox Series
 2021
 1
-Assassin's Creed Valhalla PC
+Assassins Creed Valhalla PC
 Action-Adventure
 PC
 2021
@@ -3690,7 +3690,7 @@ Survival Horror
 PC
 2020
 1
-Demon's Souls PS5
+Demons Souls PS5
 Action RPG
 PlayStation 5
 2020
@@ -3710,17 +3710,17 @@ Action-Adventure
 PC
 2020
 1
-Marvel's Spider-Man: Miles Morales PS4
+Marvels Spider-Man: Miles Morales PS4
 Action-Adventure
 PlayStation 4
 2020
 1
-Marvel's Spider-Man: Miles Morales PS5
+Marvels Spider-Man: Miles Morales PS5
 Action-Adventure
 PlayStation 5
 2020
 1
-Marvel's Spider-Man: Miles Morales PC
+Marvels Spider-Man: Miles Morales PC
 Action-Adventure
 PC
 2020
@@ -4036,12 +4036,12 @@ PC
 2021
 1
 The Last of Us Part II PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
 Cyberpunk 2077 PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
@@ -4051,12 +4051,12 @@ PlayStation 4
 2020
 1
 Final Fantasy VII Remake PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
 Ghost of Tsushima PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
@@ -4071,52 +4071,52 @@ PC
 2020
 1
 Streets of Rage 4 PS4
-Beat 'em up
+Beat em up
 PlayStation 4
 2020
 1
 Resident Evil 3 PS4
-Sobrevivência de Terror
+Sobrevivencia de Terror
 PlayStation 4
 2020
 1
 Minecraft Dungeons XONE
-RPG de Ação
+RPG de Acao
 Xbox One
 2020
 1
 Gears Tactics PC
-Estratégia em Turnos
+Estrategia em Turnos
 PC
 2020
 1
 Nioh 2 PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
 Watch Dogs: Legion PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
-Tony Hawk's Pro Skater 1+2 PS4
+Tony Hawks Pro Skater 1+2 PS4
 Esportes Radicais
 PlayStation 4
 2020
 1
 Star Wars Jedi: Fallen Order PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
-Marvel's Avengers PS4
-Ação e Aventura
+Marvels Avengers PS4
+Acao e Aventura
 PlayStation 4
 2020
 1
-Assassin's Creed Valhalla PS4
-RPG de Ação
+Assassins Creed Valhalla PS4
+RPG de Acao
 PlayStation 4
 2020
 1
@@ -4125,8 +4125,8 @@ RPG
 PlayStation 4
 2020
 1
-Demon's Souls PS5
-RPG de Ação
+Demons Souls PS5
+RPG de Acao
 PlayStation 5
 2020
 1
@@ -4135,13 +4135,13 @@ Roguelike
 PC
 2020
 1
-Crash Bandicoot 4: It's About Time PS4
+Crash Bandicoot 4: Its About Time PS4
 Plataforma
 PlayStation 4
 2020
 1
 Resident Evil Resistance PS4
-Sobrevivência de Terror
+Sobrevivencia de Terror
 PlayStation 4
 2020
 1
@@ -4160,38 +4160,38 @@ RPG
 PC
 2020
 1
-Marvel's Iron Man VR PS4
-Ação
+Marvels Iron Man VR PS4
+Acao
 PlayStation 4
 2020
 1
 Star Wars: Squadrons PS4
-Simulação de Voo
+Simulacao de Voo
 PlayStation 4
 2020
 1
 Carrion PC
-Ação
+Acao
 PC
 2020
 1
 Borderlands 3 PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
 Resident Evil Resistance PC
-Sobrevivência de Terror
+Sobrevivencia de Terror
 PC
 2020
 1
 Death Stranding PC
-Ação
+Acao
 PC
 2020
 1
 Minecraft Dungeons PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
@@ -4206,12 +4206,12 @@ PC
 2020
 1
 Mafia: Definitive Edition PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
 Microsoft Flight Simulator PC
-Simulação de Voo
+Simulacao de Voo
 PC
 2020
 1
@@ -4221,27 +4221,27 @@ PC
 2020
 1
 Grounded PC
-Sobrevivência
+Sobrevivencia
 PC
 2020
 1
 Desperados III PC
-Estratégia em Tempo Real
+Estrategia em Tempo Real
 PC
 2020
 1
 Crusader Kings III PC
-Estratégia
+Estrategia
 PC
 2020
 1
 Destroy All Humans! PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
 Resident Evil 3 PC
-Sobrevivência de Terror
+Sobrevivencia de Terror
 PC
 2020
 1
@@ -4256,26 +4256,26 @@ PC
 2020
 1
 Final Fantasy Crystal Chronicles Remastered Edition PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
 Ghost of Tsushima PS5
-Ação e Aventura
+Acao e Aventura
 PlayStation 5
 2020
 1
 Hellpoint PS4
-RPG de Ação
+RPG de Acao
 PlayStation 4
 2020
 1
 The Wonderful 101: Remastered PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2020
 1
-Tony Hawk's Pro Skater 1+2 XONE
+Tony Hawks Pro Skater 1+2 XONE
 Esportes Radicais
 Xbox One
 2020
@@ -4291,22 +4291,22 @@ Xbox One
 2020
 1
 Star Wars Jedi: Fallen Order XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2020
 1
 Watch Dogs: Legion XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2020
 1
-Marvel's Avengers XONE
-Ação e Aventura
+Marvels Avengers XONE
+Acao e Aventura
 Xbox One
 2020
 1
-Assassin's Creed Valhalla XSE
-RPG de Ação
+Assassins Creed Valhalla XSE
+RPG de Acao
 Xbox Series
 2020
 1
@@ -4315,28 +4315,28 @@ Plataforma
 PC
 2020
 1
-Tony Hawk's Pro Skater 1+2 PC
+Tony Hawks Pro Skater 1+2 PC
 Esportes Radicais
 PC
 2020
 1
 Minecraft Dungeons PC
-RPG de Ação
+RPG de Acao
 PC
 2020
 1
 Gears Tactics XSE
-Estratégia em Turnos
+Estrategia em Turnos
 Xbox Series
 2020
 1
 The Last of Us Part II PS3
-Ação e Aventura
+Acao e Aventura
 PlayStation 3
 2020
 1
 Cyberpunk 2077 PC
-RPG de Ação
+RPG de Acao
 PC
 2020
 1
@@ -4346,67 +4346,67 @@ Xbox One
 2020
 1
 Final Fantasy VII Remake PS3
-RPG de Ação
+RPG de Acao
 PlayStation 3
 2020
 1
 Ghost of Tsushima PS3
-Ação e Aventura
+Acao e Aventura
 PlayStation 3
 2020
 1
 Streets of Rage 4 XONE
-Beat 'em up
+Beat em up
 Xbox One
 2020
 1
 Resident Evil 3 XONE
-Sobrevivência de Terror
+Sobrevivencia de Terror
 Xbox One
 2020
 1
 Nioh 2 PS3
-RPG de Ação
+RPG de Acao
 PlayStation 3
 2020
 1
 Watch Dogs: Legion PS3
-Ação e Aventura
+Acao e Aventura
 PlayStation 3
 2020
 1
-Tony Hawk's Pro Skater 1+2 PS3
+Tony Hawks Pro Skater 1+2 PS3
 Esportes Radicais
 PlayStation 3
 2020
 1
 Star Wars Jedi: Fallen Order PS3
-Ação e Aventura
+Acao e Aventura
 PlayStation 3
 2020
 1
-Marvel's Avengers PS3
-Ação e Aventura
+Marvels Avengers PS3
+Acao e Aventura
 PlayStation 3
 2020
 1
-Assassin's Creed Valhalla PS3
-RPG de Ação
+Assassins Creed Valhalla PS3
+RPG de Acao
 PlayStation 3
 2020
 1
-Demon's Souls PS3
-RPG de Ação
+Demons Souls PS3
+RPG de Acao
 PlayStation 3
 2020
 1
 The Last of Us Part II PS2
-Ação e Aventura
+Acao e Aventura
 PlayStation 2
 2020
 1
 Cyberpunk 2077 XSE
-RPG de Ação
+RPG de Acao
 Xbox Series
 2020
 1
@@ -4416,62 +4416,62 @@ Xbox Series
 2020
 1
 Final Fantasy VII Remake XSE
-RPG de Ação
+RPG de Acao
 Xbox Series
 2020
 1
 Ghost of Tsushima XSE
-Ação e Aventura
+Acao e Aventura
 Xbox Series
 2020
 1
 Streets of Rage 4 XSE
-Beat 'em up
+Beat em up
 Xbox Series
 2020
 1
 Resident Evil 3 XSE
-Sobrevivência de Terror
+Sobrevivencia de Terror
 Xbox Series
 2020
 1
 Nioh 2 XSE
-RPG de Ação
+RPG de Acao
 Xbox Series
 2020
 1
 Watch Dogs: Legion XSE
-Ação e Aventura
+Acao e Aventura
 Xbox Series
 2020
 1
-Tony Hawk's Pro Skater 1+2 XSE
+Tony Hawks Pro Skater 1+2 XSE
 Esportes Radicais
 Xbox Series
 2020
 1
 Star Wars Jedi: Fallen Order XSE
-Ação e Aventura
+Acao e Aventura
 Xbox Series
 2020
 1
-Marvel's Avengers XSE
-Ação e Aventura
+Marvels Avengers XSE
+Acao e Aventura
 Xbox Series
 2020
 1
-Assassin's Creed Valhalla XONE
-RPG de Ação
+Assassins Creed Valhalla XONE
+RPG de Acao
 Xbox One
 2020
 1
-Demon's Souls XONE
-RPG de Ação
+Demons Souls XONE
+RPG de Acao
 Xbox One
 2020
 1
 The Last of Us Part II PS5
-Ação e Aventura
+Acao e Aventura
 PlayStation 5
 2020
 1
@@ -4481,72 +4481,72 @@ PlayStation 5
 2020
 1
 Final Fantasy VII Remake PS5
-RPG de Ação
+RPG de Acao
 PlayStation 5
 2020
 1
 Ghost of Tsushima PS5
-Ação e Aventura
+Acao e Aventura
 PlayStation 5
 2020
 1
 Streets of Rage 4 PS5
-Beat 'em up
+Beat em up
 PlayStation 5
 2020
 1
 Resident Evil 3 PS5
-Sobrevivência de Terror
+Sobrevivencia de Terror
 PlayStation 5
 2020
 1
 Nioh 2 PS5
-RPG de Ação
+RPG de Acao
 PlayStation 5
 2020
 1
 Watch Dogs: Legion PS5
-Ação e Aventura
+Acao e Aventura
 PlayStation 5
 2020
 1
-Tony Hawk's Pro Skater 1+2 PS5
+Tony Hawks Pro Skater 1+2 PS5
 Esportes Radicais
 PlayStation 5
 2020
 1
 Star Wars Jedi: Fallen Order PS5
-Ação e Aventura
+Acao e Aventura
 PlayStation 5
 2020
 1
-Marvel's Avengers PS5
-Ação e Aventura
+Marvels Avengers PS5
+Acao e Aventura
 PlayStation 5
 2020
 1
-Assassin's Creed Valhalla PS5
-RPG de Ação
+Assassins Creed Valhalla PS5
+RPG de Acao
 PlayStation 5
 2020
 1
 God of War PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 Red Dead Redemption 2 PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 Spider-Man PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
-Assassin's Creed Odyssey PS4
-Ação e Aventura
+Assassins Creed Odyssey PS4
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4556,7 +4556,7 @@ PlayStation 4
 2018
 1
 Shadow of the Tomb Raider PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4581,7 +4581,7 @@ PlayStation 4
 2018
 1
 Detroit: Become Human PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4611,11 +4611,11 @@ Xbox One
 2018
 1
 Sea of Thieves XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2018
 1
-PlayerUnknown's Battlegrounds (PUBG) XONE
+PlayerUnknowns Battlegrounds (PUBG) XONE
 Battle Royale
 Xbox One
 2018
@@ -4646,37 +4646,37 @@ PlayStation 4
 2018
 1
 Shadow of the Colossus PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 A Way Out PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 Sekiro: Shadows Die Twice PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 Resident Evil 2 Remake PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
-Marvel's Spider-Man PS4
-Ação e Aventura
+Marvels Spider-Man PS4
+Acao e Aventura
 PlayStation 4
 2018
 1
 Hitman 2 PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 Just Cause 4 PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4686,7 +4686,7 @@ PlayStation 4
 2018
 1
 Shadow of the Tomb Raider PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4711,7 +4711,7 @@ PlayStation 4
 2018
 1
 Detroit: Become Human PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
@@ -4746,11 +4746,11 @@ Xbox One
 2018
 1
 Sea of Thieves XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2018
 1
-PlayerUnknown's Battlegrounds (PUBG) XONE
+PlayerUnknowns Battlegrounds (PUBG) XONE
 Battle Royale
 Xbox One
 2018
@@ -4781,37 +4781,37 @@ PC
 2018
 1
 Shadow of the Colossus PS4
-Ação e Aventura
+Acao e Aventura
 PlayStation 4
 2018
 1
 A Way Out PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
 Sekiro: Shadows Die Twice PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
 Resident Evil 2 Remake PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
-Marvel's Spider-Man PC
-Ação e Aventura
+Marvels Spider-Man PC
+Acao e Aventura
 PC
 2018
 1
 Hitman 2 PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
 Just Cause 4 PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
@@ -4821,7 +4821,7 @@ PlayStation 4
 2018
 1
 Shadow of the Tomb Raider PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
@@ -4846,7 +4846,7 @@ PC
 2018
 1
 Detroit: Become Human PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
@@ -4865,8 +4865,8 @@ Esportes
 PC
 2018
 1
-Assassin's Creed Odyssey PC
-Ação e Aventura
+Assassins Creed Odyssey PC
+Acao e Aventura
 PC
 2018
 1
@@ -4896,7 +4896,7 @@ Xbox One
 2018
 1
 Detroit: Become Human XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2018
 1
@@ -4931,11 +4931,11 @@ PC
 2018
 1
 Sea of Thieves PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
-PlayerUnknown's Battlegrounds (PUBG) PC
+PlayerUnknowns Battlegrounds (PUBG) PC
 Battle Royale
 PC
 2018
@@ -4946,7 +4946,7 @@ Xbox One
 2018
 1
 The Legend of Zelda: Breath of the Wild PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
@@ -4981,17 +4981,17 @@ Xbox One
 2018
 1
 Shadow of the Colossus PC
-Ação e Aventura
+Acao e Aventura
 PC
 2018
 1
 A Way Out XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2018
 1
 Sekiro: Shadows Die Twice XONE
-Ação e Aventura
+Acao e Aventura
 Xbox One
 2018
 1
@@ -5010,38 +5010,38 @@ FPS
 PC
 2016
 1
-Uncharted 4: A Thief's End PS4
-Ação/Aventura
+Uncharted 4: A Thiefs End PS4
+Acao - Aventura
 PlayStation 4
 2016
 1
 Dark Souls III PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2016
 1
 Dark Souls III XONE
-RPG de ação
+RPG de acao
 Xbox One
 2016
 1
 Dark Souls III PC
-RPG de ação
+RPG de acao
 PC
 2016
 1
 The Witcher 3: Wild Hunt - Blood and Wine PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2016
 1
 The Witcher 3: Wild Hunt - Blood and Wine XONE
-RPG de ação
+RPG de acao
 Xbox One
 2016
 1
 The Witcher 3: Wild Hunt - Blood and Wine PC
-RPG de ação
+RPG de acao
 PC
 2016
 1
@@ -5076,17 +5076,17 @@ PC
 2016
 1
 Final Fantasy XV PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2016
 1
 Final Fantasy XV XONE
-RPG de ação
+RPG de acao
 Xbox One
 2016
 1
 Final Fantasy XV PC
-RPG de ação
+RPG de acao
 PC
 2016
 1
@@ -5106,17 +5106,17 @@ PC
 2016
 1
 Watch Dogs 2 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2016
 1
 Watch Dogs 2 XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2016
 1
 Watch Dogs 2 PC
-Ação/Aventura
+Acao - Aventura
 PC
 2016
 1
@@ -5136,17 +5136,17 @@ PC
 2016
 1
 Dishonored 2 PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2016
 1
 Dishonored 2 XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2016
 1
 Dishonored 2 PC
-Ação/Aventura
+Acao - Aventura
 PC
 2016
 1
@@ -5186,37 +5186,37 @@ PC
 2016
 1
 Deus Ex: Mankind Divided PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2016
 1
 Deus Ex: Mankind Divided XONE
-RPG de ação
+RPG de acao
 Xbox One
 2016
 1
 Deus Ex: Mankind Divided PC
-RPG de ação
+RPG de acao
 PC
 2016
 1
 Mafia III PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2016
 1
 Mafia III XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2016
 1
 Mafia III PC
-Ação/Aventura
+Acao - Aventura
 PC
 2016
 1
 The Last Guardian PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2016
 1
@@ -5241,62 +5241,62 @@ PlayStation 4
 2016
 1
 Dragon Age: Inquisition PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2014
 1
 Dragon Age: Inquisition XONE
-RPG de ação
+RPG de acao
 Xbox One
 2014
 1
 Dragon Age: Inquisition PC
-RPG de ação
+RPG de acao
 PC
 2014
 1
 Grand Theft Auto V PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2014
 1
 Grand Theft Auto V XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2014
 1
 Grand Theft Auto V PC
-Ação/Aventura
+Acao - Aventura
 PC
 2014
 1
 The Witcher 3: Wild Hunt PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2014
 1
 The Witcher 3: Wild Hunt XONE
-RPG de ação
+RPG de acao
 Xbox One
 2014
 1
 The Witcher 3: Wild Hunt PC
-RPG de ação
+RPG de acao
 PC
 2014
 1
 Middle-earth: Shadow of Mordor PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2014
 1
 Middle-earth: Shadow of Mordor XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2014
 1
 Middle-earth: Shadow of Mordor PC
-Ação/Aventura
+Acao - Aventura
 PC
 2014
 1
@@ -5316,47 +5316,47 @@ PC
 2014
 1
 Destiny PS4
-FPS/MMO
+FPS - MMO
 PlayStation 4
 2014
 1
 Destiny XONE
-FPS/MMO
+FPS - MMO
 Xbox One
 2014
 1
 Destiny PC
-FPS/MMO
+FPS - MMO
 PC
 2014
 1
-Assassin's Creed Unity PS4
-Ação/Aventura
+Assassins Creed Unity PS4
+Acao - Aventura
 PlayStation 4
 2014
 1
-Assassin's Creed Unity XONE
-Ação/Aventura
+Assassins Creed Unity XONE
+Acao - Aventura
 Xbox One
 2014
 1
-Assassin's Creed Unity PC
-Ação/Aventura
+Assassins Creed Unity PC
+Acao - Aventura
 PC
 2014
 1
 Watch Dogs PS4
-Ação/Aventura
+Acao - Aventura
 PlayStation 4
 2014
 1
 Watch Dogs XONE
-Ação/Aventura
+Acao - Aventura
 Xbox One
 2014
 1
 Watch Dogs PC
-Ação/Aventura
+Acao - Aventura
 PC
 2014
 1
@@ -5401,22 +5401,22 @@ PC
 2014
 1
 The Sims 4 PC
-Simulação de vida
+Simulacao de vida
 PC
 2014
 1
 Diablo III: Reaper of Souls PS4
-RPG de ação
+RPG de acao
 PlayStation 4
 2014
 1
 Diablo III: Reaper of Souls XONE
-RPG de ação
+RPG de acao
 Xbox One
 2014
 1
 Diablo III: Reaper of Souls PC
-RPG de ação
+RPG de acao
 PC
 2014
 1
@@ -5436,17 +5436,17 @@ PC
 2014
 1
 Borderlands: The Pre-Sequel PS4
-FPS/RPG
+FPS - RPG
 PlayStation 4
 2014
 1
 Borderlands: The Pre-Sequel XONE
-FPS/RPG
+FPS - RPG
 Xbox One
 2014
 1
 Borderlands: The Pre-Sequel PC
-FPS/RPG
+FPS - RPG
 PC
 2014
 1
@@ -5476,17 +5476,17 @@ PlayStation 4
 2014
 1
 Deus Ex PC
-RPG de ação
+RPG de acao
 PC
 2000
 1
 Diablo II PC
-RPG de ação
+RPG de acao
 PC
 2000
 1
 The Sims PC
-Simulação de vida
+Simulacao de vida
 PC
 2000
 1
@@ -5495,13 +5495,13 @@ RPG
 PlayStation 1
 2000
 1
-Tony Hawk's Pro Skater 2 PS1
+Tony Hawks Pro Skater 2 PS1
 Esportes
 PlayStation 1
 2000
 1
 Grand Theft Auto III PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2001
 1
@@ -5516,22 +5516,22 @@ PlayStation 2
 2001
 1
 Metal Gear Solid 2: Sons of Liberty PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2001
 1
 Grand Theft Auto: Vice City PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2002
 1
 The Elder Scrolls III: Morrowind PC
-RPG de ação
+RPG de acao
 PC
 2002
 1
 Warcraft III: Reign of Chaos PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2002
 1
@@ -5541,17 +5541,17 @@ PC
 2002
 1
 Kingdom Hearts PS2
-RPG de ação
+RPG de acao
 PlayStation 2
 2002
 1
-Tom Clancy's Ghost Recon PC
+Tom Clancys Ghost Recon PC
 Tiro tático
 PC
 2002
 1
 Prince of Persia: The Sands of Time PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2003
 1
@@ -5571,7 +5571,7 @@ PC
 2003
 1
 Beyond Good & Evil PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2003
 1
@@ -5586,17 +5586,17 @@ PlayStation 2
 2003
 1
 Command & Conquer: Generals PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2003
 1
 Freelancer PC
-Simulação de espaço
+Simulacao de espaco
 PC
 2003
 1
 The Simpsons: Hit & Run PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2003
 1
@@ -5611,11 +5611,11 @@ PC
 2002
 1
 Devil May Cry PS2
-Ação
+Acao
 PlayStation 2
 2001
 1
-Baldur's Gate II: Shadows of Amn PC
+Baldurs Gate II: Shadows of Amn PC
 RPG
 PC
 2000
@@ -5631,7 +5631,7 @@ PC
 2004
 1
 Age of Mythology PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2002
 1
@@ -5646,7 +5646,7 @@ PlayStation 2
 2004
 1
 Jak II PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2003
 1
@@ -5671,7 +5671,7 @@ PlayStation 2
 2004
 1
 Metal Gear Solid 3: Snake Eater PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
@@ -5695,7 +5695,7 @@ Esportes
 PlayStation 2
 2003
 1
-Tony Hawk's Pro Skater 3 PS2
+Tony Hawks Pro Skater 3 PS2
 Esportes
 PlayStation 2
 2001
@@ -5706,7 +5706,7 @@ PC
 2004
 1
 Rome: Total War PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2004
 1
@@ -5716,32 +5716,32 @@ PlayStation 2
 2004
 1
 The Sims 2 PC
-Simulação de vida
+Simulacao de vida
 PC
 2004
 1
 Jak 3 PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
-Tony Hawk's Underground 2 PS2
+Tony Hawks Underground 2 PS2
 Esportes
 PlayStation 2
 2004
 1
 Grand Theft Auto: San Andreas PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
 Splinter Cell: Pandora Tomorrow PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
 Prince of Persia: The Two Thrones PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2005
 1
@@ -5756,7 +5756,7 @@ PC
 2004
 1
 Spider-Man 2 PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
@@ -5766,12 +5766,12 @@ PlayStation 2
 2005
 1
 The Elder Scrolls IV: Oblivion PC
-RPG de ação
+RPG de acao
 PC
 2006
 1
 God of War PS2
-Ação
+Acao
 PlayStation 2
 2005
 1
@@ -5786,7 +5786,7 @@ PlayStation 2
 2004
 1
 Kingdom Hearts II PS2
-RPG de ação
+RPG de acao
 PlayStation 2
 2005
 1
@@ -5800,7 +5800,7 @@ Corrida
 PlayStation 2
 2005
 1
-Tony Hawk's Underground PS2
+Tony Hawks Underground PS2
 Esportes
 PlayStation 2
 2003
@@ -5811,7 +5811,7 @@ PlayStation 2
 2002
 1
 Star Wars: The Force Unleashed PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2008
 1
@@ -5821,7 +5821,7 @@ PC
 2005
 1
 Psychonauts PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2005
 1
@@ -5846,7 +5846,7 @@ PlayStation 2
 2001
 1
 The Elder Scrolls III: Bloodmoon PC
-RPG de ação
+RPG de acao
 PC
 2003
 1
@@ -5881,27 +5881,27 @@ PlayStation 2
 2006
 1
 Prince of Persia: Warrior Within PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
-The Sims: Bustin' Out PS2
-Simulação de vida
+The Sims: Bustin Out PS2
+Simulacao de vida
 PlayStation 2
 2003
 1
-Tom Clancy's Splinter Cell PS2
-Ação/Aventura
+Tom Clancys Splinter Cell PS2
+Acao - Aventura
 PlayStation 2
 2003
 1
-Tom Clancy's Splinter Cell: Chaos Theory PS2
-Ação/Aventura
+Tom Clancys Splinter Cell: Chaos Theory PS2
+Acao - Aventura
 PlayStation 2
 2005
 1
 Age of Empires II: The Age of Kings PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1999
 1
@@ -5936,7 +5936,7 @@ PlayStation 2
 2004
 1
 Star Wars: Jedi Starfighter PS2
-Simulação de voo
+Simulacao de voo
 PlayStation 2
 2002
 1
@@ -5945,13 +5945,13 @@ Esportes
 PlayStation 2
 2006
 1
-Tony Hawk's Pro Skater 4 PS2
+Tony Hawks Pro Skater 4 PS2
 Esportes
 PlayStation 2
 2002
 1
 The Sims 3 PC
-Simulação de vida
+Simulacao de vida
 PC
 2009
 1
@@ -5961,7 +5961,7 @@ PlayStation 3
 2012
 1
 Spider-Man: The Movie PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2002
 1
@@ -5970,7 +5970,7 @@ Survival Horror
 PlayStation 2
 2003
 1
-Tom Clancy's Ghost Recon 2 PS2
+Tom Clancys Ghost Recon 2 PS2
 Tiro tático
 PlayStation 2
 2004
@@ -5981,7 +5981,7 @@ PlayStation 2
 2002
 1
 Ace Combat 5: The Unsung War PS2
-Simulação de voo
+Simulacao de voo
 PlayStation 2
 2004
 1
@@ -6025,28 +6025,28 @@ Corrida
 PlayStation 2
 2001
 1
-Tony Hawk's American Wasteland PS2
+Tony Hawks American Wasteland PS2
 Esportes
 PlayStation 2
 2005
 1
 Spider-Man 2 PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2004
 1
 Metal Gear Solid 2: Substance PS2
-Ação/Aventura
+Acao - Aventura
 PlayStation 2
 2002
 1
 The Sims 2: Pets PS2
-Simulação de vida
+Simulacao de vida
 PlayStation 2
 2006
 1
-Tom Clancy's Splinter Cell: Double Agent PS2
-Ação/Aventura
+Tom Clancys Splinter Cell: Double Agent PS2
+Acao - Aventura
 PlayStation 2
 2006
 1
@@ -6066,27 +6066,27 @@ PlayStation 1
 1997
 1
 Age of Empires PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1997
 1
 Tomb Raider II PS1
-Ação-aventura
+Acao-aventura
 PlayStation 1
 1997
 1
 Grand Theft Auto PC
-Ação-aventura
+Acao-aventura
 PC
 1997
 1
-Oddworld: Abe's Oddysee PS1
+Oddworld: Abes Oddysee PS1
 Plataforma
 PlayStation 1
 1997
 1
 Diablo PC
-RPG de ação
+RPG de acao
 PC
 1997
 1
@@ -6101,7 +6101,7 @@ PC
 1997
 1
 Age of Empires: The Rise of Rome PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1998
 1
@@ -6121,7 +6121,7 @@ PlayStation 1
 1998
 1
 StarCraft PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1998
 1
@@ -6131,11 +6131,11 @@ PC
 1998
 1
 Metal Gear Solid PS1
-Stealth, ação-aventura
+Stealth, acao-aventura
 PlayStation 1
 1998
 1
-Baldur's Gate PC
+Baldurs Gate PC
 RPG
 PC
 1998
@@ -6161,7 +6161,7 @@ PC
 1998
 1
 Command & Conquer: Red Alert PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1998
 1
@@ -6186,11 +6186,11 @@ PC
 1999
 1
 Age of Empires II: The Age of Kings PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 1999
 1
-Tony Hawk's Pro Skater PS1
+Tony Hawks Pro Skater PS1
 Esportes
 PlayStation 1
 1999
@@ -6201,7 +6201,7 @@ PlayStation 1
 1999
 1
 System Shock 2 PC
-RPG de ação
+RPG de acao
 PC
 1999
 1
@@ -6211,36 +6211,36 @@ PlayStation 1
 1999
 1
 Grand Theft Auto 2 PC
-Ação-aventura
+Acao-aventura
 PC
 1999
 1
 Warcraft III: Reign of Chaos PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2002
 1
 Age of Empires II: The Conquerors PC
-Estratégia em tempo real
+Estrategia em tempo real
 PC
 2000
 1
 The Sims PC
-Simulação de vida
+Simulacao de vida
 PC
 2000
 1
 Deus Ex PC
-RPG de ação
+RPG de acao
 PC
 2000
 1
 Diablo II PC
-RPG de ação
+RPG de acao
 PC
 2000
 1
-Tony Hawk's Pro Skater 2 PS1
+Tony Hawks Pro Skater 2 PS1
 Esportes
 PlayStation 1
 2000
@@ -6261,7 +6261,7 @@ PC
 2001
 1
 Spider-Man PS1
-Ação-aventura
+Acao-aventura
 PlayStation 1
 2000
 1

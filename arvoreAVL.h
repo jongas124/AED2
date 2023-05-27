@@ -13,6 +13,8 @@ typedef struct Node
     int anoLanc;
 }Node;
 
+#include "./arvoreAVL.c"
+
 //Funções de Árvore
 
   // Função para calcular a altura de um nó

@@ -13,8 +13,6 @@ int cont=1;
 FILE *entrada;
 int main(){
 
-
-
 entrada = fopen("./Entrada.txt", "r");
 
 if (entrada == NULL)
